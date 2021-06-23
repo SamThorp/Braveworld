@@ -2300,3 +2300,121 @@ MainCharacter_C.ReceiveBeginPlay
 [2021.06.23-14.51.19:061][315]AssetCheck: New page: Asset Save: Tutorial
 [2021.06.23-14.51.19:062][315]LogContentValidation: Display: Validating World /Game/Levels/Tutorial/Tutorial.Tutorial
 [2021.06.23-14.51.22:673][378]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.23-14.52.09:953][511]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.23-14.52.43:564][612]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.23-14.53.11:952][696]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.23-14.55.38:063][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
+[2021.06.23-14.55.46:099][213]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.23-14.56.18:207][226]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-14.56.18:225][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-14.56.18:226][226]PIE: New page: PIE session: Tutorial (23 Jun 2021, 16:56:18)
+[2021.06.23-14.56.18:226][226]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2021.06.23-14.56.18:228][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001816s)
+[2021.06.23-14.56.18:229][226]LogAIModule: Creating AISystem for world Tutorial
+[2021.06.23-14.56.18:230][226]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2021.06.23-14.56.18:230][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.003767s)
+[2021.06.23-14.56.18:318][226]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2021.06.23-14.56.18:324][226]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.06.23-14.56.18:324][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-14.56.18:324][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-14.56.18:324][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-14.56.18:324][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-14.56.18:325][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-14.56.18:325][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-14.56.18:325][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-14.56.18:325][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-14.56.18:325][226]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-14.56.18:326][226]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-14.56.18:353][226]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-14.56.18:353][226]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-14.56.18:402][226]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.23-14.56.18:403][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-14.56.18:403][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-14.56.18:403][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-14.56.18:412][226]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-14.56.18:413][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-14.56.18:413][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-14.56.18:435][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-14.56.18:436][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-14.56.18:436][226]LogInit: FAudioDevice initialized.
+[2021.06.23-14.56.18:436][226]LogAudio: Display: Audio Device (ID: 11) registered with world 'Tutorial'.
+[2021.06.23-14.56.18:456][226]LogLoad: Game class is 'TrueGame_C'
+[2021.06.23-14.56.18:470][226]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2021.06.23-15.56.18
+[2021.06.23-14.56.18:471][226]LogWorld: Bringing up level for play took: 0.001020
+[2021.06.23-14.56.18:471][226]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.23-14.56.18:486][226]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2021.06.23-14.56.18:489][226]PIE: Server logged in
+[2021.06.23-14.56.18:491][226]PIE: Play in editor total start time 0.271 seconds.
+[2021.06.23-14.56.28:710][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-14.56.28:710][832]LogWorld: BeginTearingDown for /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2021.06.23-14.56.28:710][832]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.56.28:711][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.56.28:725][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-14.56.28:731][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.56.28:785][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-14.56.28:786][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-14.56.28:787][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-14.56.28:819][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-14.56.28:825][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.06.23-14.56.28:859][833]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.23-14.56.28:924][833]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.06.23-14.56.37:900][240]BlueprintLog: New page: Compile MainCharacter
+[2021.06.23-14.56.38:104][240]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2021.06.23-14.56.42:735][455]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-14.56.42:751][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-14.56.42:751][455]PIE: New page: PIE session: Tutorial (23 Jun 2021, 16:56:42)
+[2021.06.23-14.56.42:752][455]LogPlayLevel: Creating play world package: /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2021.06.23-14.56.42:754][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001908s)
+[2021.06.23-14.56.42:755][455]LogAIModule: Creating AISystem for world Tutorial
+[2021.06.23-14.56.42:756][455]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2021.06.23-14.56.42:756][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial/Tutorial.Tutorial to /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial (0.004426s)
+[2021.06.23-14.56.42:848][455]LogUObjectHash: Compacting FUObjectHashTables data took   8.48ms
+[2021.06.23-14.56.42:850][455]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-14.56.42:850][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-14.56.42:850][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-14.56.42:851][455]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-14.56.42:851][455]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-14.56.42:870][455]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-14.56.42:870][455]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-14.56.43:063][455]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.23-14.56.43:063][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-14.56.43:064][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-14.56.43:064][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-14.56.43:065][455]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-14.56.43:065][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-14.56.43:065][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-14.56.43:077][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-14.56.43:077][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-14.56.43:077][455]LogInit: FAudioDevice initialized.
+[2021.06.23-14.56.43:077][455]LogAudio: Display: Audio Device (ID: 12) registered with world 'Tutorial'.
+[2021.06.23-14.56.43:093][455]LogLoad: Game class is 'TrueGame_C'
+[2021.06.23-14.56.43:105][455]LogWorld: Bringing World /Game/Levels/Tutorial/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2021.06.23-15.56.43
+[2021.06.23-14.56.43:105][455]LogWorld: Bringing up level for play took: 0.000806
+[2021.06.23-14.56.43:105][455]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.06.23-14.56.43:118][455]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2021.06.23-14.56.43:121][455]PIE: Server logged in
+[2021.06.23-14.56.43:122][455]PIE: Play in editor total start time 0.376 seconds.
+[2021.06.23-14.56.43:169][456]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094878 > MaxSimulationTimeStep (0.050) for 'MainCharacter_C_0', movement 'Walking'
+[2021.06.23-14.56.54:331][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-14.56.54:331][142]LogWorld: BeginTearingDown for /Game/Levels/Tutorial/UEDPIE_0_Tutorial
+[2021.06.23-14.56.54:332][142]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.56.54:332][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.56.54:353][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-14.56.54:362][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.56.54:418][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-14.56.54:419][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-14.56.54:420][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-14.56.54:451][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-14.56.54:461][142]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2021.06.23-14.56.54:501][143]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.23-14.56.54:563][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.06.23-14.56.56:509][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.06.23-14.56.56:935][241]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/MainCharacter5FB87ED049D3668C7AB77F9403357D3F.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/MainCharacter.uasset'
+[2021.06.23-14.56.56:962][241]AssetCheck: New page: Asset Save: MainCharacter
+[2021.06.23-14.56.56:962][241]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
