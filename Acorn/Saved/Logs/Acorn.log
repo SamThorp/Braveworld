@@ -2418,3 +2418,193 @@ MainCharacter_C.ReceiveBeginPlay
 [2021.06.23-14.56.56:935][241]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/MainCharacter5FB87ED049D3668C7AB77F9403357D3F.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/MainCharacter.uasset'
 [2021.06.23-14.56.56:962][241]AssetCheck: New page: Asset Save: MainCharacter
 [2021.06.23-14.56.56:962][241]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
+[2021.06.23-14.57.28:826][439]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.23-14.58.40:901][408]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.23-14.58.40:930][408]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.23-14.58.54:843][431]LogContentBrowser: Attempting asset rename: NewFolder -> TD_WindSeed
+[2021.06.23-14.58.54:844][431]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.23-14.58.59:582][732]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.06.23-14.58.59:606][732]LogContentBrowser: Creating deferred item: NewWorld
+[2021.06.23-14.59.12:728][704]LogContentBrowser: Attempting asset rename: NewWorld -> TD_WindSeed_O
+[2021.06.23-14.59.12:734][704]LogContentBrowser: End creating deferred item NewWorld
+[2021.06.23-14.59.17:700][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.06.23-14.59.18:904][ 13]LogSlate: Window 'Save Content' being destroyed
+[2021.06.23-14.59.19:033][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.06.23-14.59.19:042][ 13]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_WindSeed_O620C6C9E42D35CDEAA2B39884BADDB39.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_O.umap'
+[2021.06.23-14.59.19:045][ 13]LogFileHelpers: Saving map 'TD_WindSeed_O' took 0.083
+[2021.06.23-14.59.19:105][ 13]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TD_WindSeed/TD_WindSeed_O.TD_WindSeed_O
+[2021.06.23-14.59.19:105][ 13]Cmd: MAP LOAD FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_O.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-14.59.19:105][ 13]LightingResults: New page: Lighting Build
+[2021.06.23-14.59.19:105][ 13]LoadErrors: New page: Loading map: TD_WindSeed_O.umap
+[2021.06.23-14.59.19:107][ 13]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.59.19:107][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.59.19:108][ 13]LogWorld: UWorld::CleanupWorld for TutoriaBO, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.59.19:108][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.59.19:108][ 13]LogWorld: UWorld::CleanupWorld for TutorialArt, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.59.19:108][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.59.19:108][ 13]LogWorld: UWorld::CleanupWorld for TutorailLights, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.59.19:108][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.59.19:108][ 13]LogWorld: UWorld::CleanupWorld for TutorailMecahnics, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.59.19:108][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.59.19:109][ 13]MapCheck: New page: Map Check
+[2021.06.23-14.59.19:109][ 13]LightingResults: New page: Lighting Build
+[2021.06.23-14.59.19:178][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-14.59.19:187][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2021.06.23-14.59.19:248][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.06.23-14.59.19:304][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.06.23-14.59.19:307][ 13]LogAudio: Display: Audio Device (ID: 1) registered with world 'TD_WindSeed_O'.
+[2021.06.23-14.59.19:308][ 13]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-14.59.19:309][ 13]LogAIModule: Creating AISystem for world TD_WindSeed_O
+[2021.06.23-14.59.19:364][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.06.23-14.59.19:372][ 13]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-14.59.19:372][ 13]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.346ms to complete.
+[2021.06.23-14.59.19:373][ 13]LogFileHelpers: Loading map 'TD_WindSeed_O' took 0.268
+[2021.06.23-14.59.19:400][ 13]AssetCheck: New page: Asset Save: TD_WindSeed_O
+[2021.06.23-14.59.19:400][ 13]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_O.TD_WindSeed_O
+[2021.06.23-14.59.19:466][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.06.23-14.59.25:624][349]LogActorFactory: Actor Factory created Cube
+[2021.06.23-14.59.26:170][371]LogActorFactory: Actor Factory created Cube
+[2021.06.23-14.59.39:256][ 93]LogEditorViewport: Clicking Background
+[2021.06.23-14.59.43:573][377]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-14.59.43:573][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-14.59.51:635][766]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.00.05:495][766]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.00.05:617][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.06.23-15.00.05:628][766]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_WindSeed_BOAC2C49A2422669BA8EF70BB99FF1E298.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_BO.umap'
+[2021.06.23-15.00.05:639][766]LogFileHelpers: Saving map 'TD_WindSeed_BO' took 0.129
+[2021.06.23-15.00.05:698][766]AssetCheck: New page: Asset Save: TD_WindSeed_BO
+[2021.06.23-15.00.05:698][766]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_BO.TD_WindSeed_BO
+[2021.06.23-15.00.10:879][ 73]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.00.17:895][ 73]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.00.17:995][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.06.23-15.00.18:003][ 73]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_WindSeed_Art83AB34134EDFE9C2C9A317A98682E722.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_Art.umap'
+[2021.06.23-15.00.18:012][ 73]LogFileHelpers: Saving map 'TD_WindSeed_Art' took 0.102
+[2021.06.23-15.00.18:058][ 73]AssetCheck: New page: Asset Save: TD_WindSeed_Art
+[2021.06.23-15.00.18:059][ 73]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_Art.TD_WindSeed_Art
+[2021.06.23-15.00.24:550][508]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.00.34:159][508]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.00.34:265][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.06.23-15.00.34:272][508]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_WindSeed_Lights05D4FCF7416224413EDD379A0B89E96F.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_Lights.umap'
+[2021.06.23-15.00.34:282][508]LogFileHelpers: Saving map 'TD_WindSeed_Lights' took 0.109
+[2021.06.23-15.00.34:333][508]AssetCheck: New page: Asset Save: TD_WindSeed_Lights
+[2021.06.23-15.00.34:333][508]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_Lights.TD_WindSeed_Lights
+[2021.06.23-15.00.39:672][814]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.00.50:275][814]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.00.50:380][814]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2021.06.23-15.00.50:386][814]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_WindSeed_Mechanics5451229146F92912B1C05099DA739081.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_Mechanics.umap'
+[2021.06.23-15.00.50:395][814]LogFileHelpers: Saving map 'TD_WindSeed_Mechanics' took 0.106
+[2021.06.23-15.00.50:449][814]AssetCheck: New page: Asset Save: TD_WindSeed_Mechanics
+[2021.06.23-15.00.50:449][814]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_Mechanics.TD_WindSeed_Mechanics
+[2021.06.23-15.00.59:636][502]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.23-15.00.59:659][502]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.23-15.01.10:416][496]LogContentBrowser: Attempting asset rename: NewFolder -> TD_RabbitMask
+[2021.06.23-15.01.10:416][496]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.23-15.01.15:103][870]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.06.23-15.01.15:122][870]LogContentBrowser: Creating deferred item: NewWorld
+[2021.06.23-15.01.24:332][714]LogContentBrowser: Attempting asset rename: NewWorld -> TD_RabbitMask_O
+[2021.06.23-15.01.24:335][714]LogContentBrowser: End creating deferred item NewWorld
+[2021.06.23-15.01.26:152][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.06.23-15.01.27:360][864]LogSlate: Window 'Save Content' being destroyed
+[2021.06.23-15.01.27:450][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.06.23-15.01.27:454][864]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_OED667A7D466EBBE9C772219DD70B0201.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_O.umap'
+[2021.06.23-15.01.27:459][864]LogFileHelpers: Saving map 'TD_RabbitMask_O' took 0.058
+[2021.06.23-15.01.27:521][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.23-15.01.27:528][864]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_WindSeed_OF6E6FFC041ABAFCB30450D9CACBABEDF.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_O.umap'
+[2021.06.23-15.01.27:542][864]LogFileHelpers: Saving map 'TD_WindSeed_O' took 0.083
+[2021.06.23-15.01.27:586][864]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TD_RabbitMask/TD_RabbitMask_O.TD_RabbitMask_O
+[2021.06.23-15.01.27:586][864]Cmd: MAP LOAD FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_O.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-15.01.27:586][864]LightingResults: New page: Lighting Build
+[2021.06.23-15.01.27:586][864]LoadErrors: New page: Loading map: TD_RabbitMask_O.umap
+[2021.06.23-15.01.27:610][864]LogWorld: UWorld::CleanupWorld for TD_WindSeed_O, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.01.27:610][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.01.27:610][864]LogWorld: UWorld::CleanupWorld for TD_WindSeed_BO, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.01.27:611][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.01.27:611][864]LogWorld: UWorld::CleanupWorld for TD_WindSeed_Art, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.01.27:611][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.01.27:611][864]LogWorld: UWorld::CleanupWorld for TD_WindSeed_Lights, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.01.27:611][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.01.27:611][864]LogWorld: UWorld::CleanupWorld for TD_WindSeed_Mechanics, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-15.01.27:611][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-15.01.27:612][864]MapCheck: New page: Map Check
+[2021.06.23-15.01.27:612][864]LightingResults: New page: Lighting Build
+[2021.06.23-15.01.27:656][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-15.01.27:662][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.06.23-15.01.27:663][864]LogAudio: Display: Audio Device (ID: 1) registered with world 'TD_RabbitMask_O'.
+[2021.06.23-15.01.27:664][864]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-15.01.27:664][864]LogAIModule: Creating AISystem for world TD_RabbitMask_O
+[2021.06.23-15.01.27:722][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.06.23-15.01.27:730][864]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-15.01.27:730][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.272ms to complete.
+[2021.06.23-15.01.27:731][864]LogFileHelpers: Loading map 'TD_RabbitMask_O' took 0.145
+[2021.06.23-15.01.27:762][864]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-15.01.27:762][864]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_O.TD_RabbitMask_O
+[2021.06.23-15.01.27:762][864]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_O.TD_WindSeed_O
+[2021.06.23-15.01.27:836][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.06.23-15.01.30:217][ 48]LogActorFactory: Actor Factory created Cube
+[2021.06.23-15.01.30:963][ 96]LogActorFactory: Actor Factory created Cube
+[2021.06.23-15.01.46:349][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.23-15.01.47:787][322]LogEditorViewport: Clicking Background
+[2021.06.23-15.02.09:372][667]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.02.18:653][667]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.02.18:763][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.06.23-15.02.18:778][667]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_BOA3B211C44F40B2350200E09C55175BA7.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_BO.umap'
+[2021.06.23-15.02.18:790][667]LogFileHelpers: Saving map 'TD_RabbitMask_BO' took 0.125
+[2021.06.23-15.02.18:851][667]AssetCheck: New page: Asset Save: TD_RabbitMask_BO
+[2021.06.23-15.02.18:851][667]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_BO.TD_RabbitMask_BO
+[2021.06.23-15.02.23:260][927]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.02.29:927][927]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.02.30:038][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.06.23-15.02.30:047][927]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_Art4E0CE0DB45ECA58E0726248A45905B34.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Art.umap'
+[2021.06.23-15.02.30:055][927]LogFileHelpers: Saving map 'TD_RabbitMask_Art' took 0.112
+[2021.06.23-15.02.30:107][927]AssetCheck: New page: Asset Save: TD_RabbitMask_Art
+[2021.06.23-15.02.30:108][927]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Art.TD_RabbitMask_Art
+[2021.06.23-15.02.33:445][109]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.02.39:967][109]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.02.40:074][109]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.06.23-15.02.40:078][109]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_Lights03074B3940EE9CF74B10E8BDC7C53D49.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Lights.umap'
+[2021.06.23-15.02.40:090][109]LogFileHelpers: Saving map 'TD_RabbitMask_Lights' took 0.111
+[2021.06.23-15.02.40:138][109]AssetCheck: New page: Asset Save: TD_RabbitMask_Lights
+[2021.06.23-15.02.40:138][109]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Lights.TD_RabbitMask_Lights
+[2021.06.23-15.02.44:080][319]LogSlate: Window 'New Level' being destroyed
+[2021.06.23-15.03.08:068][319]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.23-15.03.08:166][319]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2021.06.23-15.03.08:170][319]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_Mechanics05DEAA1243252531974B9199D35C8262.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Mechanics.umap'
+[2021.06.23-15.03.08:179][319]LogFileHelpers: Saving map 'TD_RabbitMask_Mechanics' took 0.095
+[2021.06.23-15.03.08:229][319]AssetCheck: New page: Asset Save: TD_RabbitMask_Mechanics
+[2021.06.23-15.03.08:229][319]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Mechanics.TD_RabbitMask_Mechanics
+[2021.06.23-15.03.45:692][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.06.23-15.03.45:703][434]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_Art57A782914E2C3147550A2E9A374B2385.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Art.umap'
+[2021.06.23-15.03.45:770][434]AssetCheck: New page: Asset Save: TD_RabbitMask_Art
+[2021.06.23-15.03.45:770][434]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Art.TD_RabbitMask_Art
+[2021.06.23-15.03.49:068][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.06.23-15.03.49:072][631]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_BO4143A2F145811391ADC81E995BBA4A8B.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_BO.umap'
+[2021.06.23-15.03.49:140][631]AssetCheck: New page: Asset Save: TD_RabbitMask_BO
+[2021.06.23-15.03.49:140][631]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_BO.TD_RabbitMask_BO
+[2021.06.23-15.03.52:245][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.06.23-15.03.52:250][818]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_LightsCC77942D436CC92FF29BE68F03BF1A75.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Lights.umap'
+[2021.06.23-15.03.52:324][818]AssetCheck: New page: Asset Save: TD_RabbitMask_Lights
+[2021.06.23-15.03.52:324][818]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Lights.TD_RabbitMask_Lights
+[2021.06.23-15.03.55:288][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.06.23-15.03.55:291][989]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_MechanicsF4A5BE964673035630C8AD95B07EA455.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Mechanics.umap'
+[2021.06.23-15.03.55:347][989]AssetCheck: New page: Asset Save: TD_RabbitMask_Mechanics
+[2021.06.23-15.03.55:347][989]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Mechanics.TD_RabbitMask_Mechanics
+[2021.06.23-15.04.13:621][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.06.23-15.04.13:634][489]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_O91BBFD1649BD9B0CEF7CB9BE04135F8C.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_O.umap'
+[2021.06.23-15.04.13:667][489]AssetCheck: New page: Asset Save: TD_RabbitMask_O
+[2021.06.23-15.04.13:667][489]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_O.TD_RabbitMask_O
+[2021.06.23-15.04.14:137][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.06.23-15.04.14:142][518]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_ArtF495B99A45BC639612B811962F23F9F1.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Art.umap'
+[2021.06.23-15.04.14:170][518]AssetCheck: New page: Asset Save: TD_RabbitMask_Art
+[2021.06.23-15.04.14:170][518]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Art.TD_RabbitMask_Art
+[2021.06.23-15.04.14:583][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.06.23-15.04.14:586][544]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_BOF738D9BC4E8DC0FEF241769978E4EF9F.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_BO.umap'
+[2021.06.23-15.04.14:613][544]AssetCheck: New page: Asset Save: TD_RabbitMask_BO
+[2021.06.23-15.04.14:613][544]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_BO.TD_RabbitMask_BO
+[2021.06.23-15.04.15:063][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.06.23-15.04.15:067][571]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_Lights26C644EC45320F26B4CE55B861A13CCF.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Lights.umap'
+[2021.06.23-15.04.15:097][571]AssetCheck: New page: Asset Save: TD_RabbitMask_Lights
+[2021.06.23-15.04.15:097][571]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Lights.TD_RabbitMask_Lights
+[2021.06.23-15.04.15:560][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.06.23-15.04.15:564][594]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/TD_RabbitMask_Mechanics409ECED545E7AB8A7A81A38034AC22D9.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/TD_RabbitMask/TD_RabbitMask_Mechanics.umap'
+[2021.06.23-15.04.15:583][594]AssetCheck: New page: Asset Save: TD_RabbitMask_Mechanics
+[2021.06.23-15.04.15:583][594]LogContentValidation: Display: Validating World /Game/Levels/TD_RabbitMask/TD_RabbitMask_Mechanics.TD_RabbitMask_Mechanics
