@@ -72,3 +72,15 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Acorn/Config/
+
+Acorn/Content/Blueprints/
+
+Acorn/Intermediate/AssetRegistryCache/2c8d847f.bin
+
+Acorn/Intermediate/AssetRegistryCache/8aafacfe.bin
+
+Acorn/Intermediate/AssetRegistryCache/c36c8202.bin
+
+Acorn/Intermediate/CachedAssetRegistry.bin
