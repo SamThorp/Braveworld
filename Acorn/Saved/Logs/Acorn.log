@@ -1,19 +1,34 @@
+<<<<<<< HEAD
 ﻿Log file open, 06/28/21 16:49:35
+=======
+﻿Log file open, 06/28/21 19:59:30
+>>>>>>> main
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: Acorn
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.229486
+=======
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.249214
+>>>>>>> main
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+=======
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+>>>>>>> main
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
@@ -38,6 +53,7 @@ LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
@@ -94,10 +110,15 @@ LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
-LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ChunkDownloader
+=======
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+>>>>>>> main
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GooglePAD
@@ -207,6 +228,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
@@ -8143,3 +8165,1411 @@ Script Stack (0 frames):
 [2021.06.28-19.09.57:717][931]LogD3D11RHI: CleanupD3DDevice
 [2021.06.28-19.09.57:737][931]LogExit: Exiting.
 [2021.06.28-19.09.57:744][931]Log file closed, 06/28/21 20:09:57
+=======
+[2021.06.28-18.59.33:596][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.28-18.59.33:596][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.28-18.59.33:596][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:596][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.28-18.59.33:596][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.06.28-18.59.33:596][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:596][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.28-18.59.33:597][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.28-18.59.33:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:598][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:708][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.28-18.59.33:708][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.28-18.59.33:709][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.28-18.59.33:710][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.28-18.59.33:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.28-18.59.33:712][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.28-18.59.33:712][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.28-18.59.33:712][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.28-18.59.33:713][  0]LogHAL: Display: Platform has ~ 16 GB [17144922112 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.28-18.59.33:713][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.28-18.59.33:713][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:713][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.28-18.59.33:713][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.28-18.59.33:713][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:713][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.28-18.59.33:713][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:713][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.28-18.59.33:713][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.28-18.59.33:713][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.28-18.59.33:714][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.28-18.59.33:715][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.28-18.59.33:716][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.28-18.59.33:717][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.28-18.59.33:718][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.28-18.59.33:718][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.28-18.59.33:718][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.28-18.59.33:718][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-18.59.33:718][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Config/Windows/Editor.ini]
+[2021.06.28-18.59.33:719][  0]LogInit: Computer: DESKTOP-9VABONM
+[2021.06.28-18.59.33:719][  0]LogInit: User: Willow
+[2021.06.28-18.59.33:719][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.06.28-18.59.33:719][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2021.06.28-18.59.33:719][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.06.28-18.59.33:719][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.28-18.59.33:720][  0]LogMemory: Process Physical Memory: 132.89 MB used, 132.89 MB peak
+[2021.06.28-18.59.33:720][  0]LogMemory: Process Virtual Memory: 115.56 MB used, 115.56 MB peak
+[2021.06.28-18.59.33:720][  0]LogMemory: Physical Memory: 4177.34 MB used,  12173.34 MB free, 16350.67 MB total
+[2021.06.28-18.59.33:720][  0]LogMemory: Virtual Memory: 134204888.00 MB used,  12842.60 MB free, 134217728.00 MB total
+[2021.06.28-18.59.34:696][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.28-18.59.35:463][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.28-18.59.35:467][  0]LogInit: Using OS detected language (en-US).
+[2021.06.28-18.59.35:467][  0]LogInit: Using OS detected locale (en-GB).
+[2021.06.28-18.59.35:491][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.06.28-18.59.36:032][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.28-18.59.36:053][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.28-18.59.36:103][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.28-18.59.36:103][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.28-18.59.36:949][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.28-18.59.36:949][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.28-18.59.36:949][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.28-18.59.36:950][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.28-18.59.37:293][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.06.28-18.59.37:293][  0]LogD3D11RHI:       4019/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.28-18.59.37:300][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.28-18.59.37:300][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.28-18.59.37:308][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.28-18.59.37:308][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1414
+[2021.06.28-18.59.37:308][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.28-18.59.37:322][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.28-18.59.37:322][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.28-18.59.37:323][  0]LogWindows: EnumDisplayDevices:
+[2021.06.28-18.59.37:324][  0]LogWindows:    0. 'Microsoft Basic Display Driver' (P:0 D:1)
+[2021.06.28-18.59.37:325][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.06.28-18.59.37:326][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.06.28-18.59.37:327][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.06.28-18.59.37:327][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.06.28-18.59.37:328][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.06.28-18.59.37:328][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.06.28-18.59.37:328][  0]LogD3D11RHI:   Driver Version: 466.63 (internal:27.21.14.6663, unified:466.63)
+[2021.06.28-18.59.37:328][  0]LogD3D11RHI:      Driver Date: 5-27-2021
+[2021.06.28-18.59.37:328][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2021.06.28-18.59.37:542][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.28-18.59.38:090][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.28-18.59.38:090][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.28-18.59.38:222][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.06.28-18.59.38:236][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.28-18.59.39:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.28-18.59.40:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.28-18.59.40:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.28-18.59.40:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.28-18.59.40:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.28-18.59.40:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.28-18.59.40:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.28-18.59.40:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.28-18.59.40:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.28-18.59.40:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.28-18.59.40:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.28-18.59.40:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.28-18.59.40:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.28-18.59.40:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.28-18.59.40:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.28-18.59.40:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.28-18.59.40:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.28-18.59.40:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.28-18.59.40:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.28-18.59.40:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.28-18.59.40:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.28-18.59.40:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.28-18.59.40:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.28-18.59.40:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.28-18.59.41:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.28-18.59.41:233][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.28-18.59.41:352][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.28-18.59.42:622][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.28-18.59.42:623][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Intermediate/Shaders/WorkingDirectory/13636/).
+[2021.06.28-18.59.42:623][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Willow/AppData/Local/Temp/UnrealShaderWorkingDir/86CFBD474535AD69272B37A3877C3372/'.
+[2021.06.28-18.59.42:623][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.28-18.59.42:623][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.28-18.59.44:470][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.28-18.59.45:876][  0]LogDerivedDataCache: Loaded boot cache 1.40s 79MB C:/Users/Willow/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.28-18.59.45:876][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Willow/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.28-18.59.45:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.28-18.59.45:877][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.28-18.59.45:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.28-18.59.45:877][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.28-18.59.45:898][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.28-18.59.45:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.28-18.59.45:899][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.28-18.59.46:110][  0]LogDerivedDataCache: Speed tests for C:/Users/Willow/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.21 seconds
+[2021.06.28-18.59.46:111][  0]LogDerivedDataCache: Display: Performance to C:/Users/Willow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=4.87ms. RandomReadSpeed=7.00MBs, RandomWriteSpeed=45.57MBs. Assigned SpeedClass 'Fast'
+[2021.06.28-18.59.46:111][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Willow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.28-18.59.46:112][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.28-18.59.46:112][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.28-18.59.46:206][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.28-18.59.46:209][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.28-18.59.46:334][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2021.06.28-18.59.46:798][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.28-18.59.46:798][  0]LogInit: Active device profile: [000001993CF17500][000001993B428C00 49] Windows
+[2021.06.28-18.59.46:798][  0]LogInit: Profiles: [000001993CF17500][000001993B428C00 49] Windows, [000001993CF10D00][000001993B51ED80 49] WindowsNoEditor, [000001993CF14D00][000001993B53EF00 49] WindowsServer, [000001993CF12E00][000001993B557080 49] WindowsClient, [000001993CF16D00][000001993B55B200 49] IOS, [000001993CF11500][000001993AD5D380 49] iPadAir, [000001993CF15400][000001993AD61500 49] iPadAir2, [000001993DD30900][000001993B42D780 49] IPadPro, [000001993DD30A00][000001993AD657C0 49] iPadAir3, [000001993CF16800][0000019920AEF900 49] iPadAir4, [000001993DD33600][0000019920AF3A40 49] iPadMini2, [000001993CF15800][0000019920AF7B80 49] iPadMini3, [000001993DD32000][0000019920AFFD00 49] iPadMini4, [000001993CF14B00][0000019920B021C0 49] iPadMini5, [000001993CF10900][0000019920B0A480 49] iPhone6, [000001993CF11B00][0000019920B064C0 49] iPodTouch6, [000001993DD0BF00][000001993AD68780 49] iPhone7, [000001993DD0BE00][0000019920B0E7C0 49] iPodTouch7, [000001993CF13C00][000001993AD6C940 49] iPhone5S, [000001993DD09200][000001993AD70AC0 49] iPhone6Plus, [000001993CF10600][000001993AD74C40 49] iPhone6S, [000001993DD0A800][000001993AD78DC0 49] iPhone6SPlus, [000001993CF10100][000001993AD7CF40 49] iPhone7Plus, [000001993DD09900][000001993AD810C0 49] iPhoneSE, [000001993CF10C00][000001993AD85240 49] iPhone8, [000001993DD08B00][000001993AD893C0 49] iPhone8Plus, [000001993CF11C00][000001993AD8D540 49] iPhoneX, [000001993DD08C00][000001993AD916C0 49] iPhoneXS, [000001993CF11300][0000019920AFB800 49] iPhoneXSMax, [000001993DD0BB00][000001993AD95940 49] iPhoneXR, [000001993CF13800][000001993AD99A80 49] iPhone11, [000001993DD08F00][000001993AD9DBC0 49] iPhone11Pro, [000001993CF13700][000001993ADA5D40 49] iPhone11ProMax, [000001993DD08500][000001993ADA8200 49] iPhoneSE2, [000001993CF13000][000001993ADAC380 49] iPhone12Mini, [000001993DD0AC00][000001993ADB0500 49] iPhone12, [000001993CF13E00][000001993ADB4680 49] iPhone12Pro, [000001993DD09000][000001993ADB8800 49] iPhone12ProMax, [000001993CF12200][000001993ADBC980 49] iPadPro105, [000001993DD09300][000001993ADC0B00 49] iPadPro129, [000001993CF13500][000001993ADC4C80 49] iPadPro97, [000001993DD08E00][000001993ADC8E00 49] iPadPro2_129, [000001993CF10200][000001993ADCCF80 49] iPad5, [000001993DD0A600][000001993ADD1100 49] iPad6, [000001993CF13900][000001993ADD5280 49] iPad7, [000001993DD09100][000001993ADD9400 49] iPad8, [000001993CF13100][000001993ADDD580 49] iPadPro11, [000001993DD0B600][000001993ADE1700 49] iPadPro2_11, [000001993CF13200][000001993ADE5880 49] iPadPro3_129, [000001993DD08300][000001993ADA19C0 49] iPadPro4_129, [000001993CF11800][000001993ADE9B00 49] AppleTV, [000001993DD0A900][000001993ADEDC40 49] AppleTV4K, [000001993CF11600][000001993ADF4100 49] TVOS, [000001993DD08800][000001993ADF8280 49] Mac, [000001993CF12500][000001993ADFC400 49] MacClient, [000001993DD0B900][000001993AE00580 49] MacNoEditor, [000001993CF12000][000001993AE04700 49] MacServer, [000001993DD0B200][000001993AE08880 49] Linux, [000001993CF13A00][000001993AE0CA00 49] LinuxAArch64, [000001993DD0B000][000001993AE10B80 49] LinuxNoEditor, [000001993CF11F00][000001993AE14D00 49] LinuxAArch64NoEditor, [000001993DD0AB00][000001993AE18E80 49] LinuxClient, [000001993DD32200][000001993AE1D000 49] LinuxAArch64Client, [000001993D03C400][000001993AE21180 49] LinuxServer, [000001993DD30E00][000001993AE25300 49] LinuxAArch64Server, [000001993D03D100][000001993AE29480 49] Android, [000001993DD31300][000001993AE2D600 49] Android_Low, [000001993D03C600][000001993AE31780 49] Android_Mid, [000001993DD30D00][000001993AE35900 49] Android_High, [000001993D03D300][000001993ADF1A40 49] Android_Default, [000001993DD31600][000001993AE39B80 49] Android_Adreno4xx, [000001993D03C500][000001993AE3DCC0 49] Android_Adreno5xx_Low, [000001993DD30500][000001993AE44180 49] Android_Adreno5xx, [000001993D03D500][000001993AE48300 49] Android_Adreno6xx, [000001993DD32900][000001993AE4C480 49] Android_Adreno6xx_Vulkan, [000001993D03C700][000001993AE50600 49] Android_Mali_T6xx, [000001993DD31400][000001993AE54780 49] Android_Mali_T7xx, [000001993D03D800][000001993AE58900 49] Android_Mali_T8xx, [000001993DD33000][000001993AE5CA80 49] Android_Mali_G71, [000001993D03C800][000001993AE60C00 49] Android_Mali_G72, [000001993DD0A100][000001993AE64D80 49] Android_Mali_G72_Vulkan, [000001993CF13400][000001993AE68F00 49] Android_Mali_G76, [000001993DD0B400][000001993AE6D080 49] Android_Mali_G76_Vulkan, [000001993CF12C00][000001993AE71200 49] Android_Mali_G77, [000001993DD0AD00][000001993AE75380 49] Android_Mali_G77_Vulkan, [000001993CF12400][000001993AE79500 49] Android_Vulkan_SM5, [000001993DD0A200][000001993AE7D680 49] Android_PowerVR_G6xxx, [000001993CF11900][000001993AE81800 49] Android_PowerVR_GT7xxx, [000001993DD0B300][000001993AE85980 49] Android_PowerVR_GE8xxx, [000001993CF10B00][000001993AE41AC0 49] Android_PowerVR_GM9xxx, [000001993DD09C00][000001993AE89C00 49] Android_PowerVR_GM9xxx_Vulkan, [000001993CF13600][000001993AE8DD40 49] Android_TegraK1, [000001993DD0AF00][000001993AE901C0 49] Android_Unknown_Vulkan, [000001993CF11200][000001993AE98340 49] Lumin, [000001993DD0B700][000001993AE9C4C0 49] Lumin_Desktop, [000001993CF12F00][000001993AEA0640 49] HoloLens, 
+[2021.06.28-18.59.47:260][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.28-18.59.47:260][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.28-18.59.47:260][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.28-18.59.47:260][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.28-18.59.47:260][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.28-18.59.47:438][  0]LogNetVersion: Acorn 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2177674107)
+[2021.06.28-18.59.50:018][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.28-18.59.50:103][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.085110 seconds
+[2021.06.28-18.59.50:113][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.28-18.59.50:113][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.28-18.59.50:113][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.28-18.59.59:336][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.28-19.00.00:460][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.28-19.00.01:928][  0]SourceControl: Source control is disabled
+[2021.06.28-19.00.01:928][  0]SourceControl: Source control is disabled
+[2021.06.28-19.00.01:973][  0]SourceControl: Source control is disabled
+[2021.06.28-19.00.01:989][  0]SourceControl: Source control is disabled
+[2021.06.28-19.00.02:121][  0]SourceControl: Source control is disabled
+[2021.06.28-19.00.02:145][  0]LogUProjectInfo: Found projects:
+[2021.06.28-19.00.03:939][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.28-19.00.04:069][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.28-19.00.04:069][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.28-19.00.04:468][  0]LogCollectionManager: Loaded 0 collections in 0.001289 seconds
+[2021.06.28-19.00.04:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/Collections/' took 0.00s
+[2021.06.28-19.00.04:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Developers/Willow/Collections/' took 0.00s
+[2021.06.28-19.00.04:563][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Collections/' took 0.00s
+[2021.06.28-19.00.04:563][  0]LogOcInput: OculusInput pre-init called
+[2021.06.28-19.00.04:627][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.28-19.00.04:627][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.28-19.00.04:811][  0]LogEngine: Initializing Engine...
+[2021.06.28-19.00.04:813][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.28-19.00.04:813][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.28-19.00.04:815][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.28-19.00.05:009][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.28-19.00.05:033][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.28-19.00.05:035][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.28-19.00.05:073][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.28-19.00.05:073][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-19.00.05:073][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-19.00.05:073][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-19.00.05:073][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-19.00.05:189][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-19.00.05:189][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-19.00.05:268][  0]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.28-19.00.05:270][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-19.00.05:278][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-19.00.05:278][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-19.00.05:279][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-19.00.05:279][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-19.00.05:279][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-19.00.05:281][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-19.00.05:281][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-19.00.05:281][  0]LogInit: FAudioDevice initialized.
+[2021.06.28-19.00.05:281][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.28-19.00.05:282][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.28-19.00.07:591][  0]LogDerivedDataCache: Saved boot cache 2.31s 79MB C:/Users/Willow/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.28-19.00.07:592][  0]LogInit: Texture streaming: Enabled
+[2021.06.28-19.00.07:652][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.28-19.00.07:689][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.28-19.00.07:689][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={2F3D659D-43D0-CF17-79EB-E09AD8D62484}
+[2021.06.28-19.00.07:689][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.28-19.00.07:697][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.28-19.00.08:533][  0]LogInit: Transaction tracking system initialized
+[2021.06.28-19.00.08:727][  0]BlueprintLog: New page: Editor Load
+[2021.06.28-19.00.13:923][  0]LocalizationService: Localization service is disabled
+[2021.06.28-19.00.14:117][  0]TimingProfiler: Initialize
+[2021.06.28-19.00.14:118][  0]TimingProfiler: OnSessionChanged
+[2021.06.28-19.00.14:118][  0]LoadingProfiler: Initialize
+[2021.06.28-19.00.14:119][  0]LoadingProfiler: OnSessionChanged
+[2021.06.28-19.00.14:119][  0]NetworkingProfiler: Initialize
+[2021.06.28-19.00.14:119][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.28-19.00.14:119][  0]MemoryProfiler: Initialize
+[2021.06.28-19.00.14:119][  0]MemoryProfiler: OnSessionChanged
+[2021.06.28-19.00.15:361][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.28-19.00.15:361][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.28-19.00.16:692][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/' took 0.04s
+[2021.06.28-19.00.26:357][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.28-19.00.26:370][  0]SourceControl: Source control is disabled
+[2021.06.28-19.00.26:371][  0]LogUnrealEdMisc: Loading editor; pre map load, took 60.995
+[2021.06.28-19.00.26:371][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.28-19.00.26:373][  0]LightingResults: New page: Lighting Build
+[2021.06.28-19.00.26:375][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-19.00.26:376][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-19.00.26:376][  0]MapCheck: New page: Map Check
+[2021.06.28-19.00.26:376][  0]LightingResults: New page: Lighting Build
+[2021.06.28-19.00.26:395][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.28-19.00.26:865][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.28-19.00.26:871][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.06.28-19.00.26:872][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-19.00.26:881][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.28-19.00.26:898][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.28-19.00.26:899][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.28-19.00.26:899][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.369ms to complete.
+[2021.06.28-19.00.26:899][  0]LogFileHelpers: Loading map 'Template_Default' took 0.529
+[2021.06.28-19.00.26:903][  0]LogUnrealEdMisc: Total Editor Startup Time, took 61.528
+[2021.06.28-19.00.27:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-19.00.27:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-19.00.27:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-19.00.27:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-19.00.27:128][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0162 seconds. Added 3601 classes and 859 folders.
+[2021.06.28-19.00.27:133][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.28-19.00.27:139][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.28-19.00.27:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-19.00.27:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.28-19.00.27:142][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.28-19.00.27:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.28-19.00.27:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.28-19.00.27:144][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.28-19.00.27:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.28-19.00.27:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.28-19.00.27:147][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-19.00.27:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-19.00.27:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.28-19.00.27:150][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.28-19.00.27:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.28-19.00.27:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.28-19.00.27:153][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.28-19.00.27:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.28-19.00.27:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.06.28-19.00.27:155][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.28-19.00.27:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.28-19.00.27:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.28-19.00.27:158][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.28-19.00.27:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.28-19.00.27:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.06.28-19.00.27:161][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.28-19.00.27:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.28-19.00.27:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.06.28-19.00.27:164][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.28-19.00.27:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.28-19.00.27:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.06.28-19.00.27:166][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.28-19.00.27:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.28-19.00.27:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.06.28-19.00.27:169][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.28-19.00.27:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.28-19.00.27:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.06.28-19.00.27:171][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-19.00.27:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-19.00.27:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.06.28-19.00.27:174][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.28-19.00.27:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.28-19.00.27:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.06.28-19.00.27:177][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.28-19.00.27:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.28-19.00.27:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.06.28-19.00.27:179][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.28-19.00.27:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-19.00.27:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.06.28-19.00.27:182][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.28-19.00.27:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.28-19.00.27:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.06.28-19.00.27:184][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.28-19.00.27:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.28-19.00.27:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.06.28-19.00.27:186][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-19.00.27:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-19.00.27:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.06.28-19.00.27:189][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-19.00.27:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-19.00.27:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.06.28-19.00.27:191][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.28-19.00.27:192][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:192][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-19.00.27:192][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.06.28-19.00.27:194][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.28-19.00.27:194][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:194][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.28-19.00.27:194][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.06.28-19.00.27:197][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.28-19.00.27:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.28-19.00.27:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.06.28-19.00.27:200][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.28-19.00.27:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.28-19.00.27:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.06.28-19.00.27:202][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-19.00.27:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-19.00.27:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.06.28-19.00.27:205][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.28-19.00.27:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-19.00.27:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.28-19.00.27:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.06.28-19.00.27:428][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.28-19.00.27:488][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2021.06.28-19.00.27:500][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.06.28-19.00.27:560][  0]LogSlate: Took 0.001711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.28-19.00.27:563][  0]LogSlate: Took 0.001205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.28-19.00.27:573][  0]LogSlate: Took 0.001147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.28-19.00.27:752][  0]LogRenderer: Reallocating scene render targets to support 772x380 Format 10 NumSamples 1 (Frame:1).
+[2021.06.28-19.00.28:375][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.28-19.00.28:376][  0]LogLoad: (Engine Initialization) Total time: 63.00 seconds
+[2021.06.28-19.00.28:376][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.28-19.00.28:376][  0]LogInit: First time updating LLM stats...
+[2021.06.28-19.00.28:516][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.28-19.00.28:565][  1]LogAssetRegistry: Asset discovery search completed in 42.2323 seconds
+[2021.06.28-19.00.28:567][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2021.06.28-19.00.28:908][  2]LogSlate: Took 0.002595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.28-19.00.44:041][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.06.28-19.00.44:047][751]LogSlate: Took 0.000440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.28-19.00.44:563][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.44:565][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.44:565][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.44:601][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.44:602][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.44:709][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.44:710][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.44:711][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-19.00.44:712][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-19.00.45:386][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.45:387][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-19.00.45:400][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-19.00.45:400][751]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen.P_AOE_Fire_CircleGreen Referenced by ParticleSystem1_GEN_VARIABLE
+[2021.06.28-19.00.45:401][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-19.00.45:401][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-19.00.45:401][751]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard.P_DmgFieldTreebeard Referenced by ParticleSystem_GEN_VARIABLE
+[2021.06.28-19.00.45:402][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-19.00.45:403][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.45:403][751]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim.FlowerAnimClose_Anim Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.28-19.00.45:404][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-19.00.45:404][751]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim.FlowerAnim Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.28-19.00.45:405][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-19.00.45:405][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-19.00.45:405][751]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen.M_PetalGreen Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.28-19.00.45:406][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-19.00.45:407][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-19.00.45:407][751]LoadErrors: Failed to load /Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01.SM_Torch_Var01 Referenced by StaticMesh_GEN_VARIABLE
+[2021.06.28-19.00.45:408][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-19.00.45:707][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:708][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:708][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-19.00.45:709][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-19.00.45:710][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-19.00.45:710][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-19.00.45:711][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-19.00.45:712][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-19.00.45:712][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:713][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:713][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:714][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:715][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:715][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:716][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-19.00.45:716][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-19.00.45:717][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-19.00.45:717][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:718][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:719][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-19.00.45:720][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-19.00.45:720][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-19.00.45:720][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:721][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:721][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:722][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:723][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-19.00.45:723][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-19.00.45:723][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-19.00.45:724][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:726][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:726][751]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze.P_Hyperfreeze Referenced by K2Node_CallFunction_4
+[2021.06.28-19.00.45:727][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:727][751]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze.P_Hyperfreeze Referenced by K2Node_CallFunction_11
+[2021.06.28-19.00.45:729][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-19.00.45:729][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue.S_IceFreezeDestroyCue Referenced by K2Node_CallFunction_17
+[2021.06.28-19.00.45:729][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-19.00.45:729][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue.S_IceFreezeMakeCue Referenced by K2Node_CallFunction_9
+[2021.06.28-19.00.45:730][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-19.00.45:730][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue.S_IceFreezeBreakCue Referenced by K2Node_CallFunction_15
+[2021.06.28-19.00.45:731][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-19.00.45:731][751]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze.P_Hyperfreeze Referenced by ParticleSystem_GEN_VARIABLE
+[2021.06.28-19.00.45:732][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:732][751]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22.SM_stone_22 Referenced by Cylinder1_GEN_VARIABLE
+[2021.06.28-19.00.45:732][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:732][751]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst.MI_stone_07_ice_Inst Referenced by Cylinder1_GEN_VARIABLE
+[2021.06.28-19.00.45:733][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-19.00.45:733][751]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22.SM_stone_22 Referenced by Cylinder2_GEN_VARIABLE
+[2021.06.28-19.00.45:733][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-19.00.45:734][751]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst.MI_stone_07_ice_Inst Referenced by Cylinder2_GEN_VARIABLE
+[2021.06.28-19.00.45:735][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-19.00.45:735][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-19.00.45:736][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-19.00.45:737][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-19.00.45:737][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-19.00.45:738][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-19.00.45:739][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-19.00.45:739][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-19.00.45:740][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-19.00.45:742][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-19.00.45:742][751]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean Referenced by Default__FreezableSurface_C
+[2021.06.28-19.00.47:188][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDPC.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.47:189][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDPC.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:129][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDPC.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:547][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:548][751]LoadErrors: Failed to load /Game/Font/Frostys_Winterland_Font.Frostys_Winterland_Font Referenced by Text-Location
+[2021.06.28-19.00.48:549][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:549][751]LoadErrors: Failed to load /Game/Font/Frostys_Winterland_Font.Frostys_Winterland_Font Referenced by Text-World
+[2021.06.28-19.00.48:606][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDXBOX.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:619][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDXBOX.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:677][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:678][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:679][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:680][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:681][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.48:682][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:123][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:124][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:125][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:126][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:244][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-19.00.49:245][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-19.00.49:246][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-19.00.49:246][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-19.00.49:247][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-19.00.49:248][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-19.00.49:250][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-19.00.49:250][751]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt.P_LightningBolt Referenced by K2Node_CallFunction_46
+[2021.06.28-19.00.49:251][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-19.00.49:251][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater.S_DeathWater Referenced by K2Node_CallFunction_3
+[2021.06.28-19.00.49:253][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:253][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-19.00.49:254][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-19.00.49:254][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.49:255][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-19.00.49:256][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-19.00.49:256][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-19.00.49:257][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-19.00.49:257][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-19.00.49:258][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:258][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-19.00.49:259][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-19.00.49:260][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-19.00.49:260][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-19.00.49:261][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-19.00.49:261][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-19.00.49:262][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-19.00.49:262][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-19.00.49:263][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-19.00.49:264][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-19.00.49:264][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:264][751]LoadErrors: Failed to load /Game/Font/Frostys_Winterland_Font.Frostys_Winterland_Font Referenced by Default__Checkpoint_C
+[2021.06.28-19.00.49:265][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-19.00.49:265][751]LoadErrors: Failed to load /Game/StarterContent/Particles/P_PuffSmokeTargetA.P_PuffSmokeTargetA Referenced by Default__Checkpoint_C
+[2021.06.28-19.00.49:288][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.49:288][751]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim.FlowerAnimClose_Anim Referenced by K2Node_CallFunction_10
+[2021.06.28-19.00.49:289][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-19.00.49:289][751]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim.FlowerAnimOpen_Anim Referenced by K2Node_CallFunction_13
+[2021.06.28-19.00.49:291][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-19.00.49:291][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue.S_Checkpoint_Cue Referenced by K2Node_CallFunction_51
+[2021.06.28-19.00.49:571][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_D': Can't find file.
+[2021.06.28-19.00.49:572][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_D': Can't find file.
+[2021.06.28-19.00.49:573][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_N': Can't find file.
+[2021.06.28-19.00.49:573][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_N': Can't find file.
+[2021.06.28-19.00.49:574][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_D': Can't find file.
+[2021.06.28-19.00.49:574][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_N': Can't find file.
+[2021.06.28-19.00.49:962][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:962][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-19.00.49:963][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-19.00.49:963][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-19.00.49:964][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-19.00.49:964][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-19.00.49:965][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-19.00.49:965][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-19.00.49:966][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-19.00.49:966][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-19.00.49:967][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-19.00.49:968][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-19.00.49:968][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-19.00.49:969][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-19.00.49:969][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-19.00.49:970][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-19.00.49:971][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-19.00.49:971][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-19.00.51:249][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_D': Can't find file.
+[2021.06.28-19.00.51:249][751]LoadErrors: Failed to load /Game/Art/Old/Textures/T_Bush_D.T_Bush_D Referenced by M_Bush
+[2021.06.28-19.00.51:250][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_N': Can't find file.
+[2021.06.28-19.00.51:250][751]LoadErrors: Failed to load /Game/Art/Old/Textures/T_Bush_N.T_Bush_N Referenced by M_Bush
+[2021.06.28-19.00.51:251][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_N': Can't find file.
+[2021.06.28-19.00.51:251][751]LoadErrors: Failed to load /Game/Art/Old/Textures/T_Bush_N.T_Bush_N Referenced by MaterialExpressionTextureSample_0
+[2021.06.28-19.00.51:252][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to load '/Game/Art/Old/Textures/T_Bush_D': Can't find file.
+[2021.06.28-19.00.51:252][751]LoadErrors: Failed to load /Game/Art/Old/Textures/T_Bush_D.T_Bush_D Referenced by MaterialExpressionTextureSample_1
+[2021.06.28-19.00.51:380][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.51:381][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE.S_Footsteps_Cue Referenced by AnimNotify_PlaySound_0
+[2021.06.28-19.00.51:381][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.51:381][751]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE.S_Footsteps_Cue Referenced by AnimNotify_PlaySound_1
+[2021.06.28-19.00.51:795][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.51:795][751]LogLinker: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-19.00.51:870][751]LogMaterial: Display: Missing cached shader map for material M_Bush, compiling. 
+[2021.06.28-19.00.51:875][751]LogMaterial: Warning: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Art\Old\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.28-19.00.51:875][751]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.28-19.00.53:976][751]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MechanicsDevSpace.MechanicsDevSpace
+[2021.06.28-19.00.53:977][751]Cmd: MAP LOAD FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Levels/MechanicsDevSpace.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.28-19.00.53:977][751]LightingResults: New page: Lighting Build
+[2021.06.28-19.00.53:977][751]LoadErrors: New page: Loading map: MechanicsDevSpace.umap
+[2021.06.28-19.00.54:008][751]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-19.00.54:008][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-19.00.54:011][751]MapCheck: New page: Map Check
+[2021.06.28-19.00.54:011][751]LightingResults: New page: Lighting Build
+[2021.06.28-19.00.54:026][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-19.00.54:038][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.06.28-19.00.54:039][751]LogAudio: Display: Audio Device (ID: 1) registered with world 'MechanicsDevSpace'.
+[2021.06.28-19.00.54:059][751]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.28-19.00.54:059][751]LogAIModule: Creating AISystem for world MechanicsDevSpace
+[2021.06.28-19.00.54:077][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.06.28-19.00.54:086][751]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.28-19.00.54:087][751]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2021.06.28-19.00.54:087][751]LogFileHelpers: Loading map 'MechanicsDevSpace' took 0.111
+[2021.06.28-19.01.06:325][746]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.28-19.01.06:342][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-19.01.06:342][746]PIE: New page: PIE session: MechanicsDevSpace (28 Jun 2021, 21:01:06)
+[2021.06.28-19.01.06:381][746]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.28-19.01.06:383][746]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.28-19.01.06:383][746]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-19.01.06:392][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008631s)
+[2021.06.28-19.01.06:394][746]LogAIModule: Creating AISystem for world MechanicsDevSpace
+[2021.06.28-19.01.06:395][746]LogPlayLevel: PIE: World Init took: (0.002827s)
+[2021.06.28-19.01.06:395][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsDevSpace.MechanicsDevSpace to /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace (0.011711s)
+[2021.06.28-19.01.06:408][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.06.28-19.01.06:410][746]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-19.01.06:410][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-19.01.06:410][746]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-19.01.06:410][746]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-19.01.06:424][746]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-19.01.06:424][746]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-19.01.06:451][746]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.28-19.01.06:451][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-19.01.06:451][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-19.01.06:451][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-19.01.06:452][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-19.01.06:453][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-19.01.06:453][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-19.01.06:480][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-19.01.06:480][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-19.01.06:480][746]LogInit: FAudioDevice initialized.
+[2021.06.28-19.01.06:480][746]LogAudio: Display: Audio Device (ID: 2) registered with world 'MechanicsDevSpace'.
+[2021.06.28-19.01.06:496][746]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-19.01.06:499][746]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace up for play (max tick rate 0) at 2021.06.28-20.01.06
+[2021.06.28-19.01.06:500][746]LogWorld: Bringing up level for play took: 0.002523
+[2021.06.28-19.01.06:500][746]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.06.28-19.01.06:506][746]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.06.28-19.01.06:515][746]LogBlueprintUserMessages: [RockSpawner_2] 3
+[2021.06.28-19.01.06:518][746]PIE: Server logged in
+[2021.06.28-19.01.06:520][746]PIE: Play in editor total start time 0.183 seconds.
+[2021.06.28-19.01.06:545][746]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2021.06.28-19.01.06:564][746]LogSlate: Took 0.016947 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.06.28-19.01.13:234][268]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.13:245][269]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.13:282][272]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.13:680][301]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.13:694][302]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.13:707][303]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.13:719][304]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:205][343]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:229][345]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:242][346]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:254][347]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:278][349]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:291][350]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:304][351]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:328][353]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:414][360]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:438][362]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:462][364]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:477][365]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.14:489][366]LogBlueprintUserMessages: [Minecart_2] Forward
+[2021.06.28-19.01.20:571][846]LogBlueprintUserMessages: [Minecart_2] backward
+[2021.06.28-19.01.20:618][849]LogBlueprintUserMessages: [Minecart_2] backward
+[2021.06.28-19.01.21:593][930]LogBlueprintUserMessages: [Minecart_2] backward
+[2021.06.28-19.01.22:066][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-19.01.22:066][966]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-19.01.22:066][966]LogWorld: UWorld::CleanupWorld for MechanicsDevSpace, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-19.01.22:067][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-19.01.22:082][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-19.01.22:085][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-19.01.22:097][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-19.01.22:098][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-19.01.22:099][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-19.01.22:134][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.06.28-19.01.22:164][967]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.06.28-19.01.24:878][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.06.28-19.01.24:909][189]LogSlate: Window 'Acorn - Unreal Editor' being destroyed
+[2021.06.28-19.01.24:911][189]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.28-19.01.25:062][190]Cmd: QUIT_EDITOR
+[2021.06.28-19.01.25:062][190]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.06.28-19.01.25:070][190]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.06.28-19.01.25:556][190]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.06.28-19.01.25:556][190]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.06.28-19.01.25:556][190]LogAudio: Display: Audio Device unregistered from world 'MechanicsDevSpace'.
+[2021.06.28-19.01.25:556][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-19.01.25:558][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-19.01.25:607][190]LogAudio: Display: Audio Device Manager Shutdown
+[2021.06.28-19.01.25:613][190]LogExit: Preparing to exit.
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF17500] Windows
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF17400] Default__DeviceProfile
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10D00] WindowsNoEditor
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF14D00] WindowsServer
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12E00] WindowsClient
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF16D00] IOS
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11500] iPadAir
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF15400] iPadAir2
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993DD30900] IPadPro
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993DD30A00] iPadAir3
+[2021.06.28-19.01.26:784][190]LogDeviceProfile: Device profile begin destroy: [000001993CF16800] iPadAir4
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993DD33600] iPadMini2
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993CF15800] iPadMini3
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993DD32000] iPadMini4
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993CF14B00] iPadMini5
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10900] iPhone6
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11B00] iPodTouch6
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0BF00] iPhone7
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0BE00] iPodTouch7
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13C00] iPhone5S
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993DD09200] iPhone6Plus
+[2021.06.28-19.01.26:785][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10600] iPhone6S
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0A800] iPhone6SPlus
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10100] iPhone7Plus
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD09900] iPhoneSE
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10C00] iPhone8
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08B00] iPhone8Plus
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11C00] iPhoneX
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08C00] iPhoneXS
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11300] iPhoneXSMax
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0BB00] iPhoneXR
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13800] iPhone11
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08F00] iPhone11Pro
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13700] iPhone11ProMax
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08500] iPhoneSE2
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13000] iPhone12Mini
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0AC00] iPhone12
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13E00] iPhone12Pro
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD09000] iPhone12ProMax
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12200] iPadPro105
+[2021.06.28-19.01.26:786][190]LogDeviceProfile: Device profile begin destroy: [000001993DD09300] iPadPro129
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13500] iPadPro97
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08E00] iPadPro2_129
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10200] iPad5
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0A600] iPad6
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13900] iPad7
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD09100] iPad8
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13100] iPadPro11
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B600] iPadPro2_11
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13200] iPadPro3_129
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08300] iPadPro4_129
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11800] AppleTV
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0A900] AppleTV4K
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11600] TVOS
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD08800] Mac
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12500] MacClient
+[2021.06.28-19.01.26:787][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B900] MacNoEditor
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12000] MacServer
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B200] Linux
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13A00] LinuxAArch64
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B000] LinuxNoEditor
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11F00] LinuxAArch64NoEditor
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0AB00] LinuxClient
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD32200] LinuxAArch64Client
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03C400] LinuxServer
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD30E00] LinuxAArch64Server
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03D100] Android
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD31300] Android_Low
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03C600] Android_Mid
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD30D00] Android_High
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03D300] Android_Default
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD31600] Android_Adreno4xx
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03C500] Android_Adreno5xx_Low
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD30500] Android_Adreno5xx
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03D500] Android_Adreno6xx
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD32900] Android_Adreno6xx_Vulkan
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03C700] Android_Mali_T6xx
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD31400] Android_Mali_T7xx
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03D800] Android_Mali_T8xx
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993DD33000] Android_Mali_G71
+[2021.06.28-19.01.26:788][190]LogDeviceProfile: Device profile begin destroy: [000001993D03C800] Android_Mali_G72
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0A100] Android_Mali_G72_Vulkan
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13400] Android_Mali_G76
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B400] Android_Mali_G76_Vulkan
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12C00] Android_Mali_G77
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0AD00] Android_Mali_G77_Vulkan
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12400] Android_Vulkan_SM5
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0A200] Android_PowerVR_G6xxx
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11900] Android_PowerVR_GT7xxx
+[2021.06.28-19.01.26:789][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B300] Android_PowerVR_GE8xxx
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993CF10B00] Android_PowerVR_GM9xxx
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993DD09C00] Android_PowerVR_GM9xxx_Vulkan
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993CF13600] Android_TegraK1
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0AF00] Android_Unknown_Vulkan
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993CF11200] Lumin
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993DD0B700] Lumin_Desktop
+[2021.06.28-19.01.26:790][190]LogDeviceProfile: Device profile begin destroy: [000001993CF12F00] HoloLens
+[2021.06.28-19.01.26:841][190]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-19.01.26:842][190]LogExit: Editor shut down
+[2021.06.28-19.01.26:844][190]LogExit: Transaction tracking system shut down
+[2021.06.28-19.01.26:856][190]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.06.28-19.01.27:216][190]LogExit: Object subsystem successfully closed.
+[2021.06.28-19.01.27:245][190]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.28-19.01.27:268][190]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2021.06.28-19.01.27:268][190]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2021.06.28-19.01.27:269][190]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (818)
+[2021.06.28-19.01.27:269][190]LogModuleManager: Shutting down and abandoning module SceneOutliner (816)
+[2021.06.28-19.01.27:269][190]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2021.06.28-19.01.27:269][190]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2021.06.28-19.01.27:269][190]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (788)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (784)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (782)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (780)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (778)
+[2021.06.28-19.01.27:270][190]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (776)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module WebMMedia (774)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (772)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2021.06.28-19.01.27:271][190]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2021.06.28-19.01.27:272][190]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2021.06.28-19.01.27:273][190]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2021.06.28-19.01.27:273][190]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2021.06.28-19.01.27:273][190]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2021.06.28-19.01.27:273][190]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2021.06.28-19.01.27:273][190]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2021.06.28-19.01.27:273][190]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2021.06.28-19.01.28:212][190]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2021.06.28-19.01.28:212][190]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2021.06.28-19.01.28:212][190]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2021.06.28-19.01.28:212][190]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2021.06.28-19.01.28:212][190]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2021.06.28-19.01.28:215][190]MemoryProfiler: Shutdown
+[2021.06.28-19.01.28:215][190]NetworkingProfiler: Shutdown
+[2021.06.28-19.01.28:215][190]LoadingProfiler: Shutdown
+[2021.06.28-19.01.28:216][190]TimingProfiler: Shutdown
+[2021.06.28-19.01.28:216][190]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2021.06.28-19.01.28:216][190]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2021.06.28-19.01.28:216][190]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2021.06.28-19.01.28:216][190]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2021.06.28-19.01.28:216][190]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2021.06.28-19.01.28:217][190]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2021.06.28-19.01.28:218][190]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2021.06.28-19.01.28:251][190]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2021.06.28-19.01.28:252][190]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2021.06.28-19.01.28:252][190]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2021.06.28-19.01.28:252][190]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2021.06.28-19.01.28:252][190]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2021.06.28-19.01.28:253][190]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2021.06.28-19.01.28:253][190]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2021.06.28-19.01.28:254][190]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2021.06.28-19.01.28:255][190]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2021.06.28-19.01.28:258][190]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2021.06.28-19.01.28:465][190]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2021.06.28-19.01.28:466][190]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2021.06.28-19.01.28:466][190]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2021.06.28-19.01.28:466][190]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (538)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module GooglePAD (536)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module EditableMesh (534)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module TemplateSequence (510)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module MediaCompositing (508)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module ImgMedia (506)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (504)
+[2021.06.28-19.01.28:467][190]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (502)
+[2021.06.28-19.01.28:468][190]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (500)
+[2021.06.28-19.01.28:468][190]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (498)
+[2021.06.28-19.01.28:468][190]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (496)
+[2021.06.28-19.01.28:468][190]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (494)
+[2021.06.28-19.01.28:470][190]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (492)
+[2021.06.28-19.01.28:471][190]LogModuleManager: Shutting down and abandoning module MotoSynth (490)
+[2021.06.28-19.01.28:471][190]LogModuleManager: Shutting down and abandoning module MeshConversion (488)
+[2021.06.28-19.01.28:471][190]LogModuleManager: Shutting down and abandoning module DynamicMesh (486)
+[2021.06.28-19.01.28:471][190]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (484)
+[2021.06.28-19.01.28:471][190]LogModuleManager: Shutting down and abandoning module GeometricObjects (482)
+[2021.06.28-19.01.28:471][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (480)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (479)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (476)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (474)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (472)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (470)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (468)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module ChaosNiagara (466)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module FractureEditor (464)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (463)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (460)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module BackChannel (458)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module AlembicImporter (452)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module AlembicLibrary (451)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCache (450)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (449)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (444)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (442)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (440)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module PluginBrowser (438)
+[2021.06.28-19.01.28:472][190]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (436)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (434)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module CurveEditorTools (432)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (430)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module CryptoKeys (428)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (426)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (424)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module UObjectPlugin (422)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (420)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module PluginUtils (416)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (414)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (412)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module SourceControl (409)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (406)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (404)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2021.06.28-19.01.28:473][190]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2021.06.28-19.01.28:474][190]LogModuleManager: Shutting down and abandoning module UdpMessaging (370)
+[2021.06.28-19.01.28:576][190]LogModuleManager: Shutting down and abandoning module TcpMessaging (368)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2021.06.28-19.01.28:677][190]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2021.06.28-19.01.28:677][190]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.28-19.01.28:677][190]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2021.06.28-19.01.28:678][190]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2021.06.28-19.01.28:679][190]LogModuleManager: Shutting down and abandoning module DataValidation (324)
+[2021.06.28-19.01.28:679][190]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (322)
+[2021.06.28-19.01.28:679][190]LogModuleManager: Shutting down and abandoning module LevelEditor (321)
+[2021.06.28-19.01.28:679][190]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (320)
+[2021.06.28-19.01.28:680][190]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2021.06.28-19.01.28:680][190]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2021.06.28-19.01.28:680][190]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2021.06.28-19.01.28:680][190]LogModuleManager: Shutting down and abandoning module ToolMenus (311)
+[2021.06.28-19.01.28:680][190]LogModuleManager: Shutting down and abandoning module ContentBrowser (309)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2021.06.28-19.01.28:681][190]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2021.06.28-19.01.28:682][190]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2021.06.28-19.01.28:683][190]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module Core (232)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2021.06.28-19.01.28:685][190]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2021.06.28-19.01.28:686][190]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2021.06.28-19.01.28:687][190]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2021.06.28-19.01.28:688][190]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2021.06.28-19.01.28:689][190]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2021.06.28-19.01.28:690][190]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2021.06.28-19.01.28:690][190]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2021.06.28-19.01.28:690][190]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2021.06.28-19.01.28:690][190]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2021.06.28-19.01.28:690][190]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2021.06.28-19.01.28:691][190]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2021.06.28-19.01.28:691][190]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2021.06.28-19.01.28:692][190]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2021.06.28-19.01.28:693][190]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.06.28-19.01.28:697][190]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.06.28-19.01.28:698][190]LogHMD: Freeing OpenVRDLLHandle.
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.06.28-19.01.28:698][190]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.06.28-19.01.28:700][190]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.06.28-19.01.28:700][190]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.06.28-19.01.28:723][190]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.06.28-19.01.28:724][190]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.28-19.01.28:724][190]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEE991B4B-4779-429F-716D-2797A0F4F7DF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=b2f9f8674231d47312d5dfb74bc17d83%7C0444044d900148a3bc11bdbb4fa6e2da%7C63812cfd-1467-491b-8de1-a30a9f6bd8af&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.06.28-19.01.28:724][190]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.06.28-19.01.28:749][190]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.06.28-19.01.28:751][190]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.06.28-19.01.28:754][190]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.06.28-19.01.28:755][190]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.06.28-19.01.28:756][190]LogXGEController: Cleaning working directory: C:/Users/Willow/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.28-19.01.28:756][190]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.06.28-19.01.28:757][190]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.06.28-19.01.28:757][190]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.28-19.01.28:757][190]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.06.28-19.01.28:757][190]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.06.28-19.01.28:757][190]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.06.28-19.01.28:757][190]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.06.28-19.01.28:758][190]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.06.28-19.01.28:758][190]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.06.28-19.01.28:758][190]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.06.28-19.01.28:758][190]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.06.28-19.01.28:759][190]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.06.28-19.01.28:888][190]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.06.28-19.01.28:888][190]LogD3D11RHI: Shutdown
+[2021.06.28-19.01.28:888][190]LogD3D11RHI: CleanupD3DDevice
+[2021.06.28-19.01.28:899][190]LogExit: Exiting.
+[2021.06.28-19.01.28:965][190]Log file closed, 06/28/21 20:01:28
+>>>>>>> main
