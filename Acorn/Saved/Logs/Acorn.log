@@ -16721,3 +16721,222 @@ Make sure 'Target_C' has been compiled for  Get PowerableConnected
 [2021.06.28-15.23.35:925][366]LogFileHelpers: Saving map 'MechanicsDevSpace' took 0.125
 [2021.06.28-15.23.35:945][366]AssetCheck: New page: Asset Save: MechanicsDevSpace
 [2021.06.28-15.23.35:946][366]LogContentValidation: Display: Validating World /Game/Levels/MechanicsDevSpace.MechanicsDevSpace
+[2021.06.28-15.26.08:141][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
+[2021.06.28-15.26.18:626][156]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.26.18:627][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.26.20:368][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.28-15.26.21:773][308]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-15.26.21:789][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-15.26.21:789][308]PIE: New page: PIE session: MechanicsDevSpace (28 Jun 2021, 17:26:21)
+[2021.06.28-15.26.21:817][308]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-15.26.21:826][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008897s)
+[2021.06.28-15.26.21:828][308]LogAIModule: Creating AISystem for world MechanicsDevSpace
+[2021.06.28-15.26.21:829][308]LogPlayLevel: PIE: World Init took: (0.002278s)
+[2021.06.28-15.26.21:829][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsDevSpace.MechanicsDevSpace to /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace (0.011490s)
+[2021.06.28-15.26.21:894][308]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2021.06.28-15.26.21:902][308]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.26.21:902][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.26.21:903][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.26.21:903][308]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.26.21:903][308]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.26.21:916][308]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.26.21:917][308]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.26.21:946][308]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.28-15.26.21:946][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.26.21:946][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.26.21:946][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.26.21:948][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.26.21:948][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.26.21:948][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.26.21:978][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.26.21:978][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.26.21:978][308]LogInit: FAudioDevice initialized.
+[2021.06.28-15.26.21:978][308]LogAudio: Display: Audio Device (ID: 37) registered with world 'MechanicsDevSpace'.
+[2021.06.28-15.26.22:032][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.26.22:033][308]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-15.26.22:036][308]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace up for play (max tick rate 0) at 2021.06.28-16.26.22
+[2021.06.28-15.26.22:036][308]LogWorld: Bringing up level for play took: 0.002407
+[2021.06.28-15.26.22:036][308]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.06.28-15.26.22:050][308]LogBlueprintUserMessages: [RockSpawner_2] 3
+[2021.06.28-15.26.22:054][308]PIE: Server logged in
+[2021.06.28-15.26.22:056][308]PIE: Play in editor total start time 0.272 seconds.
+[2021.06.28-15.26.40:084][190]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	AnySeed_C /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace:PersistentLevel.AnySeed_C_0
+	Function /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed_C:ExecuteUbergraph_AnySeed:0251
+[2021.06.28-15.26.40:085][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  AnySeed Function:  Execute Ubergraph Any Seed Graph:  EventGraph Node:  Set World Scale 3D
+[2021.06.28-15.26.40:198][196]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	AnySeed_C /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace:PersistentLevel.AnySeed_C_1
+	Function /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed_C:ExecuteUbergraph_AnySeed:0251
+[2021.06.28-15.26.40:198][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  AnySeed Function:  Execute Ubergraph Any Seed Graph:  EventGraph Node:  Set World Scale 3D
+[2021.06.28-15.26.41:082][237]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	AnySeed_C /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace:PersistentLevel.AnySeed_C_2
+	Function /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed_C:ExecuteUbergraph_AnySeed:0251
+[2021.06.28-15.26.41:083][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  AnySeed Function:  Execute Ubergraph Any Seed Graph:  EventGraph Node:  Set World Scale 3D
+[2021.06.28-15.26.42:606][311]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	AnySeed_C /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace:PersistentLevel.AnySeed_C_3
+	Function /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed_C:ExecuteUbergraph_AnySeed:0251
+[2021.06.28-15.26.42:607][311]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  AnySeed Function:  Execute Ubergraph Any Seed Graph:  EventGraph Node:  Set World Scale 3D
+[2021.06.28-15.26.43:123][336]LogScript: Warning: Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue
+	AnySeed_C /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace:PersistentLevel.AnySeed_C_4
+	Function /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed_C:ExecuteUbergraph_AnySeed:0251
+[2021.06.28-15.26.43:123][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_SpawnEmitterAtLocation_ReturnValue". Blueprint:  AnySeed Function:  Execute Ubergraph Any Seed Graph:  EventGraph Node:  Set World Scale 3D
+[2021.06.28-15.27.41:913][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.27.41:913][244]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-15.27.41:914][244]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-15.27.41:925][244]LogWorld: UWorld::CleanupWorld for MechanicsDevSpace, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.27.41:926][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.27.41:940][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-15.27.41:994][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.27.42:047][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-15.27.42:048][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.27.42:051][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.27.42:102][244]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2021.06.28-15.27.42:295][245]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.06.28-15.27.44:411][315]LogSlate: Window 'Message Log' being destroyed
+[2021.06.28-15.27.44:424][315]LogSlate: Window 'Message Log' being destroyed
+[2021.06.28-15.28.15:152][457]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.28-15.29.33:501][773]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-15.29.33:516][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-15.29.33:516][773]PIE: New page: PIE session: MechanicsDevSpace (28 Jun 2021, 17:29:33)
+[2021.06.28-15.29.33:516][773]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-15.29.33:525][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008787s)
+[2021.06.28-15.29.33:527][773]LogAIModule: Creating AISystem for world MechanicsDevSpace
+[2021.06.28-15.29.33:527][773]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2021.06.28-15.29.33:527][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsDevSpace.MechanicsDevSpace to /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace (0.010842s)
+[2021.06.28-15.29.33:581][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.06.28-15.29.33:584][773]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.29.33:584][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.29.33:584][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.29.33:585][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.29.33:585][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.29.33:598][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.29.33:598][773]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.29.33:627][773]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.28-15.29.33:627][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.29.33:627][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.29.33:627][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.29.33:628][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.29.33:629][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.29.33:629][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.29.33:656][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.29.33:656][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.29.33:657][773]LogInit: FAudioDevice initialized.
+[2021.06.28-15.29.33:657][773]LogAudio: Display: Audio Device (ID: 38) registered with world 'MechanicsDevSpace'.
+[2021.06.28-15.29.33:712][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.29.33:712][773]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-15.29.33:714][773]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace up for play (max tick rate 0) at 2021.06.28-16.29.33
+[2021.06.28-15.29.33:715][773]LogWorld: Bringing up level for play took: 0.001969
+[2021.06.28-15.29.33:715][773]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.06.28-15.29.33:726][773]LogBlueprintUserMessages: [RockSpawner_2] 3
+[2021.06.28-15.29.33:731][773]PIE: Server logged in
+[2021.06.28-15.29.33:734][773]PIE: Play in editor total start time 0.222 seconds.
+[2021.06.28-15.30.20:581][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.30.20:581][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-15.30.20:583][296]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-15.30.20:596][296]LogWorld: UWorld::CleanupWorld for MechanicsDevSpace, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.30.20:597][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.30.20:613][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-15.30.20:661][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.30.20:718][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.30.20:720][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.30.20:768][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.06.28-15.30.20:856][297]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.06.28-15.31.19:502][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
+[2021.06.28-15.31.52:699][630]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.31.52:699][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.33.01:358][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed
+[2021.06.28-15.33.39:338][305]BlueprintLog: New page: Compile AnySeed
+[2021.06.28-15.33.39:347][305]LogBlueprint: Error: [AssetLog] C:\Users\Willow\Desktop\Repo\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\Seeds\AnySeed.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.06.28-15.33.39:449][305]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2021.06.28-15.33.51:173][159]LogEditorTransaction: Undo Create Pin Link
+[2021.06.28-15.33.52:277][217]LogEditorTransaction: Undo Delete current selection
+[2021.06.28-15.34.10:522][522]BlueprintLog: New page: Compile AnySeed
+[2021.06.28-15.34.10:642][522]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2021.06.28-15.34.13:089][655]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-15.34.13:105][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-15.34.13:105][655]PIE: New page: PIE session: MechanicsDevSpace (28 Jun 2021, 17:34:13)
+[2021.06.28-15.34.13:115][655]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-15.34.13:122][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007010s)
+[2021.06.28-15.34.13:124][655]LogAIModule: Creating AISystem for world MechanicsDevSpace
+[2021.06.28-15.34.13:126][655]LogPlayLevel: PIE: World Init took: (0.002372s)
+[2021.06.28-15.34.13:126][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MechanicsDevSpace.MechanicsDevSpace to /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace (0.009768s)
+[2021.06.28-15.34.13:173][655]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.06.28-15.34.13:174][655]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.34.13:175][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.34.13:175][655]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.34.13:175][655]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.34.13:189][655]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.34.13:189][655]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.34.13:215][655]LogAudioMixer: Display: Using Audio Device Speakers (Plugable USB Audio Device)
+[2021.06.28-15.34.13:216][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.34.13:216][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.34.13:216][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.34.13:217][655]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.34.13:217][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.34.13:217][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.34.13:243][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.34.13:243][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.34.13:243][655]LogInit: FAudioDevice initialized.
+[2021.06.28-15.34.13:244][655]LogAudio: Display: Audio Device (ID: 39) registered with world 'MechanicsDevSpace'.
+[2021.06.28-15.34.13:301][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.34.13:301][655]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-15.34.13:305][655]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MechanicsDevSpace.MechanicsDevSpace up for play (max tick rate 0) at 2021.06.28-16.34.13
+[2021.06.28-15.34.13:305][655]LogWorld: Bringing up level for play took: 0.002460
+[2021.06.28-15.34.13:305][655]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.06.28-15.34.13:317][655]LogBlueprintUserMessages: [RockSpawner_2] 3
+[2021.06.28-15.34.13:322][655]PIE: Server logged in
+[2021.06.28-15.34.13:324][655]PIE: Play in editor total start time 0.224 seconds.
+[2021.06.28-15.34.19:777][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.34.19:777][991]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MechanicsDevSpace
+[2021.06.28-15.34.19:779][991]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-15.34.19:787][991]LogWorld: UWorld::CleanupWorld for MechanicsDevSpace, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.34.19:788][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.34.19:801][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-15.34.19:847][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.34.19:900][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-15.34.19:901][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.34.19:903][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-15.34.19:947][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.06.28-15.34.20:025][992]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.06.28-15.34.30:973][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.06.28-15.34.31:125][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/AnySeed141A8B154AE583B86CB0D9BBE49DCADA.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.uasset'
+[2021.06.28-15.34.31:150][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Spwaners/RockSpawner" FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/RockSpawner.uasset" SILENT=true
+[2021.06.28-15.34.31:207][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/RockSpawner8A22C7B34E608F91B7EA23BC784DB692.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/RockSpawner.uasset'
+[2021.06.28-15.34.31:232][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Spwaners/Rocks" FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/Rocks.uasset" SILENT=true
+[2021.06.28-15.34.31:251][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/RocksBE25F1A24DC18BE93CD9A1B91D3DFAEB.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/Rocks.uasset'
+[2021.06.28-15.34.31:255][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Spwaners/SmallRock" FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/SmallRock.uasset" SILENT=true
+[2021.06.28-15.34.31:264][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/SmallRock94D42D414CF8714B179256A73945210F.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/SmallRock.uasset'
+[2021.06.28-15.34.31:267][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Spwaners/MediumRock" FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/MediumRock.uasset" SILENT=true
+[2021.06.28-15.34.31:278][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/MediumRockDECFBB4A4300D29D92FFA0BEAE88DE99.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/MediumRock.uasset'
+[2021.06.28-15.34.31:280][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Spwaners/LargeRock" FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/LargeRock.uasset" SILENT=true
+[2021.06.28-15.34.31:291][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/LargeRock752AC890418E1D3C750434A658E6A9A2.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/LargeRock.uasset'
+[2021.06.28-15.34.31:294][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Spwaners/RockKillbox" FILE="C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/RockKillbox.uasset" SILENT=true
+[2021.06.28-15.34.31:309][549]LogSavePackage: Moving 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Saved/RockKillbox9055388C40A2D63566B26D8F0A64311B.tmp' to 'C:/Users/Willow/Desktop/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Spwaners/RockKillbox.uasset'
+[2021.06.28-15.34.31:443][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.06.28-15.34.31:459][549]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/AnySeed.AnySeed
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Spwaners/RockKillbox.RockKillbox
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Spwaners/LargeRock.LargeRock
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Spwaners/MediumRock.MediumRock
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Spwaners/SmallRock.SmallRock
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Spwaners/Rocks.Rocks
+[2021.06.28-15.34.31:460][549]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Spwaners/RockSpawner.RockSpawner
