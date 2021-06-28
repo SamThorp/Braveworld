@@ -7503,3 +7503,23 @@ Script Stack (0 frames):
 [2021.06.28-19.04.16:034][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/SeedWind]
 [2021.06.28-19.04.16:068][343]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Auto34B87008B4CB1E966CCB22BB71558240F.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Autosaves/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/SeedWind_Auto3.uasset'
 [2021.06.28-19.04.16:069][343]LogFileHelpers: Auto-saving content packages took 0.245
+[2021.06.28-19.06.48:099][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.28-19.06.48:151][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.28-19.06.48:155][244]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/TD_WindSeed_OA761B6984ADF2E20CFB83792F6151DF8.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_O.umap'
+[2021.06.28-19.06.48:167][244]LogFileHelpers: Saving map 'TD_WindSeed_O' took 0.043
+[2021.06.28-19.06.48:201][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.06.28-19.06.48:208][244]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/TD_WindSeed_MechanicsA76BA4F243B772BE59131B923FA16C6F.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Levels/TD_WindSeed/TD_WindSeed_Mechanics.umap'
+[2021.06.28-19.06.48:209][244]LogFileHelpers: Saving map 'TD_WindSeed_Mechanics' took 0.042
+[2021.06.28-19.06.48:358][244]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/MainCharacterC827027849F6836F8807AAA9D1D3BD03.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/MainCharacter.uasset'
+[2021.06.28-19.06.48:376][244]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Boost85BEFC2B4A12647A0CE4E18D41249F91.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/SeedWind_Boost.uasset'
+[2021.06.28-19.06.48:407][244]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWindA73D1B98467B4308CA705E8EEAE2A473.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/SeedWind.uasset'
+[2021.06.28-19.06.48:430][244]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Grass_WindA78CF4014D43F57102F749BB83188586.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/Grass_Wind.uasset'
+[2021.06.28-19.06.48:450][244]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.28-19.06.48:450][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
+[2021.06.28-19.06.48:450][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/SeedWind_Boost.SeedWind_Boost
+[2021.06.28-19.06.48:450][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/SeedWind.SeedWind
+[2021.06.28-19.06.48:450][244]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_Mechanics.TD_WindSeed_Mechanics
+[2021.06.28-19.06.48:450][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/Thorp/Grass_Wind.Grass_Wind
+[2021.06.28-19.06.48:450][244]LogContentValidation: Display: Validating World /Game/Levels/TD_WindSeed/TD_WindSeed_O.TD_WindSeed_O
+[2021.06.28-19.06.57:130][255]LogSlate: Window 'Message Log' being destroyed
+[2021.06.28-19.06.57:138][255]LogSlate: Window 'Message Log' being destroyed
