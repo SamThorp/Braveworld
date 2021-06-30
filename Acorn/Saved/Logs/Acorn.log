@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 06/30/21 11:20:14
 =======
 ﻿Log file open, 06/30/21 12:10:03
+>>>>>>> main
+=======
+﻿Log file open, 06/30/21 13:11:08
 >>>>>>> main
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
@@ -12,12 +16,16 @@ LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 
 LogStats: Stats thread started at 0.223696
 =======
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.290470
+>>>>>>> main
+=======
+LogStats: Stats thread started at 0.209011
 >>>>>>> main
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
-LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
@@ -43,37 +51,39 @@ LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin EditorScriptingUtilities
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin Niagara
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 >>>>>>> main
 LogPluginManager: Mounting plugin AlembicImporter
@@ -107,20 +117,23 @@ LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin OnlineSubsystem
 =======
+=======
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+>>>>>>> main
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin MLSDK
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
@@ -131,27 +144,35 @@ LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin MatineeToLevelSequence
-LogPluginManager: Mounting plugin LauncherChunkInstaller
-LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
+<<<<<<< HEAD
+>>>>>>> main
+=======
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
 >>>>>>> main
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin AppleMoviePlayer
+=======
+LogPluginManager: Mounting plugin TemplateSequence
+>>>>>>> main
 LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin AudioSynesthesia
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
@@ -159,8 +180,13 @@ LogPluginManager: Mounting plugin CableComponent
 =======
 >>>>>>> main
 LogPluginManager: Mounting plugin ChunkDownloader
+=======
+LogPluginManager: Mounting plugin AudioCapture
+>>>>>>> main
 LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CustomMeshComponent
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin EditableMesh
@@ -171,6 +197,14 @@ LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 >>>>>>> main
+=======
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+>>>>>>> main
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
@@ -179,11 +213,12 @@ LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin PostSplashScreen
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
@@ -227,8 +262,15 @@ LogPluginManager: Mounting plugin SteamVR
 LogXGEController: Cleaning working directory: C:/Users/team.braveworld/AppData/Local/Temp/UnrealXGEWorkingDir/
 =======
 LogPluginManager: Mounting plugin ScreenshotTools
+=======
+>>>>>>> main
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
@@ -332,6 +374,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.06.30-10.20.15:149][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.06.30-10.20.15:149][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -9025,4 +9068,859 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-11.42.23:707][193]LogD3D11RHI: CleanupD3DDevice
 [2021.06.30-11.42.23:724][193]LogExit: Exiting.
 [2021.06.30-11.42.23:772][193]Log file closed, 06/30/21 12:42:23
+>>>>>>> main
+=======
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.30-12.11.09:431][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.30-12.11.09:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:432][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:443][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.30-12.11.09:443][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.30-12.11.09:444][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.30-12.11.09:445][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.30-12.11.09:445][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.30-12.11.09:445][  0]LogHAL: Display: Platform has ~ 16 GB [17029599232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.30-12.11.09:445][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.30-12.11.09:445][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.30-12.11.09:445][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.30-12.11.09:446][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.30-12.11.09:447][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.30-12.11.09:447][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Repo/Braveworld/Acorn/Saved/Config/Windows/Editor.ini]
+[2021.06.30-12.11.09:447][  0]LogInit: Computer: ANDREW_LAPTOP
+[2021.06.30-12.11.09:447][  0]LogInit: User: speed
+[2021.06.30-12.11.09:447][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.06.30-12.11.09:447][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.30-12.11.09:447][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.30-12.11.09:447][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.30-12.11.09:447][  0]LogMemory: Process Physical Memory: 138.05 MB used, 138.05 MB peak
+[2021.06.30-12.11.09:447][  0]LogMemory: Process Virtual Memory: 111.05 MB used, 111.05 MB peak
+[2021.06.30-12.11.09:447][  0]LogMemory: Physical Memory: 8978.34 MB used,  7262.36 MB free, 16240.69 MB total
+[2021.06.30-12.11.09:447][  0]LogMemory: Virtual Memory: 134202096.00 MB used,  15627.98 MB free, 134217728.00 MB total
+[2021.06.30-12.11.09:454][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.30-12.11.09:499][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.30-12.11.09:500][  0]LogInit: Using OS detected language (en-GB).
+[2021.06.30-12.11.09:500][  0]LogInit: Using OS detected locale (en-GB).
+[2021.06.30-12.11.09:506][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.06.30-12.11.09:704][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.30-12.11.09:713][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.30-12.11.09:726][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.30-12.11.09:726][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.30-12.11.09:948][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.30-12.11.09:948][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.30-12.11.09:948][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.30-12.11.09:948][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.30-12.11.10:044][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2021.06.30-12.11.10:044][  0]LogD3D11RHI:       6052/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.30-12.11.10:086][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.06.30-12.11.10:086][  0]LogD3D11RHI:       128/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.06.30-12.11.10:088][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.30-12.11.10:088][  0]LogD3D11RHI:       0/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.30-12.11.10:088][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.30-12.11.10:093][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.30-12.11.10:093][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.30-12.11.10:093][  0]LogWindows: EnumDisplayDevices:
+[2021.06.30-12.11.10:094][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.06.30-12.11.10:094][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.30-12.11.10:094][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.30-12.11.10:094][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2021.06.30-12.11.10:095][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.06.30-12.11.10:095][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2021.06.30-12.11.10:095][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.06.30-12.11.10:095][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.06.30-12.11.10:095][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.06.30-12.11.10:172][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.30-12.11.10:172][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.30-12.11.10:172][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.30-12.11.10:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.30-12.11.10:189][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.30-12.11.10:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.30-12.11.10:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.30-12.11.10:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.30-12.11.10:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.30-12.11.10:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.30-12.11.10:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.30-12.11.10:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.30-12.11.10:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.30-12.11.10:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.30-12.11.10:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.30-12.11.10:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.30-12.11.10:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.30-12.11.10:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.30-12.11.10:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.30-12.11.10:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.30-12.11.10:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.30-12.11.10:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.30-12.11.10:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.30-12.11.10:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.30-12.11.10:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.30-12.11.10:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.30-12.11.10:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.30-12.11.10:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.30-12.11.10:696][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.30-12.11.10:703][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.30-12.11.10:760][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.30-12.11.10:760][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/Repo/Braveworld/Acorn/Intermediate/Shaders/WorkingDirectory/18876/).
+[2021.06.30-12.11.10:760][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/speed/AppData/Local/Temp/UnrealShaderWorkingDir/1C69BB004F7BF9BF9322C3BB28FFFF92/'.
+[2021.06.30-12.11.10:760][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.30-12.11.10:760][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.30-12.11.11:539][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.30-12.11.11:583][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/speed/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.30-12.11.11:583][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/speed/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.30-12.11.11:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Repo/Braveworld/Acorn/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.30-12.11.11:583][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.30-12.11.11:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Repo/Braveworld/Acorn/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.30-12.11.11:583][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.30-12.11.11:594][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.30-12.11.11:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.30-12.11.11:594][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.30-12.11.11:604][  0]LogDerivedDataCache: Speed tests for C:/Users/speed/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.30-12.11.11:604][  0]LogDerivedDataCache: Display: Performance to C:/Users/speed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=855.59MBs, RandomWriteSpeed=107.78MBs. Assigned SpeedClass 'Local'
+[2021.06.30-12.11.11:605][  0]LogDerivedDataCache: Using Local data cache path C:/Users/speed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.30-12.11.11:605][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.30-12.11.11:605][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.30-12.11.11:648][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.30-12.11.11:649][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.30-12.11.11:673][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.06.30-12.11.11:901][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.30-12.11.11:901][  0]LogInit: Active device profile: [000001F043D3A100][000001F04216B040 49] Windows
+[2021.06.30-12.11.11:901][  0]LogInit: Profiles: [000001F043D3A100][000001F04216B040 49] Windows, [000001F043D32100][000001F04349B1C0 49] WindowsNoEditor, [000001F043D3BE00][000001F04349F340 49] WindowsServer, [000001F043D30400][000001F0434A34C0 49] WindowsClient, [000001F043D38400][000001F043497600 49] IOS, [000001F043D33900][000001F0434A7740 49] iPadAir, [000001F043D3AA00][000001F0434AB880 49] iPadAir2, [000001F043CDF900][000001F0434B7B00 49] IPadPro, [000001F043CDFA00][000001F0434AFB40 49] iPadAir3, [000001F043D39700][000001F0434BBCC0 49] iPadAir4, [000001F043CDE600][000001F0434BE180 49] iPadMini2, [000001F043D3B800][000001F0434C2300 49] iPadMini3, [000001F043CDCF00][000001F0434C6480 49] iPadMini4, [000001F043D38A00][000001F0434CA600 49] iPadMini5, [000001F043D0B300][000001F0434D28C0 49] iPhone6, [000001F043D0B400][000001F0434CE900 49] iPodTouch6, [000001F043CDF700][000001F0434DABC0 49] iPhone7, [000001F043CDF600][000001F0434D6C00 49] iPodTouch7, [000001F043D0A600][000001F0434DED80 49] iPhone5S, [000001F043CDD800][000001F0434E2F00 49] iPhone6Plus, [000001F043D08E00][000001F0434E7080 49] iPhone6S, [000001F043CDC400][000001F0434EB200 49] iPhone6SPlus, [000001F043D0AD00][000001F0434EF380 49] iPhone7Plus, [000001F043CDFE00][000001F0434F3500 49] iPhoneSE, [000001F043D0A700][000001F0434B3640 49] iPhone8, [000001F043CDCA00][000001F0434F7780 49] iPhone8Plus, [000001F043D0A400][000001F0434FB8C0 49] iPhoneX, [000001F043CDD900][000001F0434FFA00 49] iPhoneXS, [000001F043D08700][000001F043507B80 49] iPhoneXSMax, [000001F043CDE800][000001F04350BD00 49] iPhoneXR, [000001F043D0B700][000001F04350E1C0 49] iPhone11, [000001F043CDF400][000001F043512340 49] iPhone11Pro, [000001F043D0A300][000001F0435164C0 49] iPhone11ProMax, [000001F043CDDA00][000001F04351A640 49] iPhoneSE2, [000001F043D09900][000001F04351E7C0 49] iPhone12Mini, [000001F043CDC500][000001F043522940 49] iPhone12, [000001F043D08400][000001F043526AC0 49] iPhone12Pro, [000001F043CDE900][000001F04352AC40 49] iPhone12ProMax, [000001F043D0A900][000001F04352EDC0 49] iPadPro105, [000001F043CDD500][000001F043532F40 49] iPadPro129, [000001F043D09700][000001F0435370C0 49] iPadPro97, [000001F043CDEE00][000001F04353B240 49] iPadPro2_129, [000001F043D09000][000001F04353F3C0 49] iPad5, [000001F043CDD200][000001F043543540 49] iPad6, [000001F043D32B00][000001F0435476C0 49] iPad7, [000001F043D0AF00][000001F043503800 49] iPad8, [000001F043D32000][000001F04354B940 49] iPadPro11, [000001F043D0BC00][000001F04354FA80 49] iPadPro2_11, [000001F043D33000][000001F043557C00 49] iPadPro3_129, [000001F043D0B000][000001F04355A0C0 49] iPadPro4_129, [000001F043D32700][000001F04355E240 49] AppleTV, [000001F043D09E00][000001F0435623C0 49] AppleTV4K, [000001F043D32300][000001F043566540 49] TVOS, [000001F043D08600][000001F04356A6C0 49] Mac, [000001F043D30100][000001F04356E840 49] MacClient, [000001F043D0A000][000001F0435729C0 49] MacNoEditor, [000001F043D33800][000001F043576B40 49] MacServer, [000001F043CDC600][000001F04357ACC0 49] Linux, [000001F043D32800][000001F044590E40 49] LinuxAArch64, [000001F043CDD000][000001F044594FC0 49] LinuxNoEditor, [000001F043D33C00][000001F044599140 49] LinuxAArch64NoEditor, [000001F043CDED00][000001F04459D2C0 49] LinuxClient, [000001F043D33D00][000001F0445A1440 49] LinuxAArch64Client, [000001F043CDE200][000001F0445A55C0 49] LinuxServer, [000001F043D30C00][000001F0445A9740 49] LinuxAArch64Server, [000001F043CDD700][000001F043553880 49] Android, [000001F043D31700][000001F0445AD9C0 49] Android_Low, [000001F043CDC700][000001F0445B1B00 49] Android_Mid, [000001F043D32F00][000001F0445B5C40 49] Android_High, [000001F043CDDB00][000001F0445BC100 49] Android_Default, [000001F043D33300][000001F0445C0280 49] Android_Adreno4xx, [000001F043CDCD00][000001F0445C4400 49] Android_Adreno5xx_Low, [000001F043D32400][000001F0445C8580 49] Android_Adreno5xx, [000001F043CDDF00][000001F0445CC700 49] Android_Adreno6xx, [000001F043D31B00][000001F0445D0880 49] Android_Adreno6xx_Vulkan, [000001F043CDE400][000001F0445D4A00 49] Android_Mali_T6xx, [000001F043D32C00][000001F0445D8B80 49] Android_Mali_T7xx, [000001F043CDE100][000001F0445DCD00 49] Android_Mali_T8xx, [000001F043D31D00][000001F0445E0E80 49] Android_Mali_G71, [000001F043CDC200][000001F0445E5000 49] Android_Mali_G72, [000001F043D31100][000001F0445E9180 49] Android_Mali_G72_Vulkan, [000001F043CDF000][000001F0445ED300 49] Android_Mali_G76, [000001F043D31500][000001F0445F1480 49] Android_Mali_G76_Vulkan, [000001F043CDFD00][000001F0445F5600 49] Android_Mali_G77, [000001F043D31900][000001F0445F9780 49] Android_Mali_G77_Vulkan, [000001F043CDEC00][000001F0445B98C0 49] Android_Vulkan_SM5, [000001F043D30300][000001F0445FDA00 49] Android_PowerVR_G6xxx, [000001F043CDF100][000001F044601B40 49] Android_PowerVR_GT7xxx, [000001F043D32500][000001F044605C80 49] Android_PowerVR_GE8xxx, [000001F043CDC900][000001F04460C140 49] Android_PowerVR_GM9xxx, [000001F043D33600][000001F0446102C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001F043CDD600][000001F044614440 49] Android_TegraK1, [000001F043D30F00][000001F0446185C0 49] Android_Unknown_Vulkan, [000001F043CDF500][000001F04461C740 49] Lumin, [000001F043D32600][000001F0446208C0 49] Lumin_Desktop, [000001F043CDFF00][000001F044624A40 49] HoloLens, 
+[2021.06.30-12.11.12:000][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.30-12.11.12:000][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.30-12.11.12:000][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.30-12.11.12:000][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.30-12.11.12:000][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.30-12.11.12:016][  0]LogNetVersion: Acorn 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2177674107)
+[2021.06.30-12.11.12:436][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.30-12.11.12:466][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.029896 seconds
+[2021.06.30-12.11.12:471][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.30-12.11.12:471][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.30-12.11.12:471][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.30-12.11.12:721][  0]LogPython: Using Python 3.7.7
+[2021.06.30-12.11.13:531][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.30-12.11.13:535][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.30-12.11.13:645][  0]SourceControl: Source control is disabled
+[2021.06.30-12.11.13:645][  0]SourceControl: Source control is disabled
+[2021.06.30-12.11.13:647][  0]SourceControl: Source control is disabled
+[2021.06.30-12.11.13:650][  0]SourceControl: Source control is disabled
+[2021.06.30-12.11.13:658][  0]SourceControl: Source control is disabled
+[2021.06.30-12.11.13:663][  0]LogUProjectInfo: Found projects:
+[2021.06.30-12.11.13:670][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.30-12.11.13:671][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.30-12.11.13:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.30-12.11.13:970][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.30-12.11.13:970][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.30-12.11.14:062][  0]LogCollectionManager: Loaded 0 collections in 0.000667 seconds
+[2021.06.30-12.11.14:089][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/Braveworld/Acorn/Saved/Collections/' took 0.00s
+[2021.06.30-12.11.14:089][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/Braveworld/Acorn/Content/Developers/speed/Collections/' took 0.00s
+[2021.06.30-12.11.14:089][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/Braveworld/Acorn/Content/Collections/' took 0.00s
+[2021.06.30-12.11.14:089][  0]LogOcInput: OculusInput pre-init called
+[2021.06.30-12.11.14:104][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.30-12.11.14:104][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.30-12.11.14:504][  0]LogEngine: Initializing Engine...
+[2021.06.30-12.11.14:505][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.30-12.11.14:505][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.30-12.11.14:506][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.30-12.11.14:601][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.30-12.11.14:610][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.30-12.11.14:624][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.30-12.11.14:627][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.30-12.11.14:627][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-12.11.14:628][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-12.11.14:628][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-12.11.14:628][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-12.11.14:646][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-12.11.14:646][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-12.11.14:750][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.06.30-12.11.14:751][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-12.11.14:753][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-12.11.14:753][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-12.11.14:754][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-12.11.14:754][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-12.11.14:754][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-12.11.14:755][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-12.11.14:755][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-12.11.14:755][  0]LogInit: FAudioDevice initialized.
+[2021.06.30-12.11.14:755][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.30-12.11.14:755][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.30-12.11.14:836][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/speed/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.30-12.11.14:838][  0]LogInit: Texture streaming: Enabled
+[2021.06.30-12.11.14:849][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.30-12.11.14:855][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.30-12.11.14:855][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.30-12.11.14:866][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.30-12.11.14:889][  0]LogInit: Transaction tracking system initialized
+[2021.06.30-12.11.14:907][  0]BlueprintLog: New page: Editor Load
+[2021.06.30-12.11.14:971][  0]LocalizationService: Localization service is disabled
+[2021.06.30-12.11.14:992][  0]TimingProfiler: Initialize
+[2021.06.30-12.11.14:992][  0]TimingProfiler: OnSessionChanged
+[2021.06.30-12.11.14:992][  0]LoadingProfiler: Initialize
+[2021.06.30-12.11.14:992][  0]LoadingProfiler: OnSessionChanged
+[2021.06.30-12.11.14:992][  0]NetworkingProfiler: Initialize
+[2021.06.30-12.11.14:992][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.30-12.11.14:992][  0]MemoryProfiler: Initialize
+[2021.06.30-12.11.14:992][  0]MemoryProfiler: OnSessionChanged
+[2021.06.30-12.11.15:050][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.30-12.11.15:051][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.06.30-12.11.15:124][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.30-12.11.15:124][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.30-12.11.15:302][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/Braveworld/Acorn/Content/' took 0.00s
+[2021.06.30-12.11.15:492][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.30-12.11.15:500][  0]SourceControl: Source control is disabled
+[2021.06.30-12.11.15:500][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.123
+[2021.06.30-12.11.15:500][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-12.11.15:500][  0]LightingResults: New page: Lighting Build
+[2021.06.30-12.11.15:502][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-12.11.15:502][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-12.11.15:502][  0]MapCheck: New page: Map Check
+[2021.06.30-12.11.15:502][  0]LightingResults: New page: Lighting Build
+[2021.06.30-12.11.15:509][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.30-12.11.15:558][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.30-12.11.15:567][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.06.30-12.11.15:568][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.30-12.11.15:571][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-12.11.15:578][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.06.30-12.11.15:578][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-12.11.15:578][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2021.06.30-12.11.15:578][  0]LogFileHelpers: Loading map 'Template_Default' took 0.079
+[2021.06.30-12.11.15:580][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.204
+[2021.06.30-12.11.15:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-12.11.15:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-12.11.15:727][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-12.11.15:732][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-12.11.15:749][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3628 classes and 872 folders.
+[2021.06.30-12.11.15:752][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.30-12.11.15:754][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-12.11.15:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-12.11.15:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.06.30-12.11.15:755][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.30-12.11.15:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.30-12.11.15:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.06.30-12.11.15:755][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.30-12.11.15:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.30-12.11.15:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.06.30-12.11.15:756][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-12.11.15:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-12.11.15:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.30-12.11.15:756][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.30-12.11.15:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.30-12.11.15:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.30-12.11.15:757][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.30-12.11.15:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.30-12.11.15:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.30-12.11.15:758][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.30-12.11.15:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.30-12.11.15:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.30-12.11.15:758][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.30-12.11.15:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.30-12.11.15:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.30-12.11.15:759][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-12.11.15:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-12.11.15:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.30-12.11.15:759][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.30-12.11.15:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.30-12.11.15:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.30-12.11.15:760][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.30-12.11.15:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.30-12.11.15:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.30-12.11.15:760][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-12.11.15:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-12.11.15:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.30-12.11.15:761][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-12.11.15:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-12.11.15:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.30-12.11.15:762][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-12.11.15:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-12.11.15:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.30-12.11.15:762][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.30-12.11.15:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.30-12.11.15:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.30-12.11.15:763][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-12.11.15:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-12.11.15:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.30-12.11.15:763][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.30-12.11.15:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.30-12.11.15:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.30-12.11.15:764][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-12.11.15:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-12.11.15:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.30-12.11.15:765][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-12.11.15:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-12.11.15:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.30-12.11.15:765][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-12.11.15:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-12.11.15:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.30-12.11.15:766][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-12.11.15:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-12.11.15:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.30-12.11.15:766][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-12.11.15:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-12.11.15:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.06.30-12.11.15:767][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.30-12.11.15:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.30-12.11.15:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.30-12.11.15:768][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-12.11.15:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-12.11.15:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.30-12.11.15:768][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-12.11.15:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-12.11.15:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.06.30-12.11.15:769][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.30-12.11.15:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.11.15:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.30-12.11.15:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.06.30-12.11.15:817][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.30-12.11.15:818][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.30-12.11.15:899][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.30-12.11.15:900][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.30-12.11.15:903][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.30-12.11.15:980][  0]LogRenderer: Reallocating scene render targets to support 868x440 Format 10 NumSamples 1 (Frame:1).
+[2021.06.30-12.11.16:069][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.30-12.11.16:069][  0]LogLoad: (Engine Initialization) Total time: 7.69 seconds
+[2021.06.30-12.11.16:069][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.30-12.11.16:069][  0]LogInit: First time updating LLM stats...
+[2021.06.30-12.11.16:109][  0]LogAssetRegistry: Asset discovery search completed in 4.4371 seconds
+[2021.06.30-12.11.16:110][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.06.30-12.11.16:155][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.06.30-12.11.16:758][  2]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-12.13.13:566][181]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.Rail_BP_C' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.Rail_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.Rail_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.Rail_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.Rail_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.SKEL_Rail_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.SKEL_Rail_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.SKEL_Rail_BP_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.SKEL_Rail_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.SKEL_Rail_BP_C' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:577][181]LogMetaData: Removing '/Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.13.13:644][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.13.13:669][181]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BPF36B89B64A1BA9BE77B3A2B9A094D840.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Rail_BP.uasset'
+[2021.06.30-12.13.13:747][181]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP'
+[2021.06.30-12.13.13:766][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.30-12.13.13:803][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.30-12.13.13:808][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.30-12.13.13:833][181]AssetCheck: New page: Asset Save: Rail_BP
+[2021.06.30-12.13.13:833][181]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Rail_BP.Rail_BP
+[2021.06.30-12.13.17:574][301]LogMetaData: Removing '/Game/Blueprints/Willow/SplineStruct.SplineStruct' ref from Metadata '/Game/Blueprints/Willow/Minecart/SplineStruct.PackageMetaData'
+[2021.06.30-12.13.17:642][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/SplineStruct" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/SplineStruct.uasset" SILENT=true
+[2021.06.30-12.13.17:643][301]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/SplineStruct32258826494AF241F25C42AC9A9135A4.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/SplineStruct.uasset'
+[2021.06.30-12.13.17:746][301]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Willow/Minecart/SplineStruct.SplineStruct'
+[2021.06.30-12.13.17:763][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.30-12.13.17:800][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.30-12.13.17:804][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.06.30-12.13.17:841][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.13.17:866][301]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BPCC28F0DB43F0F1E4540068AE7B53C0FB.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Rail_BP.uasset'
+[2021.06.30-12.13.17:918][301]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-12.13.17:918][301]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Rail_BP.Rail_BP
+[2021.06.30-12.13.17:918][301]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Willow/SplineStruct.SplineStruct
+[2021.06.30-12.13.46:845][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.30-12.13.48:763][617]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Willow/Rail_BP.Rail_BP
+[2021.06.30-12.13.48:967][617]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.06.30-12.13.49:802][617]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.49:802][617]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.49:803][617]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.49:803][617]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.49:807][617]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.30-12.13.51:586][667]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.30-12.13.52:506][692]BlueprintLog: New page: Compile Rail_BP
+[2021.06.30-12.13.52:516][692]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.52:516][692]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.52:516][692]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.52:516][692]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.52:558][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.30-12.13.52:560][692]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.52:560][692]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.52:560][692]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.52:560][692]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.52:571][692]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.52:571][692]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:017A
+[2021.06.30-12.13.52:571][692]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.52:571][692]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Engine/Transient.World_0:PersistentLevel.Rail_BP_C_0
+	Function /Game/Blueprints/Willow/Rail_BP.Rail_BP_C:UserConstructionScript:01AA
+[2021.06.30-12.13.52:631][692]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.30-12.13.53:244][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.13.53:266][704]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BPB8D65D664F2500B311BBC8965A4F6F25.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Rail_BP.uasset'
+[2021.06.30-12.13.53:307][704]AssetCheck: New page: Asset Save: Rail_BP
+[2021.06.30-12.13.53:307][704]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Rail_BP.Rail_BP
+[2021.06.30-12.13.56:200][767]LogSlate: Window 'Rail_BP' being destroyed
+[2021.06.30-12.13.56:259][767]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-12.13.56:260][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-12.13.57:610][822]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Willow/SplineStruct.SplineStruct
+[2021.06.30-12.13.59:410][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/SplineStruct" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/SplineStruct.uasset" SILENT=true
+[2021.06.30-12.13.59:411][865]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/SplineStruct57AAADD041C271E2FB72C8B5740EDBA3.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/SplineStruct.uasset'
+[2021.06.30-12.13.59:476][865]AssetCheck: New page: Asset Save: SplineStruct
+[2021.06.30-12.13.59:476][865]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Willow/SplineStruct.SplineStruct
+[2021.06.30-12.14.00:957][898]LogSlate: Window 'SplineStruct' being destroyed
+[2021.06.30-12.14.02:375][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP_C' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.SKEL_Rail_BP_C' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.SKEL_Rail_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.SKEL_Rail_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.SKEL_Rail_BP_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.SKEL_Rail_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.12:981][906]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Willow/Rail_BP.PackageMetaData'
+[2021.06.30-12.17.13:048][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Minecart/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.17.13:071][906]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BPA36FFD1146ADC2060A0140926494B54E.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/Rail_BP.uasset'
+[2021.06.30-12.17.13:154][906]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Willow/Rail_BP.Rail_BP'
+[2021.06.30-12.17.13:181][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.30-12.17.13:220][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.06.30-12.17.13:234][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.30-12.17.13:266][906]AssetCheck: New page: Asset Save: Rail_BP
+[2021.06.30-12.17.13:266][906]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP
+[2021.06.30-12.17.15:398][960]LogMetaData: Removing '/Game/Blueprints/Willow/Minecart/SplineStruct.SplineStruct' ref from Metadata '/Game/Blueprints/Willow/SplineStruct.PackageMetaData'
+[2021.06.30-12.17.15:465][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Minecart/SplineStruct" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/SplineStruct.uasset" SILENT=true
+[2021.06.30-12.17.15:467][960]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/SplineStructF61F34814FA690B8122F14B0237E2598.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/SplineStruct.uasset'
+[2021.06.30-12.17.15:569][960]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Willow/SplineStruct.SplineStruct'
+[2021.06.30-12.17.15:598][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.06.30-12.17.15:636][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.06.30-12.17.15:650][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.06.30-12.17.15:682][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Minecart/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.17.15:704][960]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BP2B4CF8374D0D004771F7B0981AE5503F.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/Rail_BP.uasset'
+[2021.06.30-12.17.15:765][960]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-12.17.15:765][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP
+[2021.06.30-12.17.15:765][960]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Willow/Minecart/SplineStruct.SplineStruct
+[2021.06.30-12.17.18:727][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.06.30-12.17.22:550][206]LogContentBrowser: Deferred new asset file creation: SplineStruct1
+[2021.06.30-12.17.22:565][206]LogContentBrowser: Creating deferred item: SplineStruct1
+[2021.06.30-12.17.23:538][266]LogContentBrowser: Attempting asset rename: SplineStruct1 -> SplineStruct1
+[2021.06.30-12.17.23:545][266]LogClass: UUserDefinedStruct.Serialize 'SplineStruct1' validation: Struct 'UserDefinedStruct /Game/Blueprints/Willow/Minecart/SplineStruct1.SplineStruct1' is empty
+[2021.06.30-12.17.23:552][266]LogContentBrowser: End creating deferred item SplineStruct1
+[2021.06.30-12.17.24:969][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.30-12.17.26:193][335]LogSlate: Window 'Save Content' being destroyed
+[2021.06.30-12.17.26:249][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Minecart/SplineStruct1" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/SplineStruct1.uasset" SILENT=true
+[2021.06.30-12.17.26:250][335]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/SplineStruct1E2FD29ED443164A643B74EAC4C3962C2.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/SplineStruct1.uasset'
+[2021.06.30-12.17.26:307][335]AssetCheck: New page: Asset Save: SplineStruct1
+[2021.06.30-12.17.26:307][335]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Willow/Minecart/SplineStruct1.SplineStruct1
+[2021.06.30-12.17.40:337][671]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.06.30-12.17.40:345][671]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.06.30-12.17.41:301][730]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2021.06.30-12.17.41:314][730]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.06.30-12.17.42:500][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.06.30-12.17.44:678][787]LogSlate: Window 'Save Content' being destroyed
+[2021.06.30-12.17.44:735][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Minecart/NewUserDefinedStruct" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/NewUserDefinedStruct.uasset" SILENT=true
+[2021.06.30-12.17.44:737][787]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewUserDefinedStruct26B2337B41ED599BA9A882B0A607EB13.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/NewUserDefinedStruct.uasset'
+[2021.06.30-12.17.44:792][787]AssetCheck: New page: Asset Save: NewUserDefinedStruct
+[2021.06.30-12.17.44:792][787]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Willow/Minecart/NewUserDefinedStruct.NewUserDefinedStruct
+[2021.06.30-12.17.56:467][111]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.06.30-12.17.56:480][111]LogContentBrowser: Creating deferred item: NewWorld
+[2021.06.30-12.17.57:268][160]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2021.06.30-12.17.57:292][160]LogContentBrowser: End creating deferred item NewWorld
+[2021.06.30-12.18.00:711][208]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.06.30-12.18.00:736][208]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.06.30-12.18.00:743][208]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.06.30-12.18.01:599][261]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.06.30-12.18.01:607][261]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.06.30-12.18.02:901][293]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.06.30-12.18.02:909][293]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.06.30-12.18.03:532][332]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2021.06.30-12.18.03:533][332]LogContentBrowser: End creating deferred item NewMaterial
+[2021.06.30-12.18.04:755][361]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2021.06.30-12.18.04:764][361]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2021.06.30-12.18.05:569][411]LogContentBrowser: Attempting asset rename: NewParticleSystem -> NewParticleSystem
+[2021.06.30-12.18.05:570][411]LogContentBrowser: End creating deferred item NewParticleSystem
+[2021.06.30-12.18.18:362][589]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.06.30-12.18.18:384][589]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2021.06.30-12.18.18:391][589]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2021.06.30-12.18.19:248][642]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NewBlueprint1
+[2021.06.30-12.18.19:256][642]LogContentBrowser: End creating deferred item NewBlueprint1
+[2021.06.30-12.18.28:233][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.06.30-12.18.29:478][804]LogSlate: Window 'Save Content' being destroyed
+[2021.06.30-12.18.29:535][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="D:/Repo/Braveworld/Acorn/Content/NewBlueprint.uasset" SILENT=true
+[2021.06.30-12.18.29:538][804]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewBlueprintFED22F7B4E8FCA81C0E2C3AB282C6FD4.tmp' to 'D:/Repo/Braveworld/Acorn/Content/NewBlueprint.uasset'
+[2021.06.30-12.18.29:539][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint1" FILE="D:/Repo/Braveworld/Acorn/Content/NewBlueprint1.uasset" SILENT=true
+[2021.06.30-12.18.29:540][804]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewBlueprint10C52987F426483B4BF4A5399ABFD0132.tmp' to 'D:/Repo/Braveworld/Acorn/Content/NewBlueprint1.uasset'
+[2021.06.30-12.18.29:562][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="D:/Repo/Braveworld/Acorn/Content/NewMaterial.uasset" SILENT=true
+[2021.06.30-12.18.29:567][804]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewMaterial2347A7C04E281075B14723B3ECCFC9B0.tmp' to 'D:/Repo/Braveworld/Acorn/Content/NewMaterial.uasset'
+[2021.06.30-12.18.29:570][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewParticleSystem" FILE="D:/Repo/Braveworld/Acorn/Content/NewParticleSystem.uasset" SILENT=true
+[2021.06.30-12.18.29:572][804]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewParticleSystem2544ECDA4C6DA426373D5E84A27DFEF3.tmp' to 'D:/Repo/Braveworld/Acorn/Content/NewParticleSystem.uasset'
+[2021.06.30-12.18.29:573][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld" FILE="D:/Repo/Braveworld/Acorn/Content/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-12.18.29:588][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.06.30-12.18.29:590][804]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewWorld17206FD04E9369A232DF0BA7901BDEA4.tmp' to 'D:/Repo/Braveworld/Acorn/Content/NewWorld.umap'
+[2021.06.30-12.18.29:590][804]LogFileHelpers: Saving map 'NewWorld' took 0.019
+[2021.06.30-12.18.29:625][804]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-12.18.29:625][804]LogContentValidation: Display: Validating Blueprint /Game/NewBlueprint1.NewBlueprint1
+[2021.06.30-12.18.29:625][804]LogContentValidation: Display: Validating ParticleSystem /Game/NewParticleSystem.NewParticleSystem
+[2021.06.30-12.18.29:625][804]LogContentValidation: Display: Validating Material /Game/NewMaterial.NewMaterial
+[2021.06.30-12.18.29:625][804]LogContentValidation: Display: Validating Blueprint /Game/NewBlueprint.NewBlueprint
+[2021.06.30-12.18.29:625][804]LogContentValidation: Display: Validating World /Game/NewWorld.NewWorld
+[2021.06.30-12.19.35:168][116]LogMetaData: Removing '/Game/NewUserDefinedStruct.NewUserDefinedStruct' ref from Metadata '/Game/Blueprints/Willow/Minecart/NewUserDefinedStruct.PackageMetaData'
+[2021.06.30-12.19.35:235][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewUserDefinedStruct" FILE="D:/Repo/Braveworld/Acorn/Content/NewUserDefinedStruct.uasset" SILENT=true
+[2021.06.30-12.19.35:236][116]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/NewUserDefinedStructC4999A9A4785E1FD1732CAAEFD564235.tmp' to 'D:/Repo/Braveworld/Acorn/Content/NewUserDefinedStruct.uasset'
+[2021.06.30-12.19.35:341][116]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Willow/Minecart/NewUserDefinedStruct.NewUserDefinedStruct'
+[2021.06.30-12.19.35:371][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.06.30-12.19.35:416][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.06.30-12.19.35:431][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.30-12.19.35:461][116]AssetCheck: New page: Asset Save: NewUserDefinedStruct
+[2021.06.30-12.19.35:461][116]LogContentValidation: Display: Validating UserDefinedStruct /Game/NewUserDefinedStruct.NewUserDefinedStruct
+[2021.06.30-12.19.38:536][199]LogMetaData: Removing '/Game/SplineStruct1.SplineStruct1' ref from Metadata '/Game/Blueprints/Willow/Minecart/SplineStruct1.PackageMetaData'
+[2021.06.30-12.19.38:603][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SplineStruct1" FILE="D:/Repo/Braveworld/Acorn/Content/SplineStruct1.uasset" SILENT=true
+[2021.06.30-12.19.38:604][199]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/SplineStruct172F305AA4A85B757EB3D1783D55EB04C.tmp' to 'D:/Repo/Braveworld/Acorn/Content/SplineStruct1.uasset'
+[2021.06.30-12.19.38:736][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.30-12.19.38:774][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.06.30-12.19.38:789][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.06.30-12.19.38:818][199]AssetCheck: New page: Asset Save: SplineStruct1
+[2021.06.30-12.19.38:818][199]LogContentValidation: Display: Validating UserDefinedStruct /Game/SplineStruct1.SplineStruct1
+[2021.06.30-12.19.42:619][298]LogMetaData: Removing '/Game/SplineStruct.SplineStruct' ref from Metadata '/Game/Blueprints/Willow/Minecart/SplineStruct.PackageMetaData'
+[2021.06.30-12.19.42:685][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SplineStruct" FILE="D:/Repo/Braveworld/Acorn/Content/SplineStruct.uasset" SILENT=true
+[2021.06.30-12.19.42:687][298]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/SplineStruct258E5C9D4BD53D20E48CA9AAC9D94C8B.tmp' to 'D:/Repo/Braveworld/Acorn/Content/SplineStruct.uasset'
+[2021.06.30-12.19.42:818][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.06.30-12.19.42:855][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.06.30-12.19.42:870][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.06.30-12.19.42:902][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Willow/Minecart/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.19.42:925][298]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BP4D50BBCB471AB619DF90188088A8DD07.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Blueprints/Willow/Minecart/Rail_BP.uasset'
+[2021.06.30-12.19.42:987][298]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-12.19.42:987][298]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Willow/Minecart/Rail_BP.Rail_BP
+[2021.06.30-12.19.42:987][298]LogContentValidation: Display: Validating UserDefinedStruct /Game/SplineStruct.SplineStruct
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.Rail_BP_C' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.Rail_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.SKEL_Rail_BP_C' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.SKEL_Rail_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.SKEL_Rail_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.SKEL_Rail_BP_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.SKEL_Rail_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.Rail_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.Rail_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.Rail_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:686][342]LogMetaData: Removing '/Game/Rail_BP.Rail_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Willow/Minecart/Rail_BP.PackageMetaData'
+[2021.06.30-12.19.44:754][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rail_BP" FILE="D:/Repo/Braveworld/Acorn/Content/Rail_BP.uasset" SILENT=true
+[2021.06.30-12.19.44:777][342]LogSavePackage: Moving 'D:/Repo/Braveworld/Acorn/Saved/Rail_BP522E6C8540E922ADE532E4BF2AC7D8A4.tmp' to 'D:/Repo/Braveworld/Acorn/Content/Rail_BP.uasset'
+[2021.06.30-12.19.44:886][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.06.30-12.19.44:923][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.06.30-12.19.44:938][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.06.30-12.19.44:970][342]AssetCheck: New page: Asset Save: Rail_BP
+[2021.06.30-12.19.44:970][342]LogContentValidation: Display: Validating Blueprint /Game/Rail_BP.Rail_BP
+[2021.06.30-12.20.17:141][ 32]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2021.06.30-12.20.17:141][ 32]LogObjectTools: Currently 2 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_1
+[2021.06.30-12.20.17:159][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.06.30-12.20.18:616][ 32]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-12.20.18:662][ 32]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/NewBlueprint.NewBlueprint
+	Asset Name: /Game/NewBlueprint1.NewBlueprint1
+	Asset Name: /Game/NewMaterial.NewMaterial
+	Asset Name: /Game/NewParticleSystem.NewParticleSystem
+	Asset Name: /Game/NewUserDefinedStruct.NewUserDefinedStruct
+	Asset Name: /Game/NewWorld.NewWorld
+	Asset Name: /Game/SplineStruct1.SplineStruct1
+[2021.06.30-12.20.19:299][ 32]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-12.20.19:299][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-12.20.19:404][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.06.30-12.20.19:422][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.06.30-12.20.19:437][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.30-12.20.19:451][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.06.30-12.20.19:467][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.06.30-12.20.19:482][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.06.30-12.20.19:497][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.06.30-12.20.19:513][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.06.30-12.20.19:529][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.30-12.20.21:284][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
 >>>>>>> main
