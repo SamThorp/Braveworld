@@ -1,0 +1,1312 @@
+﻿Log file open, 08/24/21 13:40:44
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Acorn
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.553728
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/samco/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.24-12.40.48:621][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.24-12.40.48:621][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.24-12.40.48:631][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:631][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.24-12.40.48:674][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.24-12.40.48:679][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.24-12.40.48:679][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.24-12.40.48:680][  0]LogHAL: Display: Platform has ~ 16 GB [17102516224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.24-12.40.48:687][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.24-12.40.48:687][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.24-12.40.48:695][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.24-12.40.48:695][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.24-12.40.48:695][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.24-12.40.48:695][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.24-12.40.48:695][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Editor.ini]
+[2021.08.24-12.40.48:708][  0]LogInit: Computer: DESKTOP-VCPQI3U
+[2021.08.24-12.40.48:708][  0]LogInit: User: samco
+[2021.08.24-12.40.48:708][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.24-12.40.48:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.24-12.40.48:708][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.24-12.40.48:713][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.24-12.40.48:713][  0]LogMemory: Process Physical Memory: 141.46 MB used, 141.47 MB peak
+[2021.08.24-12.40.48:713][  0]LogMemory: Process Virtual Memory: 118.41 MB used, 118.41 MB peak
+[2021.08.24-12.40.48:713][  0]LogMemory: Physical Memory: 5253.18 MB used,  11057.05 MB free, 16310.23 MB total
+[2021.08.24-12.40.48:713][  0]LogMemory: Virtual Memory: 134204416.00 MB used,  13310.00 MB free, 134217728.00 MB total
+[2021.08.24-12.40.48:718][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.24-12.40.49:618][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.24-12.40.49:632][  0]LogInit: Using OS detected language (en-GB).
+[2021.08.24-12.40.49:632][  0]LogInit: Using OS detected locale (en-GB).
+[2021.08.24-12.40.49:821][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.08.24-12.40.50:349][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.24-12.40.50:567][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.24-12.40.50:832][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.24-12.40.50:832][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.24-12.40.52:889][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.24-12.40.52:889][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.24-12.40.52:889][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.24-12.40.52:889][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.24-12.40.53:050][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.08.24-12.40.53:050][  0]LogD3D11RHI:       12143/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.24-12.40.53:051][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.24-12.40.53:051][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.24-12.40.53:051][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.24-12.40.53:059][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.24-12.40.53:059][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.24-12.40.53:059][  0]LogWindows: EnumDisplayDevices:
+[2021.08.24-12.40.53:059][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.08.24-12.40.53:059][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.24-12.40.53:059][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.24-12.40.53:060][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.24-12.40.53:060][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.24-12.40.53:060][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.08.24-12.40.53:060][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.24-12.40.53:060][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.24-12.40.53:060][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.08.24-12.40.53:122][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.24-12.40.53:123][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.24-12.40.53:123][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.24-12.40.53:470][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.24-12.40.53:482][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.24-12.40.54:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.24-12.40.54:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.24-12.40.54:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.24-12.40.54:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.24-12.40.54:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.24-12.40.54:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.24-12.40.54:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.24-12.40.54:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.24-12.40.54:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.24-12.40.54:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.24-12.40.54:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.24-12.40.54:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.24-12.40.54:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.24-12.40.54:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.24-12.40.54:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.24-12.40.54:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.24-12.40.54:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.24-12.40.54:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.24-12.40.54:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.24-12.40.54:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.24-12.40.54:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.24-12.40.54:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.24-12.40.54:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.24-12.40.54:795][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.24-12.40.54:910][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.24-12.40.55:743][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.24-12.40.55:744][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Braveworld/Braveworld/Acorn/Intermediate/Shaders/WorkingDirectory/4756/).
+[2021.08.24-12.40.55:744][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/samco/AppData/Local/Temp/UnrealShaderWorkingDir/4B93EB2C48CADDFC7719AA8897CE4682/'.
+[2021.08.24-12.40.55:745][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.24-12.40.55:745][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.24-12.40.58:634][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.24-12.40.58:862][  0]LogDerivedDataCache: Loaded boot cache 0.23s 79MB C:/Users/samco/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.24-12.40.58:862][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/samco/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.24-12.40.58:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Braveworld/Braveworld/Acorn/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.24-12.40.58:862][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.24-12.40.58:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Braveworld/Braveworld/Acorn/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.24-12.40.58:862][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.24-12.40.58:931][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.24-12.40.58:931][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.24-12.40.58:931][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.24-12.40.58:982][  0]LogDerivedDataCache: Speed tests for C:/Users/samco/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2021.08.24-12.40.58:982][  0]LogDerivedDataCache: Display: Performance to C:/Users/samco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.18ms. RandomReadSpeed=136.63MBs, RandomWriteSpeed=202.71MBs. Assigned SpeedClass 'Local'
+[2021.08.24-12.40.58:982][  0]LogDerivedDataCache: Using Local data cache path C:/Users/samco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.24-12.40.58:983][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.24-12.40.58:983][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.24-12.40.59:069][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.24-12.40.59:128][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.24-12.40.59:560][  0]LogAssetRegistry: FAssetRegistry took 0.0086 seconds to start up
+[2021.08.24-12.41.05:690][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.24-12.41.05:690][  0]LogInit: Active device profile: [000002C148CAF400][000002C145ABFBC0 49] Windows
+[2021.08.24-12.41.05:690][  0]LogInit: Profiles: [000002C148CAF400][000002C145ABFBC0 49] Windows, [000002C148C70E00][000002C145AC7D40 49] WindowsNoEditor, [000002C148CACE00][000002C146F22200 49] WindowsServer, [000002C148C72D00][000002C146F26380 49] WindowsClient, [000002C148CAEC00][000002C146F2A500 49] IOS, [000002C148C71600][000002C149130680 49] iPadAir, [000002C148CAD500][000002C149134800 49] iPadAir2, [000002C148C30800][000002C14913CAC0 49] IPadPro, [000002C148C30900][000002C149138B00 49] iPadAir3, [000002C148CAE700][000002C149140C80 49] iPadAir4, [000002C148C33400][000002C149144E00 49] iPadMini2, [000002C148CAD900][000002C149148F80 49] iPadMini3, [000002C148C32000][000002C14914D100 49] iPadMini4, [000002C148CAFA00][000002C149151280 49] iPadMini5, [000002C148C70A00][000002C149159540 49] iPhone6, [000002C148C71B00][000002C149155580 49] iPodTouch6, [000002C148C23E00][000002C14915D7C0 49] iPhone7, [000002C148C23F00][000002C145AC3800 49] iPodTouch7, [000002C148C72200][000002C149161940 49] iPhone5S, [000002C148C21300][000002C149165A80 49] iPhone6Plus, [000002C148C73100][000002C14916DC00 49] iPhone6S, [000002C148C22700][000002C1491700C0 49] iPhone6SPlus, [000002C148C70200][000002C149174240 49] iPhone7Plus, [000002C148C21A00][000002C1491783C0 49] iPhoneSE, [000002C148C73800][000002C14917C540 49] iPhone8, [000002C148C23800][000002C1491806C0 49] iPhone8Plus, [000002C148C73900][000002C149184840 49] iPhoneX, [000002C148C21700][000002C1491889C0 49] iPhoneXS, [000002C148C71400][000002C14918CB40 49] iPhoneXSMax, [000002C148C23B00][000002C149190CC0 49] iPhoneXR, [000002C148C71F00][000002C149194E40 49] iPhone11, [000002C148C23100][000002C149198FC0 49] iPhone11Pro, [000002C148C71D00][000002C14919D140 49] iPhone11ProMax, [000002C148C21D00][000002C1491A12C0 49] iPhoneSE2, [000002C148C72F00][000002C1491A5440 49] iPhone12Mini, [000002C148C20400][000002C1491A95C0 49] iPhone12, [000002C148C73000][000002C149169700 49] iPhone12Pro, [000002C148C21600][000002C1491AD840 49] iPhone12ProMax, [000002C148C73B00][000002C1491B1980 49] iPadPro105, [000002C148C22600][000002C1491B5AC0 49] iPadPro129, [000002C148C70F00][000002C1491BDC40 49] iPadPro97, [000002C148C21500][000002C1491C0100 49] iPadPro2_129, [000002C148C70600][000002C1491C4280 49] iPad5, [000002C148C21000][000002C1491C8400 49] iPad6, [000002C148C71000][000002C1491CC580 49] iPad7, [000002C148C20100][000002C1491D0700 49] iPad8, [000002C148C73500][000002C1491D4880 49] iPadPro11, [000002C148C23400][000002C1491D8A00 49] iPadPro2_11, [000002C148C72800][000002C1491DCB80 49] iPadPro3_129, [000002C148C21400][000002C1491E0D00 49] iPadPro4_129, [000002C148C71100][000002C1491E4E80 49] AppleTV, [000002C148C23600][000002C1491E9000 49] AppleTV4K, [000002C148C71700][000002C1491ED180 49] TVOS, [000002C148C22E00][000002C1491F1300 49] Mac, [000002C148C70500][000002C1491F5480 49] MacClient, [000002C148C21B00][000002C1491F9600 49] MacNoEditor, [000002C148C72500][000002C1491FD780 49] MacServer, [000002C148C23500][000002C1491B98C0 49] Linux, [000002C148C72400][000002C149201A00 49] LinuxAArch64, [000002C148C22F00][000002C149205B40 49] LinuxNoEditor, [000002C148C73A00][000002C14920DCC0 49] LinuxAArch64NoEditor, [000002C148C32300][000002C149210180 49] LinuxClient, [000002C148CF4700][000002C149214300 49] LinuxAArch64Client, [000002C148C33900][000002C149218480 49] LinuxServer, [000002C148CF5200][000002C14921C600 49] LinuxAArch64Server, [000002C148C32C00][000002C149220780 49] Android, [000002C148CF4100][000002C149224900 49] Android_Low, [000002C148C33000][000002C149228A80 49] Android_Mid, [000002C148CF5B00][000002C14922CC00 49] Android_High, [000002C148C31E00][000002C149230D80 49] Android_Default, [000002C148CF5400][000002C149234F00 49] Android_Adreno4xx, [000002C148C32E00][000002C149239080 49] Android_Adreno5xx_Low, [000002C148CF4900][000002C14923D200 49] Android_Adreno5xx, [000002C148C31B00][000002C149241380 49] Android_Adreno6xx, [000002C148CF4200][000002C149245500 49] Android_Adreno6xx_Vulkan, [000002C148C32500][000002C149249680 49] Android_Mali_T6xx, [000002C148CF4800][000002C149251800 49] Android_Mali_T7xx, [000002C148C30B00][000002C149209940 49] Android_Mali_T8xx, [000002C148CF4500][000002C149255A80 49] Android_Mali_G71, [000002C148C30600][000002C149259BC0 49] Android_Mali_G72, [000002C148CF4A00][000002C14925DD00 49] Android_Mali_G72_Vulkan, [000002C148C33F00][000002C1492641C0 49] Android_Mali_G76, [000002C148C71C00][000002C149268340 49] Android_Mali_G76_Vulkan, [000002C148C33C00][000002C14926C4C0 49] Android_Mali_G77, [000002C148C73E00][000002C149270640 49] Android_Mali_G77_Vulkan, [000002C148C30E00][000002C1492747C0 49] Android_Vulkan_SM5, [000002C148C71A00][000002C149278940 49] Android_PowerVR_G6xxx, [000002C148C32F00][000002C14927CAC0 49] Android_PowerVR_GT7xxx, [000002C148C70100][000002C149280C40 49] Android_PowerVR_GE8xxx, [000002C148C30200][000002C149284DC0 49] Android_PowerVR_GM9xxx, [000002C148C70B00][000002C149288F40 49] Android_PowerVR_GM9xxx_Vulkan, [000002C148C30F00][000002C14928D0C0 49] Android_TegraK1, [000002C148C70D00][000002C149291240 49] Android_Unknown_Vulkan, [000002C148C32700][000002C1492953C0 49] Lumin, [000002C148C73D00][000002C149299540 49] Lumin_Desktop, [000002C148C32200][000002C14929D6C0 49] HoloLens, 
+[2021.08.24-12.41.10:721][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.24-12.41.10:721][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.24-12.41.10:721][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.24-12.41.10:721][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.24-12.41.10:722][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.24-12.41.13:842][  0]LogNetVersion: Acorn 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2177674107)
+[2021.08.24-12.41.35:235][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.24-12.41.35:321][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.042428 seconds
+[2021.08.24-12.41.35:397][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.24-12.41.35:397][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.24-12.41.35:397][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.24-12.41.39:168][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.24-12.41.39:194][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.24-12.41.39:960][  0]SourceControl: Source control is disabled
+[2021.08.24-12.41.39:960][  0]SourceControl: Source control is disabled
+[2021.08.24-12.41.40:020][  0]SourceControl: Source control is disabled
+[2021.08.24-12.41.40:048][  0]SourceControl: Source control is disabled
+[2021.08.24-12.41.40:192][  0]SourceControl: Source control is disabled
+[2021.08.24-12.41.40:210][  0]LogUProjectInfo: Found projects:
+[2021.08.24-12.41.40:212][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.24-12.41.40:212][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.24-12.41.42:132][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.24-12.41.42:366][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.24-12.41.42:366][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.24-12.41.42:869][  0]LogCollectionManager: Loaded 0 collections in 0.001759 seconds
+[2021.08.24-12.41.43:135][  0]LogFileCache: Scanning file cache for directory 'D:/Braveworld/Braveworld/Acorn/Saved/Collections/' took 0.01s
+[2021.08.24-12.41.43:135][  0]LogFileCache: Scanning file cache for directory 'D:/Braveworld/Braveworld/Acorn/Content/Developers/samco/Collections/' took 0.00s
+[2021.08.24-12.41.43:135][  0]LogFileCache: Scanning file cache for directory 'D:/Braveworld/Braveworld/Acorn/Content/Collections/' took 0.00s
+[2021.08.24-12.41.43:135][  0]LogOcInput: OculusInput pre-init called
+[2021.08.24-12.41.43:210][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.24-12.41.43:210][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.24-12.41.43:911][  0]LogEngine: Initializing Engine...
+[2021.08.24-12.41.43:923][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.24-12.41.43:929][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.24-12.41.43:937][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.08.24-12.41.44:017][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.24-12.41.44:307][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.24-12.41.44:342][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.24-12.41.44:427][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.24-12.41.44:427][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.24-12.41.44:445][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.24-12.41.44:445][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.24-12.41.44:455][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.24-12.41.44:455][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.24-12.41.44:529][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.24-12.41.44:529][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.24-12.41.44:580][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.08.24-12.41.44:590][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.24-12.41.44:591][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.24-12.41.44:592][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.24-12.41.44:593][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.24-12.41.44:593][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.24-12.41.44:593][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.24-12.41.44:594][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.24-12.41.44:594][  0]LogInit: FAudioDevice initialized.
+[2021.08.24-12.41.44:594][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.24-12.41.44:594][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.24-12.41.44:634][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.24-12.41.44:694][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/samco/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.24-12.41.44:694][  0]LogInit: Texture streaming: Enabled
+[2021.08.24-12.41.44:771][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.24-12.41.44:794][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.24-12.41.44:794][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.24-12.41.44:806][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.24-12.41.44:925][  0]LogInit: Transaction tracking system initialized
+[2021.08.24-12.41.45:315][  0]BlueprintLog: New page: Editor Load
+[2021.08.24-12.41.46:215][  0]LocalizationService: Localization service is disabled
+[2021.08.24-12.41.46:509][  0]TimingProfiler: Initialize
+[2021.08.24-12.41.46:510][  0]TimingProfiler: OnSessionChanged
+[2021.08.24-12.41.46:510][  0]LoadingProfiler: Initialize
+[2021.08.24-12.41.46:511][  0]LoadingProfiler: OnSessionChanged
+[2021.08.24-12.41.46:511][  0]NetworkingProfiler: Initialize
+[2021.08.24-12.41.46:511][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.24-12.41.46:511][  0]MemoryProfiler: Initialize
+[2021.08.24-12.41.46:511][  0]MemoryProfiler: OnSessionChanged
+[2021.08.24-12.41.47:110][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.24-12.41.47:111][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.24-12.41.48:042][  0]LogFileCache: Scanning file cache for directory 'D:/Braveworld/Braveworld/Acorn/Content/' took 0.02s
+[2021.08.24-12.41.48:042][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.24-12.41.48:042][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.24-12.41.51:368][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.24-12.41.51:805][  0]SourceControl: Source control is disabled
+[2021.08.24-12.41.51:848][  0]LogUnrealEdMisc: Loading editor; pre map load, took 75.094
+[2021.08.24-12.41.51:929][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.24-12.41.52:005][  0]LightingResults: New page: Lighting Build
+[2021.08.24-12.41.52:040][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.41.52:061][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.41.52:085][  0]MapCheck: New page: Map Check
+[2021.08.24-12.41.52:085][  0]LightingResults: New page: Lighting Build
+[2021.08.24-12.41.52:327][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.24-12.41.52:807][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.08.24-12.41.52:938][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.08.24-12.41.52:939][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.08.24-12.41.53:129][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.24-12.41.53:211][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.24-12.41.53:218][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.24-12.41.53:218][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2021.08.24-12.41.53:218][  0]LogFileHelpers: Loading map 'Template_Default' took 1.338
+[2021.08.24-12.41.53:798][  0]LogUnrealEdMisc: Total Editor Startup Time, took 77.044
+[2021.08.24-12.41.54:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.24-12.41.54:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.24-12.41.54:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.24-12.41.54:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.24-12.41.54:416][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3601 classes and 859 folders.
+[2021.08.24-12.41.54:466][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.24-12.41.54:624][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.24-12.41.54:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.24-12.41.54:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.24-12.41.54:630][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.24-12.41.54:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.24-12.41.54:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.24-12.41.54:634][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.24-12.41.54:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.24-12.41.54:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.24-12.41.54:638][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.24-12.41.54:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.24-12.41.54:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.24-12.41.54:643][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.24-12.41.54:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.24-12.41.54:643][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.24-12.41.54:647][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.24-12.41.54:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.24-12.41.54:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.24-12.41.54:649][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.24-12.41.54:649][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:649][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.24-12.41.54:650][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.24-12.41.54:654][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.24-12.41.54:654][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:654][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.24-12.41.54:654][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.24-12.41.54:660][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.24-12.41.54:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.24-12.41.54:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.24-12.41.54:663][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.24-12.41.54:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.24-12.41.54:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.24-12.41.54:670][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.24-12.41.54:670][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:670][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.24-12.41.54:670][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.24-12.41.54:678][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.24-12.41.54:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.24-12.41.54:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.24-12.41.54:699][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.24-12.41.54:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.24-12.41.54:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.24-12.41.54:703][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.24-12.41.54:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.24-12.41.54:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.24-12.41.54:713][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.24-12.41.54:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.24-12.41.54:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.24-12.41.54:718][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.24-12.41.54:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.24-12.41.54:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.24-12.41.54:725][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.24-12.41.54:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.24-12.41.54:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.24-12.41.54:730][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.24-12.41.54:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.24-12.41.54:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.24-12.41.54:733][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.24-12.41.54:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.24-12.41.54:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.24-12.41.54:740][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.24-12.41.54:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.24-12.41.54:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.08.24-12.41.54:792][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.24-12.41.54:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.24-12.41.54:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.24-12.41.54:796][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.24-12.41.54:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.24-12.41.54:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.08.24-12.41.54:799][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.24-12.41.54:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.24-12.41.54:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.08.24-12.41.54:802][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.24-12.41.54:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.24-12.41.54:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.24-12.41.54:814][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.24-12.41.54:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.24-12.41.54:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.08.24-12.41.54:848][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.24-12.41.54:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.24-12.41.54:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.24-12.41.54:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.08.24-12.41.55:907][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.24-12.41.55:945][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.08.24-12.41.55:988][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.24-12.41.56:321][  0]LogSlate: Took 0.026500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.24-12.41.56:368][  0]LogSlate: Took 0.044656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.24-12.41.56:395][  0]LogSlate: Took 0.011937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.24-12.41.56:708][  0]LogRenderer: Reallocating scene render targets to support 880x376 Format 10 NumSamples 1 (Frame:1).
+[2021.08.24-12.41.57:035][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.24-12.41.57:035][  0]LogLoad: (Engine Initialization) Total time: 80.28 seconds
+[2021.08.24-12.41.57:035][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.24-12.41.57:035][  0]LogInit: First time updating LLM stats...
+[2021.08.24-12.41.57:221][  0]LogAssetRegistry: Asset discovery search completed in 57.6621 seconds
+[2021.08.24-12.41.57:230][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.24-12.41.57:326][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.24-12.41.57:475][  2]LogSlate: Took 0.004561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.24-12.41.58:071][ 56]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.24-12.42.37:772][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.37:772][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.37:772][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.37:772][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.37:772][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.39:082][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.39:082][699]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE.S_Footsteps_Cue Referenced by AnimNotify_PlaySound_0
+[2021.08.24-12.42.39:082][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.39:082][699]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE.S_Footsteps_Cue Referenced by AnimNotify_PlaySound_1
+[2021.08.24-12.42.39:083][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.39:083][699]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.24-12.42.41:010][699]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Better_Blueprints/Thorp/Rockslide/RockslideTrap.RockslideTrap
+[2021.08.24-12.42.41:286][699]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.08.24-12.42.42:233][699]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Better_Blueprints/Thorp/Rockslide/Rockslide.Rockslide
+[2021.08.24-12.42.43:311][699]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Better_Blueprints/Thorp/Rockslide/RockslideRocks.RockslideRocks
+[2021.08.24-12.42.43:559][699]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetPacks/TornadoesVFXPack/Blueprints/BP_Water_Tornado.BP_Water_Tornado
+[2021.08.24-12.42.44:507][707]52532_Rockslide_MessageLog: System successfully compiled.
+[2021.08.24-12.42.49:079][192]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.42.49:081][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.42.49:142][192]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetPacks/TornadoesVFXPack/Blueprints/BP_Water_Tornado.BP_Water_Tornado
+[2021.08.24-12.42.49:516][192]LogSlate: Took 0.012858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.24-12.42.49:597][193]LogPropertyNode: Warning: UI Min (2) >= UI Max (2) for Ranged Numeric property /Game/AssetPacks/TornadoesVFXPack/Blueprints/BP_Tornado_Parent.BP_Tornado_Parent_C:Duration
+[2021.08.24-12.42.51:411][402]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.42.51:411][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.42.51:536][403]LogSlate: Took 0.003873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.24-12.42.59:117][265]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.24-12.42.59:117][265]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.42.59:117][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.42.59:212][266]LogRenderer: Reallocating scene render targets to support 880x412 Format 10 NumSamples 1 (Frame:1).
+[2021.08.24-12.43.03:013][643]LogNiagaraEditor: Warning: Cleanup System view model 000002C108B8F210
+[2021.08.24-12.43.04:094][643]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.43.04:094][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.43.04:102][643]LogNiagaraEditor: Warning: Cleanup System view model 000002C108B8F210
+[2021.08.24-12.43.04:102][643]LogNiagaraEditor: Warning: Deleting System view model 000002C108B8F210
+[2021.08.24-12.43.04:179][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.08.24-12.44.48:925][827]BlueprintLog: New page: Compile RockslideTrap
+[2021.08.24-12.44.48:960][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.08.24-12.47.57:444][784]BlueprintLog: New page: Compile RockslideTrap
+[2021.08.24-12.47.57:482][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.08.24-12.48.01:566][204]BlueprintLog: New page: Compile RockslideTrap
+[2021.08.24-12.48.01:600][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.08.24-12.48.25:985][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.08.24-12.48.28:411][976]LogSlate: Window 'Save Content' being destroyed
+[2021.08.24-12.48.28:829][976]LogSavePackage: Moving '../../../../../../Braveworld/Braveworld/Acorn/Saved/RockslideTrap909D18544D35859EB054B0939026B822.tmp' to '../../../../../../Braveworld/Braveworld/Acorn/Content/Better_Blueprints/Thorp/Rockslide/RockslideTrap.uasset'
+[2021.08.24-12.48.30:187][976]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Spring/SpringOW_O.SpringOW_O
+[2021.08.24-12.48.30:188][976]Cmd: MAP LOAD FILE="../../../../../../Braveworld/Braveworld/Acorn/Content/Levels/Spring/SpringOW_O.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.24-12.48.30:188][976]LightingResults: New page: Lighting Build
+[2021.08.24-12.48.30:188][976]LoadErrors: New page: Loading map: SpringOW_O.umap
+[2021.08.24-12.48.30:229][976]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.30:229][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.30:230][976]MapCheck: New page: Map Check
+[2021.08.24-12.48.30:230][976]LightingResults: New page: Lighting Build
+[2021.08.24-12.48.30:254][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.24-12.48.30:421][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.08.24-12.48.30:423][976]LogAudio: Display: Audio Device (ID: 1) registered with world 'SpringOW_O'.
+[2021.08.24-12.48.37:788][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringArt) is flushing async loading
+[2021.08.24-12.48.37:788][976]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.08.24-12.48.38:245][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/wooden_fence/T_wooden_fence_Normal requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/wooden_fence/T_wooden_fence_Normal
+[2021.08.24-12.48.38:245][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/wooden_fence/T_wooden_fence_BaseColor requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/wooden_fence/T_wooden_fence_BaseColor
+[2021.08.24-12.48.38:246][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/building_normal_maps/T_building_02_Normal requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/building_normal_maps/T_building_02_Normal
+[2021.08.24-12.48.38:246][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/concrete/T_concrete_Normal requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/concrete/T_concrete_Normal
+[2021.08.24-12.48.38:246][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/concrete/T_concrete_BaseColor requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/concrete/T_concrete_BaseColor
+[2021.08.24-12.48.38:248][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/building_normal_maps/T_building_01_Normal requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/building_normal_maps/T_building_01_Normal
+[2021.08.24-12.48.38:248][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/wood/T_wood_Normal requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/wood/T_wood_Normal
+[2021.08.24-12.48.38:248][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/wood/T_wood_BaseColor requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/wood/T_wood_BaseColor
+[2021.08.24-12.48.38:248][976]LogStreaming: Error: Couldn't find file for package /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/plaster/T_plaster_Mask requested by async loading code. NameToLoad: /Game/AssetPacks/Ruined_Village/textures/building_textures/base_textures/plaster/T_plaster_Mask
+[2021.08.24-12.48.38:251][976]LogMaterial: Display: Missing cached shader map for material M_building_wood, compiling. 
+[2021.08.24-12.48.38:260][976]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\AssetPacks\Ruined_Village\materials\building_materials\M_building_wood.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.24-12.48.38:260][976]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.24-12.48.38:260][976]LogMaterial: Display: 	Function Blend_Overlay: (Node If) If input A must be of type float.
+[2021.08.24-12.48.38:260][976]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2021.08.24-12.48.38:444][976]LogMaterial: Display: Missing cached shader map for material M_building_concrete, compiling. 
+[2021.08.24-12.48.38:445][976]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\AssetPacks\Ruined_Village\materials\building_materials\M_building_concrete.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.24-12.48.38:445][976]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.24-12.48.38:445][976]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2021.08.24-12.48.38:445][976]LogMaterial: Display: 	Function Blend_Overlay: (Node If) If input A must be of type float.
+[2021.08.24-12.48.38:490][976]LogMaterial: Display: Missing cached shader map for material M_concrete, compiling. 
+[2021.08.24-12.48.38:491][976]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\AssetPacks\Ruined_Village\materials\building_materials\base_materials\M_concrete.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.24-12.48.38:491][976]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.24-12.48.38:491][976]LogMaterial: Display: 	Function Blend_Overlay: (Node If) If input A must be of type float.
+[2021.08.24-12.48.38:491][976]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2021.08.24-12.48.38:919][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringBlockout) is flushing async loading
+[2021.08.24-12.48.38:967][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/Spring_DashCircuit) is flushing async loading
+[2021.08.24-12.48.39:058][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringBlueprints) is flushing async loading
+[2021.08.24-12.48.39:059][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringLighting) is flushing async loading
+[2021.08.24-12.48.39:600][976]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringFairyForest) is flushing async loading
+[2021.08.24-12.48.40:787][976]LogStreaming: Error: Couldn't find file for package /Game/Art/Mesh/Props/lambert1 requested by async loading code. NameToLoad: /Game/Art/Mesh/Props/lambert1
+[2021.08.24-12.48.41:684][976]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.24-12.48.41:684][976]LogAIModule: Creating AISystem for world SpringOW_O
+[2021.08.24-12.48.41:742][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.08.24-12.48.41:754][976]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.24-12.48.41:754][976]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2021.08.24-12.48.41:754][976]LogFileHelpers: Loading map 'SpringOW_O' took 11.567
+[2021.08.24-12.48.41:786][976]AssetCheck: New page: Asset Save: RockslideTrap
+[2021.08.24-12.48.41:786][976]LogContentValidation: Display: Validating Blueprint /Game/Better_Blueprints/Thorp/Rockslide/RockslideTrap.RockslideTrap
+[2021.08.24-12.48.42:080][977]LogStaticMesh: Allocated 512x362x64 distance field atlas = 22.6Mb, with 105 objects containing 16.0Mb backing data
+[2021.08.24-12.48.56:682][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.24-12.48.56:824][406]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\LowPoly_volcano\Maps\demo.umap: Failed to load '/Game/LowPoly_volcano/Maps/demo_BuiltData': Can't find file.
+[2021.08.24-12.48.56:824][406]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\LowPoly_volcano\Maps\demo.umap: Failed to load '/Game/LowPoly_volcano/Maps/demo_BuiltData': Can't find file.
+[2021.08.24-12.48.56:830][406]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\LowPoly_volcano\Maps\demo.umap: Failed to load '/Game/LowPoly_volcano/Maps/demo_BuiltData': Can't find file.
+[2021.08.24-12.48.57:852][406]LogLinker: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\LowPoly_volcano\Maps\demo.umap: Failed to load '/Game/LowPoly_volcano/Maps/demo_BuiltData': Can't find file.
+[2021.08.24-12.48.57:852][406]LoadErrors: Failed to load /Game/LowPoly_volcano/Maps/demo_BuiltData.demo_BuiltData Referenced by PersistentLevel
+[2021.08.24-12.48.58:876][406]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPoly_volcano/Maps/demo.demo
+[2021.08.24-12.48.58:876][406]Cmd: MAP LOAD FILE="../../../../../../Braveworld/Braveworld/Acorn/Content/LowPoly_volcano/Maps/demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.24-12.48.58:876][406]LightingResults: New page: Lighting Build
+[2021.08.24-12.48.58:876][406]LoadErrors: New page: Loading map: demo.umap
+[2021.08.24-12.48.58:922][406]LogWorld: UWorld::CleanupWorld for SpringOW_O, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:923][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]LogWorld: UWorld::CleanupWorld for SpringArt, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:924][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]LogWorld: UWorld::CleanupWorld for SpringBlockout, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:924][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]LogWorld: UWorld::CleanupWorld for Spring_DashCircuit, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:924][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]LogWorld: UWorld::CleanupWorld for SpringBlueprints, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:924][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]LogWorld: UWorld::CleanupWorld for SpringLighting, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:924][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]LogWorld: UWorld::CleanupWorld for SpringFairyForest, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.48.58:924][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.48.58:924][406]MapCheck: New page: Map Check
+[2021.08.24-12.48.58:924][406]LightingResults: New page: Lighting Build
+[2021.08.24-12.48.58:951][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.24-12.48.59:041][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.08.24-12.48.59:050][406]LogAudio: Display: Audio Device (ID: 1) registered with world 'demo'.
+[2021.08.24-12.48.59:053][406]LogTexture: Display: Building textures: DeprecatedTextureF6BBCC1B48B1DA603448F18DC604E6F9 (BGRA8, 128X128)
+[2021.08.24-12.48.59:059][406]LogTexture: Display: Building textures: DeprecatedTextureA6BB540D4CE764320EBC239E1118685D (BGRA8, 128X128)
+[2021.08.24-12.48.59:064][406]LogTexture: Display: Building textures: DeprecatedTexture0ADD964A4EED4197891180B0003754D2 (BGRA8, 128X128)
+[2021.08.24-12.49.00:348][406]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.24-12.49.00:348][406]LogAIModule: Creating AISystem for world demo
+[2021.08.24-12.49.00:374][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.08.24-12.49.00:375][406]MapCheck: Repaired painted vertex colors in 0.0s for 124 components in /Game/LowPoly_volcano/Maps/demo.  Resave map to fix. 
+[2021.08.24-12.49.00:386][406]MapCheck: Warning: Spent 0.0s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved. 
+[2021.08.24-12.49.00:395][406]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.24-12.49.00:395][406]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.071ms to complete.
+[2021.08.24-12.49.00:457][406]LogFileHelpers: Loading map 'demo' took 1.581
+[2021.08.24-12.49.00:585][406]LogStaticMesh: Allocated 512x448x64 distance field atlas = 28.0Mb, with 121 objects containing 20.0Mb backing data
+[2021.08.24-12.49.00:585][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.24-12.49.00:705][406]LogSlate: Took 0.025943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.24-12.49.05:356][887]LogSlate: Window 'Message Log' being destroyed
+[2021.08.24-12.49.05:358][887]LogSlate: Window 'Message Log' being destroyed
+[2021.08.24-12.49.25:206][132]Cmd: TRANSACTION UNDO
+[2021.08.24-12.49.25:206][132]LogEditorTransaction: Undo Move Actors
+[2021.08.24-12.50.29:240][149]Cmd: EDIT COPY
+[2021.08.24-12.50.35:116][149]LogSlate: Window 'Message' being destroyed
+[2021.08.24-12.50.35:118][149]Message dialog closed, result: Yes, title: Message, text: Landscape has large number(289) of components, so it will use large amount memory to copy it to the clipboard. Do you want to proceed?
+[2021.08.24-12.50.42:469][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.08.24-12.50.42:795][918]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Spring/SpringOW_O.SpringOW_O
+[2021.08.24-12.50.42:795][918]Cmd: MAP LOAD FILE="../../../../../../Braveworld/Braveworld/Acorn/Content/Levels/Spring/SpringOW_O.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.24-12.50.42:795][918]LightingResults: New page: Lighting Build
+[2021.08.24-12.50.42:795][918]LoadErrors: New page: Loading map: SpringOW_O.umap
+[2021.08.24-12.50.42:798][918]LogWorld: UWorld::CleanupWorld for demo, bSessionEnded=true, bCleanupResources=true
+[2021.08.24-12.50.42:798][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.24-12.50.42:799][918]MapCheck: New page: Map Check
+[2021.08.24-12.50.42:799][918]LightingResults: New page: Lighting Build
+[2021.08.24-12.50.42:823][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.24-12.50.42:878][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.08.24-12.50.42:880][918]LogAudio: Display: Audio Device (ID: 1) registered with world 'SpringOW_O'.
+[2021.08.24-12.50.43:049][918]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringBlockout) is flushing async loading
+[2021.08.24-12.50.43:049][918]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.08.24-12.50.43:057][918]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringBlueprints) is flushing async loading
+[2021.08.24-12.50.43:084][918]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringLighting) is flushing async loading
+[2021.08.24-12.50.43:175][918]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringArt) is flushing async loading
+[2021.08.24-12.50.43:308][918]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/Spring_DashCircuit) is flushing async loading
+[2021.08.24-12.50.43:321][918]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Spring/SpringFairyForest) is flushing async loading
+[2021.08.24-12.50.43:392][918]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.24-12.50.43:392][918]LogAIModule: Creating AISystem for world SpringOW_O
+[2021.08.24-12.50.43:455][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.08.24-12.50.43:466][918]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.24-12.50.43:467][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.372ms to complete.
+[2021.08.24-12.50.43:467][918]LogFileHelpers: Loading map 'SpringOW_O' took 0.671
+[2021.08.24-12.50.56:081][ 94]Cmd: EDIT PASTE
+[2021.08.24-12.50.56:362][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_294 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:363][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_22 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:364][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_38 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:365][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_204 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:366][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_108 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:367][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_23 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:367][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_5 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:368][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_311 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:369][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_77 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:370][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_64 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:371][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_228 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:372][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_226 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:372][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_117 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:373][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_66 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:374][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_81 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:375][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_164 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:376][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_116 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:377][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_163 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:377][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_237 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:378][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_319 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:379][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_232 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:380][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_159 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:381][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_302 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:382][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_157 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:382][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_295 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:383][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_158 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:384][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_303 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:385][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_233 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:386][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_304 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:387][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_296 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:387][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_123 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:388][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_71 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:389][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_119 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:390][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_167 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:391][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_124 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:391][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_83 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:392][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_24 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:393][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_207 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:394][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_188 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:395][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_127 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:396][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_62 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:396][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_84 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:397][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_208 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:398][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_129 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:399][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_85 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:400][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_185 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:402][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_132 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:402][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_190 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:404][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_154 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:405][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_39 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:406][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_229 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:407][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_140 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:408][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_25 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:409][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_43 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:410][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_118 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:410][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_236 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:411][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_122 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:412][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_189 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:413][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_308 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:414][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_128 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:415][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_138 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:416][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_60 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:416][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_306 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:418][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_174 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:419][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_307 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:420][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_120 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:421][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_175 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:422][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_177 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:423][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_178 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:425][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_155 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:426][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_26 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:427][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_40 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:428][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_172 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:429][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_168 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:431][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_59 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:432][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_166 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:433][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_173 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:434][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_67 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:435][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_176 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:436][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_156 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:438][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_28 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:439][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_170 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:440][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_169 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:441][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_10 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:442][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_1 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:443][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_12 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:444][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_179 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:445][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_153 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:447][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_29 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:448][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_19 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:449][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_141 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:450][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_20 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:451][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_194 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:452][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_0 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:453][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_213 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:454][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_3 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:455][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_14 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:456][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_111 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:457][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_180 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:458][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_17 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:459][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_92 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:460][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_182 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:460][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_35 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:461][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_151 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:462][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_152 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:463][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_317 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:464][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_227 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:465][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_30 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:466][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_312 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:467][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_191 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:468][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_211 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:469][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_171 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:470][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_230 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:471][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_212 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:472][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_309 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:473][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_196 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:474][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_197 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:474][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_310 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:475][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_8 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:476][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_218 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:477][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_13 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:478][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_181 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:479][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_76 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:480][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_11 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:481][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_69 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:482][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_78 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:483][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_184 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:484][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_104 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:484][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_31 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:485][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_100 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:486][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_222 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:487][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_79 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:488][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_101 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:489][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_221 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:490][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_205 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:490][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_102 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:491][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_210 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:492][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_103 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:493][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_58 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:494][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_134 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:495][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_195 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:496][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_198 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:497][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_199 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:498][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_200 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:499][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_112 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:500][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_36 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:501][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_147 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:502][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_113 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:503][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_148 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:504][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_93 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:505][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_150 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:506][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_32 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:507][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_318 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:507][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_105 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:508][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_187 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:509][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_98 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:510][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_220 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:512][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_94 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:512][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_209 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:513][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_313 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:514][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_95 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:515][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_46 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:516][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_96 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:517][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_52 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:518][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_97 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:518][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_56 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:519][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_297 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:520][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_329 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:521][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_70 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:522][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_330 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:523][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_298 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:524][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_331 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:525][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_6 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:526][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_201 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:527][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_301 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:528][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_18 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:529][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_231 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:530][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_183 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:531][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_145 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:532][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_305 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:533][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_80 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:534][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_16 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:535][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_109 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:536][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_106 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:536][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_33 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:537][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_206 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:538][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_99 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:539][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_223 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:540][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_87 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:541][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_224 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:542][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_82 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:543][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_88 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:544][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_217 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:545][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_15 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:546][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_89 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:547][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_4 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:548][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_90 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:549][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_215 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:550][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_186 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:551][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_328 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:552][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_327 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:553][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_133 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:553][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_332 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:554][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_202 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:555][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_137 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:556][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_7 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:557][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_144 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:558][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_37 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:560][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_146 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:561][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_114 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:562][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_110 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:563][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_234 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:564][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_107 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:564][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_34 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:565][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_91 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:566][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_225 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:567][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_115 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:568][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_316 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:569][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_2 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:570][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_314 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:571][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_50 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:571][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_9 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:572][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_315 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:573][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_214 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:575][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_86 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:575][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_216 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:576][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_299 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:577][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_335 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:578][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_219 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:579][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_235 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:580][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_333 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:580][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_68 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:581][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_334 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:582][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_300 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.56:583][ 94]LogTexture: Error: Texture2D /Game/Levels/Spring/SpringFairyForest.SpringFairyForest:PersistentLevel.Landscape_1.Texture2D_203 contains no miplevels! Please delete. (Format: 0)
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: === Critical error: ===
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: 
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: Fatal error!
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: 
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: Unhandled Exception: EXCEPTION_STACK_OVERFLOW
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: 
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce4d0 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:270][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: [Callstack] 0x00007ff8d60ce516 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.24-12.50.59:271][ 94]LogWindows: Error: 
+[2021.08.24-12.50.59:276][ 94]LogExit: Executing StaticShutdownAfterError
+[2021.08.24-12.50.59:296][ 94]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.08.24-12.50.59:296][ 94]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.24-12.50.59:339][ 94]Log file closed, 08/24/21 13:50:59
