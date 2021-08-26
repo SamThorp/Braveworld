@@ -1,0 +1,1828 @@
+﻿Log file open, 08/26/21 06:16:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Acorn
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203760
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Levels/MainMenuLevel/MMLevel -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=0 SAVEWINPOS=1 -ResX=1350 -ResY=704
+LogInit: Base Directory: D:/Epic/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.26-05.16.20:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:085][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:089][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:089][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.26-05.16.20:089][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.26-05.16.20:089][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:089][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.26-05.16.20:089][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:089][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.26-05.16.20:090][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.26-05.16.20:090][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.26-05.16.20:090][  0]LogHAL: Display: Platform has ~ 16 GB [17102516224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.26-05.16.20:090][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.26-05.16.20:090][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.08.26-05.16.20:091][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Editor.ini]
+[2021.08.26-05.16.20:091][  0]LogInit: Computer: DESKTOP-VCPQI3U
+[2021.08.26-05.16.20:091][  0]LogInit: User: samco
+[2021.08.26-05.16.20:091][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.26-05.16.20:091][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.26-05.16.20:091][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.26-05.16.20:091][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.26-05.16.20:092][  0]LogMemory: Process Physical Memory: 140.96 MB used, 140.96 MB peak
+[2021.08.26-05.16.20:092][  0]LogMemory: Process Virtual Memory: 122.35 MB used, 122.35 MB peak
+[2021.08.26-05.16.20:092][  0]LogMemory: Physical Memory: 9337.86 MB used,  6972.37 MB free, 16310.23 MB total
+[2021.08.26-05.16.20:092][  0]LogMemory: Virtual Memory: 134212480.00 MB used,  5244.73 MB free, 134217728.00 MB total
+[2021.08.26-05.16.20:097][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.26-05.16.20:130][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.26-05.16.20:130][  0]LogInit: Using OS detected language (en-GB).
+[2021.08.26-05.16.20:130][  0]LogInit: Using OS detected locale (en-GB).
+[2021.08.26-05.16.20:132][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.08.26-05.16.20:296][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.26-05.16.20:311][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.26-05.16.20:311][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.26-05.16.20:331][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.26-05.16.20:331][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.26-05.16.20:331][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.26-05.16.20:331][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.26-05.16.20:414][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.08.26-05.16.20:414][  0]LogD3D11RHI:       12143/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.08.26-05.16.20:416][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.26-05.16.20:416][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.26-05.16.20:418][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.26-05.16.20:418][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.26-05.16.20:418][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.26-05.16.20:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.26-05.16.20:423][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.26-05.16.20:423][  0]LogWindows: EnumDisplayDevices:
+[2021.08.26-05.16.20:423][  0]LogWindows:    0. 'Microsoft Basic Display Driver' (P:0 D:0)
+[2021.08.26-05.16.20:423][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.08.26-05.16.20:423][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.26-05.16.20:424][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.26-05.16.20:424][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.26-05.16.20:424][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.26-05.16.20:424][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.08.26-05.16.20:424][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.26-05.16.20:424][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.26-05.16.20:424][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.08.26-05.16.20:487][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.26-05.16.20:488][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.26-05.16.20:488][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.26-05.16.20:515][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.26-05.16.20:516][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.26-05.16.20:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.26-05.16.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.26-05.16.20:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.26-05.16.20:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.26-05.16.20:749][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.26-05.16.20:754][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.26-05.16.20:796][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.26-05.16.20:796][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Braveworld/Braveworld/Acorn/Intermediate/Shaders/WorkingDirectory/3944/).
+[2021.08.26-05.16.20:796][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/samco/AppData/Local/Temp/UnrealShaderWorkingDir/FFA05B944DFF8DF4E88D499D3A736C97/'.
+[2021.08.26-05.16.20:796][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.26-05.16.20:796][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.26-05.16.21:349][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.26-05.16.21:404][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/samco/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.26-05.16.21:404][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/samco/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.26-05.16.21:404][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Braveworld/Braveworld/Acorn/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.26-05.16.21:404][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.26-05.16.21:404][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Braveworld/Braveworld/Acorn/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.26-05.16.21:404][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.26-05.16.21:414][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.26-05.16.21:414][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.26-05.16.21:414][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.26-05.16.21:419][  0]LogDerivedDataCache: Speed tests for C:/Users/samco/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.26-05.16.21:420][  0]LogDerivedDataCache: Display: Performance to C:/Users/samco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1547.93MBs, RandomWriteSpeed=195.94MBs. Assigned SpeedClass 'Local'
+[2021.08.26-05.16.21:420][  0]LogDerivedDataCache: Using Local data cache path C:/Users/samco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.26-05.16.21:420][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.26-05.16.21:420][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.26-05.16.21:662][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.26-05.16.21:663][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.26-05.16.21:732][  0]LogInit: Using OS detected language (en-GB).
+[2021.08.26-05.16.21:732][  0]LogInit: Using OS detected locale (en-GB).
+[2021.08.26-05.16.21:732][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2021.08.26-05.16.21:732][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2021.08.26-05.16.21:732][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.08.26-05.16.21:732][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.08.26-05.16.21:733][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.08.26-05.16.21:735][  0]LogAssetRegistry: FAssetRegistry took 0.0012 seconds to start up
+[2021.08.26-05.16.21:873][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.000736 seconds
+[2021.08.26-05.16.21:910][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.26-05.16.21:910][  0]LogInit: Active device profile: [0000021DE6219B00][0000021DE2407300 49] Windows
+[2021.08.26-05.16.21:910][  0]LogInit: Profiles: [0000021DE6219B00][0000021DE2407300 49] Windows, [0000021DE620A800][0000021DE240B440 49] WindowsNoEditor, [0000021DE6219F00][0000021DE24135C0 49] WindowsServer, [0000021DE620AB00][0000021DE2417740 49] WindowsClient, [0000021DE6218E00][0000021DE241B8C0 49] IOS, [0000021DE620BA00][0000021DE241FA40 49] iPadAir, [0000021DE621B000][0000021DE2423BC0 49] iPadAir2, [0000021DE61CAB00][0000021DE242A1C0 49] IPadPro, [0000021DE61CAC00][0000021DE2426200 49] iPadAir3, [0000021DE6219200][0000021DE242E380 49] iPadAir4, [0000021DE61CA800][0000021DE2432500 49] iPadMini2, [0000021DE621B100][0000021DE2436680 49] iPadMini3, [0000021DE61C9800][0000021DE243A800 49] iPadMini4, [0000021DE621AA00][0000021DE243E980 49] iPadMini5, [0000021DE61DA400][0000021DE2446C40 49] iPhone6, [0000021DE61DA500][0000021DE2442C80 49] iPodTouch6, [0000021DE6208200][0000021DE244EF40 49] iPhone7, [0000021DE6208500][0000021DE244AF80 49] iPodTouch7, [0000021DE61DBC00][0000021DE2453100 49] iPhone5S, [0000021DE620A300][0000021DE240F240 49] iPhone6Plus, [0000021DE61D9600][0000021DE2457380 49] iPhone6S, [0000021DE6209E00][0000021DE245B4C0 49] iPhone6SPlus, [0000021DE61D8700][0000021DE2463640 49] iPhone7Plus, [0000021DE6209100][0000021DE24677C0 49] iPhoneSE, [0000021DE61DB400][0000021DE246B940 49] iPhone8, [0000021DE620A200][0000021DE246FAC0 49] iPhone8Plus, [0000021DE61D8500][0000021DE2473C40 49] iPhoneX, [0000021DE620AF00][0000021DE2476100 49] iPhoneXS, [0000021DE61DB100][0000021DE247A280 49] iPhoneXSMax, [0000021DE6209500][0000021DE247E400 49] iPhoneXR, [0000021DE61D8D00][0000021DE2482580 49] iPhone11, [0000021DE620B800][0000021DE2486700 49] iPhone11Pro, [0000021DE61DB200][0000021DE248A880 49] iPhone11ProMax, [0000021DE620BD00][0000021DE248EA00 49] iPhoneSE2, [0000021DE61DB300][0000021DE2492B80 49] iPhone12Mini, [0000021DE6208100][0000021DE2496D00 49] iPhone12, [0000021DE61DAC00][0000021DE249AE80 49] iPhone12Pro, [0000021DE620AA00][0000021DE249F000 49] iPhone12ProMax, [0000021DE6218A00][0000021DE24A3180 49] iPadPro105, [0000021DE61D9800][0000021DE245F2C0 49] iPadPro129, [0000021DE621AD00][0000021DE24A7400 49] iPadPro97, [0000021DE61D8E00][0000021DE24AB540 49] iPadPro2_129, [0000021DE6219900][0000021DE24B36C0 49] iPad5, [0000021DE61DAE00][0000021DE24B7840 49] iPad6, [0000021DE621A500][0000021DE24BB9C0 49] iPad7, [0000021DE620B900][0000021DE24BFB40 49] iPad8, [0000021DE621B800][0000021DE24C3CC0 49] iPadPro11, [0000021DE6209F00][0000021DE24C6180 49] iPadPro2_11, [0000021DE621B900][0000021DE24CA300 49] iPadPro3_129, [0000021DE620B700][0000021DE24CE480 49] iPadPro4_129, [0000021DE6218400][0000021DE24D2600 49] AppleTV, [0000021DE6208400][0000021DE24D6780 49] AppleTV4K, [0000021DE621A700][0000021DE24DA900 49] TVOS, [0000021DE620A500][0000021DE24DEA80 49] Mac, [0000021DE6219D00][0000021DE24E2C00 49] MacClient, [0000021DE620A700][0000021DE24E6D80 49] MacNoEditor, [0000021DE6219600][0000021DE24EAF00 49] MacServer, [0000021DE620B500][0000021DE24EF080 49] Linux, [0000021DE6219E00][0000021DE24F3200 49] LinuxAArch64, [0000021DE6209200][0000021DE24AF340 49] LinuxNoEditor, [0000021DE621AB00][0000021DE24F7480 49] LinuxAArch64NoEditor, [0000021DE6209C00][0000021DE24FB5C0 49] LinuxClient, [0000021DE621BF00][0000021DE24FF700 49] LinuxAArch64Client, [0000021DE6208900][0000021DE2507880 49] LinuxServer, [0000021DE621A300][0000021DE250BA00 49] LinuxAArch64Server, [0000021DE620B400][0000021DE250FB80 49] Android, [0000021DE6219800][0000021DE2513D00 49] Android_Low, [0000021DE620AE00][0000021DE25161C0 49] Android_Mid, [0000021DE621A800][0000021DE251A340 49] Android_High, [0000021DE6209700][0000021DE251E4C0 49] Android_Default, [0000021DE621A100][0000021DE2522640 49] Android_Adreno4xx, [0000021DE6209900][0000021DE25267C0 49] Android_Adreno5xx_Low, [0000021DE621A400][0000021DE252A940 49] Android_Adreno5xx, [0000021DE6208600][0000021DE252EAC0 49] Android_Adreno6xx, [0000021DE621BE00][0000021DE2532C40 49] Android_Adreno6xx_Vulkan, [0000021DE6208C00][0000021DE2536DC0 49] Android_Mali_T6xx, [0000021DE6219100][0000021DE253AF40 49] Android_Mali_T7xx, [0000021DE6208F00][0000021DE253F0C0 49] Android_Mali_T8xx, [0000021DE6219500][0000021DE2543240 49] Android_Mali_G71, [0000021DE6208700][0000021DE2503380 49] Android_Mali_G72, [0000021DE6219C00][0000021DE25474C0 49] Android_Mali_G72_Vulkan, [0000021DE620AC00][0000021DE254B600 49] Android_Mali_G76, [0000021DE6218D00][0000021DE254F740 49] Android_Mali_G76_Vulkan, [0000021DE6208B00][0000021DE25578C0 49] Android_Mali_G77, [0000021DE6218500][0000021DE255BA40 49] Android_Mali_G77_Vulkan, [0000021DE620BE00][0000021DE55A1BC0 49] Android_Vulkan_SM5, [0000021DE6219000][0000021DE55A5D40 49] Android_PowerVR_G6xxx, [0000021DE6209000][0000021DE55A8200 49] Android_PowerVR_GT7xxx, [0000021DE61C9E00][0000021DE55AC380 49] Android_PowerVR_GE8xxx, [0000021DE61D8F00][0000021DE55B0500 49] Android_PowerVR_GM9xxx, [0000021DE61C8800][0000021DE55B4680 49] Android_PowerVR_GM9xxx_Vulkan, [0000021DE61DB600][0000021DE55B8800 49] Android_TegraK1, [0000021DE61C8100][0000021DE55BC980 49] Android_Unknown_Vulkan, [0000021DE61D9300][0000021DE55C0B00 49] Lumin, [0000021DE61CB200][0000021DE55C4C80 49] Lumin_Desktop, [0000021DE61DAD00][0000021DE55C8E00 49] HoloLens, 
+[2021.08.26-05.16.21:937][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.26-05.16.21:937][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.26-05.16.21:937][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.26-05.16.21:937][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.26-05.16.21:937][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.26-05.16.21:997][  0]LogNetVersion: Acorn 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2177674107)
+[2021.08.26-05.16.22:197][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.26-05.16.22:449][  0]LogMoviePlayer: Initializing movie player
+[2021.08.26-05.16.22:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.26-05.16.22:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.26-05.16.22:753][  0]SourceControl: Source control is disabled
+[2021.08.26-05.16.22:753][  0]SourceControl: Source control is disabled
+[2021.08.26-05.16.22:755][  0]SourceControl: Source control is disabled
+[2021.08.26-05.16.22:759][  0]LogUProjectInfo: Found projects:
+[2021.08.26-05.16.22:764][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.26-05.16.22:765][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.26-05.16.22:829][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.26-05.16.22:841][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.26-05.16.22:841][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.26-05.16.22:872][  0]LogOcInput: OculusInput pre-init called
+[2021.08.26-05.16.22:877][  0]LogUObjectArray: 20224 objects as part of root set at end of initial load.
+[2021.08.26-05.16.22:877][  0]LogUObjectAllocator: 5386176 out of 0 bytes used by permanent object pool.
+[2021.08.26-05.16.22:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.26-05.16.22:911][  0]LogEngine: Initializing Engine...
+[2021.08.26-05.16.22:912][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.26-05.16.22:912][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.26-05.16.22:913][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.26-05.16.22:979][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.26-05.16.22:980][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.26-05.16.22:983][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.26-05.16.22:983][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.26-05.16.22:983][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.26-05.16.22:983][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.26-05.16.22:984][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.26-05.16.22:984][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.26-05.16.22:991][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.26-05.16.22:991][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.26-05.16.23:012][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.08.26-05.16.23:014][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.26-05.16.23:015][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.26-05.16.23:015][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.26-05.16.23:016][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.26-05.16.23:016][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.26-05.16.23:016][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.26-05.16.23:017][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.26-05.16.23:017][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.26-05.16.23:017][  0]LogInit: FAudioDevice initialized.
+[2021.08.26-05.16.23:018][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.26-05.16.23:019][  0]LogInit: Texture streaming: Enabled
+[2021.08.26-05.16.23:959][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.26-05.16.24:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.26-05.16.24:066][  0]LogInit: Display: Game Engine Initialized.
+[2021.08.26-05.16.24:066][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.08.26-05.16.24:116][  0]LogInit: Display: Starting Game.
+[2021.08.26-05.16.24:117][  0]LogNet: Browse: /Game/Levels/MainMenuLevel/MMLevel?Name=Player
+[2021.08.26-05.16.24:117][  0]LogLoad: LoadMap: /Game/Levels/MainMenuLevel/MMLevel?Name=Player
+[2021.08.26-05.16.24:117][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.08.26-05.16.24:117][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.16.24:117][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.16.24:122][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.26-05.16.24:123][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.26-05.16.24:137][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MMLevel'.
+[2021.08.26-05.16.24:142][  0]LogAIModule: Creating AISystem for world MMLevel
+[2021.08.26-05.16.24:562][  0]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.24:562][  0]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.24:562][  0]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.24:563][  0]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.25:766][  0]LogLoad: Game class is 'TrueGame_C'
+[2021.08.26-05.16.25:768][  0]LogWorld: Bringing World /Game/Levels/MainMenuLevel/MMLevel.MMLevel up for play (max tick rate 0) at 2021.08.26-06.16.25
+[2021.08.26-05.16.25:769][  0]LogWorld: Bringing up level for play took: 0.000518
+[2021.08.26-05.16.25:769][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.08.26-05.16.25:776][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.26-05.16.25:777][  0]LogLoad: Took 1.659665 seconds to LoadMap(/Game/Levels/MainMenuLevel/MMLevel)
+[2021.08.26-05.16.25:814][  0]LogRenderer: Reallocating scene render targets to support 1352x704 Format 10 NumSamples 1 (Frame:1).
+[2021.08.26-05.16.25:814][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.26-05.16.25:814][  0]LogLoad: (Engine Initialization) Total time: 6.61 seconds
+[2021.08.26-05.16.25:814][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.26-05.16.25:814][  0]LogInit: First time updating LLM stats...
+[2021.08.26-05.16.25:841][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.26-05.16.25:845][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.16.30:453][468]LogPackageName: SearchForPackageOnDisk took   0.067s to resolve Tutorial.umap.
+[2021.08.26-05.16.30:453][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.26-05.16.30:513][468]LogPackageName: SearchForPackageOnDisk took   0.059s to resolve Tutorial.umap.
+[2021.08.26-05.16.30:513][468]LogNet: Browse: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.16.30:513][468]LogLoad: LoadMap: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.16.30:513][468]LogWorld: BeginTearingDown for /Game/Levels/MainMenuLevel/MMLevel
+[2021.08.26-05.16.30:513][468]LogWorld: UWorld::CleanupWorld for MMLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.16.30:514][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.16.30:549][468]LogAudio: Display: Waited 35.319897 ms for audio thread.
+[2021.08.26-05.16.30:552][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.26-05.16.30:589][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.08.26-05.16.30:897][468]LogUObjectGlobals: Warning: Failed to load '/Game/AssetPacks/LowPoly_volcano/Materials/M_Lava': Can't find file.
+[2021.08.26-05.16.30:898][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Better_Blueprints\Willow\Pickups\FireSeed.uasset: Failed to load '/Game/AssetPacks/LowPoly_volcano/Materials/M_Lava': Can't find file.
+[2021.08.26-05.16.31:243][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.31:243][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.31:243][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.31:243][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.16.31:386][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Mesh\Props\Targets\Target_Large_01.uasset: Failed to load '/Game/Art/Mesh/Props/phong1': Can't find file.
+[2021.08.26-05.16.31:386][468]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Mesh\Props\Targets\Target_Large_01.uasset: Failed to load '/Game/Art/Mesh/Props/phong1': Can't find file.
+[2021.08.26-05.16.32:136][468]LogMaterial: Display: Missing cached shader map for material Tree_Trunk_MASTER_MAT, compiling. 
+[2021.08.26-05.16.32:137][468]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\AssetPacks\StylizedLandscapeKit\Materials\Bark\Tree_Trunk_MASTER_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-05.16.32:137][468]LogMaterial: Display: 	Function VTBlend_MF: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.26-05.16.32:411][468]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2021.08.26-05.16.32:411][468]LogAIModule: Creating AISystem for world Tutorial
+[2021.08.26-05.16.32:413][468]LogLoad: Game class is 'TrueGame_C'
+[2021.08.26-05.16.32:414][468]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutoriaBO) is flushing async loading
+[2021.08.26-05.16.32:414][468]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.08.26-05.16.32:419][468]LogMaterial: Display: Missing cached shader map for material BigStemMaterial, compiling. 
+[2021.08.26-05.16.32:420][468]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Old\Lily\BigStemMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-05.16.32:420][468]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.26-05.16.32:458][468]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorialArt) is flushing async loading
+[2021.08.26-05.16.32:518][468]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorailLights) is flushing async loading
+[2021.08.26-05.16.32:544][468]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorailMecahnics) is flushing async loading
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:634][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:637][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:640][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:643][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:646][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:649][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:651][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:654][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.16.32:679][468]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.16.32:682][468]LogWorld: Bringing World /Game/Levels/Tutorial/Tutorial.Tutorial up for play (max tick rate 0) at 2021.08.26-06.16.32
+[2021.08.26-05.16.32:683][468]LogWorld: Bringing up level for play took: 0.018955
+[2021.08.26-05.16.32:689][468]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.26-05.16.32:691][468]LogLoad: Took 2.177972 seconds to LoadMap(/Game/Levels/Tutorial/Tutorial)
+[2021.08.26-05.16.32:729][470]LogStaticMesh: Allocated 491x176x64 distance field atlas = 10.5Mb, with 75 objects containing 6.6Mb backing data
+[2021.08.26-05.16.43:820][228]LogBlueprintUserMessages: [Checkpoint_2] Hello
+[2021.08.26-05.16.43:843][231]LogBlueprintUserMessages: [Checkpoint_2] Hello
+[2021.08.26-05.16.43:869][234]LogBlueprintUserMessages: [Checkpoint_2] Hello
+[2021.08.26-05.16.43:886][236]LogBlueprintUserMessages: [Checkpoint_2] Hello
+[2021.08.26-05.16.45:051][358]LogSkeletalMesh: Warning: Use of USkeletalMeshComponent::GetCurrentClothingData_GameThread requires that property bWaitForParallelClothTask be set to true
+[2021.08.26-05.16.45:051][358]LogSkeletalMesh: Warning: Use of USkeletalMeshComponent::GetCurrentClothingData_GameThread requires that property bWaitForParallelClothTask be set to true
+[2021.08.26-05.16.45:051][358]LogSkeletalMesh: Warning: Use of USkeletalMeshComponent::GetCurrentClothingData_GameThread requires that property bWaitForParallelClothTask be set to true
+[2021.08.26-05.16.45:051][358]LogSkeletalMesh: Warning: Use of USkeletalMeshComponent::GetCurrentClothingData_GameThread requires that property bWaitForParallelClothTask be set to true
+[2021.08.26-05.17.00:936][272]LogBlueprintUserMessages: [Checkpoint2] Hello
+[2021.08.26-05.17.00:951][274]LogBlueprintUserMessages: [Checkpoint2] Hello
+[2021.08.26-05.17.00:967][276]LogBlueprintUserMessages: [Checkpoint2] Hello
+[2021.08.26-05.17.00:985][278]LogBlueprintUserMessages: [Checkpoint2] Hello
+[2021.08.26-05.17.15:889][123]LogBlueprintUserMessages: [LeafCollectable01_2] 1
+[2021.08.26-05.17.22:878][417]LogNiagara: Niagara Effect stalled GT for 1.2811 ms. Component(NiagaraComponent /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.SeedFire_C_0.NODE_AddNiagaraComponent-0) System(NiagaraSystem /Game/AssetPacks/TornadoesVFXPack/Particles/P_Fire_Seed.P_Fire_Seed)
+[2021.08.26-05.17.23:528][481]LogNiagara: Niagara Effect stalled GT for 1.8717 ms. Component(NiagaraComponent /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.SeedFire_C_1.NODE_AddNiagaraComponent-0) System(NiagaraSystem /Game/AssetPacks/TornadoesVFXPack/Particles/P_Fire_Seed.P_Fire_Seed)
+[2021.08.26-05.17.24:506][632]LogNiagara: Niagara Effect stalled GT for 1.3645 ms. Component(NiagaraComponent /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.SeedFire_C_3.NODE_AddNiagaraComponent-0_0) System(NiagaraSystem /Game/AssetPacks/TornadoesVFXPack/Particles/P_Fire_Seed.P_Fire_Seed)
+[2021.08.26-05.17.24:938][706]LogNiagara: Niagara Effect stalled GT for 1.1711 ms. Component(NiagaraComponent /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.SeedFire_C_4.NODE_AddNiagaraComponent-0) System(NiagaraSystem /Game/AssetPacks/TornadoesVFXPack/Particles/P_Fire_Seed.P_Fire_Seed)
+[2021.08.26-05.17.34:439][404]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.34:445][405]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.34:466][408]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.34:482][410]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.49:959][927]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.49:959][927]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.49:959][927]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.17.49:960][927]LogBlueprintUserMessages: [Checkpoint3] Hello
+[2021.08.26-05.18.01:023][147]LogPackageName: SearchForPackageOnDisk took   0.070s, but failed to resolve MainMenu.umap.
+[2021.08.26-05.18.01:094][148]LogPackageName: SearchForPackageOnDisk took   0.068s, but failed to resolve MainMenu.umap.
+[2021.08.26-05.18.01:094][148]LogNet: Browse: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.01:095][148]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.01:237][148]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Levels/Tutorial/Tutorial'
+[2021.08.26-05.18.01:986][148]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.01:986][148]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Levels/Tutorial/Tutorial'
+[2021.08.26-05.18.01:991][149]LogNet: Browse: /Game/Levels/Tutorial/Tutorial?closed
+[2021.08.26-05.18.01:997][149]LogNet: Connection failed; returning to Entry
+[2021.08.26-05.18.01:997][149]LogLoad: LoadMap: /Game/Levels/Tutorial/Tutorial?closed
+[2021.08.26-05.18.01:997][149]LogWorld: BeginTearingDown for /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.01:998][149]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.02:003][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.02:003][149]LogWorld: UWorld::CleanupWorld for TutoriaBO, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.02:003][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.02:003][149]LogWorld: UWorld::CleanupWorld for TutorialArt, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.02:003][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.02:003][149]LogWorld: UWorld::CleanupWorld for TutorailLights, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.02:003][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.02:003][149]LogWorld: UWorld::CleanupWorld for TutorailMecahnics, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.02:003][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.02:039][149]LogAudio: Display: Waited 35.137501 ms for audio thread.
+[2021.08.26-05.18.02:050][149]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.26-05.18.02:106][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.08.26-05.18.02:410][149]LogUObjectGlobals: Warning: Failed to load '/Game/AssetPacks/LowPoly_volcano/Materials/M_Lava': Can't find file.
+[2021.08.26-05.18.02:411][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Better_Blueprints\Willow\Pickups\FireSeed.uasset: Failed to load '/Game/AssetPacks/LowPoly_volcano/Materials/M_Lava': Can't find file.
+[2021.08.26-05.18.02:805][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.02:805][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.02:805][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.02:805][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.02:807][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Mesh\Props\Targets\Target_Large_01.uasset: Failed to load '/Game/Art/Mesh/Props/phong1': Can't find file.
+[2021.08.26-05.18.02:807][149]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Mesh\Props\Targets\Target_Large_01.uasset: Failed to load '/Game/Art/Mesh/Props/phong1': Can't find file.
+[2021.08.26-05.18.03:362][149]LogMaterial: Display: Missing cached shader map for material Tree_Trunk_MASTER_MAT, compiling. 
+[2021.08.26-05.18.03:363][149]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\AssetPacks\StylizedLandscapeKit\Materials\Bark\Tree_Trunk_MASTER_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-05.18.03:363][149]LogMaterial: Display: 	Function VTBlend_MF: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.26-05.18.03:967][149]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2021.08.26-05.18.03:967][149]LogAIModule: Creating AISystem for world Tutorial
+[2021.08.26-05.18.03:970][149]LogLoad: Game class is 'TrueGame_C'
+[2021.08.26-05.18.03:970][149]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutoriaBO) is flushing async loading
+[2021.08.26-05.18.03:970][149]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.08.26-05.18.03:975][149]LogMaterial: Display: Missing cached shader map for material BigStemMaterial, compiling. 
+[2021.08.26-05.18.03:976][149]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Old\Lily\BigStemMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-05.18.03:976][149]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.26-05.18.04:010][149]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorialArt) is flushing async loading
+[2021.08.26-05.18.04:063][149]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorailLights) is flushing async loading
+[2021.08.26-05.18.04:088][149]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorailMecahnics) is flushing async loading
+[2021.08.26-05.18.04:176][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:176][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:177][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:177][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:177][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:177][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:177][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:177][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:180][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:183][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:186][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:190][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:192][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:194][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:194][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:194][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:194][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:194][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:195][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:195][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:195][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:197][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.04:221][149]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.04:225][149]LogWorld: Bringing World /Game/Levels/Tutorial/Tutorial.Tutorial up for play (max tick rate 0) at 2021.08.26-06.18.04
+[2021.08.26-05.18.04:226][149]LogWorld: Bringing up level for play took: 0.018541
+[2021.08.26-05.18.04:233][149]LogLoad: Took 2.236018 seconds to LoadMap(/Game/Levels/Tutorial/Tutorial)
+[2021.08.26-05.18.04:309][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.08.26-05.18.04:330][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.04:340][150]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.26-05.18.06:941][652]LogPackageName: SearchForPackageOnDisk took   0.071s, but failed to resolve MainMenu.umap.
+[2021.08.26-05.18.07:012][653]LogPackageName: SearchForPackageOnDisk took   0.069s, but failed to resolve MainMenu.umap.
+[2021.08.26-05.18.07:012][653]LogNet: Browse: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.07:012][653]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.07:012][653]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Levels/Tutorial/Tutorial'
+[2021.08.26-05.18.07:012][653]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.07:012][653]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Levels/Tutorial/Tutorial'
+[2021.08.26-05.18.07:015][654]LogNet: Browse: /Game/Levels/Tutorial/Tutorial?closed
+[2021.08.26-05.18.07:021][654]LogNet: Connection failed; returning to Entry
+[2021.08.26-05.18.07:021][654]LogLoad: LoadMap: /Game/Levels/Tutorial/Tutorial?closed
+[2021.08.26-05.18.07:021][654]LogWorld: BeginTearingDown for /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.07:023][654]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.07:026][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.07:026][654]LogWorld: UWorld::CleanupWorld for TutoriaBO, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.07:026][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.07:026][654]LogWorld: UWorld::CleanupWorld for TutorialArt, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.07:026][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.07:026][654]LogWorld: UWorld::CleanupWorld for TutorailLights, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.07:026][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.07:026][654]LogWorld: UWorld::CleanupWorld for TutorailMecahnics, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.07:026][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.07:082][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.26-05.18.07:129][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.08.26-05.18.07:446][654]LogUObjectGlobals: Warning: Failed to load '/Game/AssetPacks/LowPoly_volcano/Materials/M_Lava': Can't find file.
+[2021.08.26-05.18.07:446][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Better_Blueprints\Willow\Pickups\FireSeed.uasset: Failed to load '/Game/AssetPacks/LowPoly_volcano/Materials/M_Lava': Can't find file.
+[2021.08.26-05.18.07:689][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.07:689][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.07:690][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.07:690][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.08.26-05.18.07:692][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Mesh\Props\Targets\Target_Large_01.uasset: Failed to load '/Game/Art/Mesh/Props/phong1': Can't find file.
+[2021.08.26-05.18.07:692][654]LogUObjectGlobals: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Mesh\Props\Targets\Target_Large_01.uasset: Failed to load '/Game/Art/Mesh/Props/phong1': Can't find file.
+[2021.08.26-05.18.08:408][654]LogMaterial: Display: Missing cached shader map for material Tree_Trunk_MASTER_MAT, compiling. 
+[2021.08.26-05.18.08:409][654]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\AssetPacks\StylizedLandscapeKit\Materials\Bark\Tree_Trunk_MASTER_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-05.18.08:409][654]LogMaterial: Display: 	Function VTBlend_MF: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.08.26-05.18.08:959][654]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2021.08.26-05.18.08:960][654]LogAIModule: Creating AISystem for world Tutorial
+[2021.08.26-05.18.08:962][654]LogLoad: Game class is 'TrueGame_C'
+[2021.08.26-05.18.08:962][654]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutoriaBO) is flushing async loading
+[2021.08.26-05.18.08:962][654]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.08.26-05.18.08:967][654]LogMaterial: Display: Missing cached shader map for material BigStemMaterial, compiling. 
+[2021.08.26-05.18.08:967][654]LogMaterial: Warning: [AssetLog] D:\Braveworld\Braveworld\Acorn\Content\Art\Old\Lily\BigStemMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.26-05.18.08:967][654]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.08.26-05.18.09:003][654]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorialArt) is flushing async loading
+[2021.08.26-05.18.09:057][654]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorailLights) is flushing async loading
+[2021.08.26-05.18.09:085][654]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/Tutorial/TutorailMecahnics) is flushing async loading
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP7_22
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:175][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP8_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:178][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP6_19
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:182][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP_2
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:185][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP2_7
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:188][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP3_10
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:191][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP4_13
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:193][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/TutorailMecahnics.TutorailMecahnics:PersistentLevel.Rail_BP5_16
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:195][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Accessed None reading structure Mesh_2_80B44E5E4B243446F51B9992F3F1803A
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:00E2
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Attempted to access index 1 from array SplineStruct of length 1!
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Accessed None reading structure Divisor_6_09AA16E540612B676EF877943827EF82
+	Rail_BP_C /Game/Levels/Tutorial/Tutorial.Tutorial:PersistentLevel.Rail_BP9
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript:0110
+[2021.08.26-05.18.09:217][654]LogScript: Warning: Script call stack:
+	Function /Game/Better_Blueprints/Willow/Rails/Rail_BP.Rail_BP_C:UserConstructionScript
+
+[2021.08.26-05.18.09:220][654]LogWorld: Bringing World /Game/Levels/Tutorial/Tutorial.Tutorial up for play (max tick rate 0) at 2021.08.26-06.18.09
+[2021.08.26-05.18.09:221][654]LogWorld: Bringing up level for play took: 0.017157
+[2021.08.26-05.18.09:227][654]LogLoad: Took 2.205993 seconds to LoadMap(/Game/Levels/Tutorial/Tutorial)
+[2021.08.26-05.18.09:298][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.08.26-05.18.14:839][953]LogSlate: Window 'Acorn (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.08.26-05.18.14:840][953]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.26-05.18.14:842][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.26-05.18.14:842][954]LogEngine: All Windows Closed
+[2021.08.26-05.18.14:842][954]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.08.26-05.18.14:842][954]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.26-05.18.14:842][955]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.08.26-05.18.14:842][955]LogInit: Display: PreExit Game.
+[2021.08.26-05.18.14:857][955]LogWorld: BeginTearingDown for /Game/Levels/Tutorial/Tutorial
+[2021.08.26-05.18.14:858][955]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.14:862][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.14:863][955]LogWorld: UWorld::CleanupWorld for TutoriaBO, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.14:863][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.14:863][955]LogWorld: UWorld::CleanupWorld for TutorialArt, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.14:863][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.14:863][955]LogWorld: UWorld::CleanupWorld for TutorailLights, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.14:863][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.14:863][955]LogWorld: UWorld::CleanupWorld for TutorailMecahnics, bSessionEnded=true, bCleanupResources=true
+[2021.08.26-05.18.14:863][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.26-05.18.14:998][955]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.08.26-05.18.14:998][955]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.08.26-05.18.14:998][955]LogAudio: Display: Audio Device unregistered from world 'Tutorial'.
+[2021.08.26-05.18.15:229][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.26-05.18.15:229][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.26-05.18.15:237][955]LogAudio: Display: Audio Device Manager Shutdown
+[2021.08.26-05.18.15:239][955]LogExit: Preparing to exit.
+[2021.08.26-05.18.15:903][955]LogMoviePlayer: Shutting down movie player
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219B00] Windows
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219A00] Default__DeviceProfile
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620A800] WindowsNoEditor
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219F00] WindowsServer
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620AB00] WindowsClient
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6218E00] IOS
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620BA00] iPadAir
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621B000] iPadAir2
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61CAB00] IPadPro
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61CAC00] iPadAir3
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219200] iPadAir4
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61CA800] iPadMini2
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621B100] iPadMini3
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61C9800] iPadMini4
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621AA00] iPadMini5
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DA400] iPhone6
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DA500] iPodTouch6
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208200] iPhone7
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208500] iPodTouch7
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DBC00] iPhone5S
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620A300] iPhone6Plus
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D9600] iPhone6S
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209E00] iPhone6SPlus
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D8700] iPhone7Plus
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209100] iPhoneSE
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DB400] iPhone8
+[2021.08.26-05.18.16:030][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620A200] iPhone8Plus
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D8500] iPhoneX
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620AF00] iPhoneXS
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DB100] iPhoneXSMax
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209500] iPhoneXR
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D8D00] iPhone11
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620B800] iPhone11Pro
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DB200] iPhone11ProMax
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620BD00] iPhoneSE2
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DB300] iPhone12Mini
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208100] iPhone12
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DAC00] iPhone12Pro
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620AA00] iPhone12ProMax
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6218A00] iPadPro105
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D9800] iPadPro129
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621AD00] iPadPro97
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D8E00] iPadPro2_129
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219900] iPad5
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DAE00] iPad6
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621A500] iPad7
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620B900] iPad8
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621B800] iPadPro11
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209F00] iPadPro2_11
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621B900] iPadPro3_129
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620B700] iPadPro4_129
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6218400] AppleTV
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208400] AppleTV4K
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621A700] TVOS
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620A500] Mac
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219D00] MacClient
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620A700] MacNoEditor
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219600] MacServer
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620B500] Linux
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219E00] LinuxAArch64
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209200] LinuxNoEditor
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621AB00] LinuxAArch64NoEditor
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209C00] LinuxClient
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621BF00] LinuxAArch64Client
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208900] LinuxServer
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621A300] LinuxAArch64Server
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620B400] Android
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219800] Android_Low
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620AE00] Android_Mid
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621A800] Android_High
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209700] Android_Default
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621A100] Android_Adreno4xx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209900] Android_Adreno5xx_Low
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621A400] Android_Adreno5xx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208600] Android_Adreno6xx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE621BE00] Android_Adreno6xx_Vulkan
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208C00] Android_Mali_T6xx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219100] Android_Mali_T7xx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208F00] Android_Mali_T8xx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219500] Android_Mali_G71
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208700] Android_Mali_G72
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219C00] Android_Mali_G72_Vulkan
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620AC00] Android_Mali_G76
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6218D00] Android_Mali_G76_Vulkan
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6208B00] Android_Mali_G77
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6218500] Android_Mali_G77_Vulkan
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE620BE00] Android_Vulkan_SM5
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6219000] Android_PowerVR_G6xxx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE6209000] Android_PowerVR_GT7xxx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61C9E00] Android_PowerVR_GE8xxx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D8F00] Android_PowerVR_GM9xxx
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61C8800] Android_PowerVR_GM9xxx_Vulkan
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DB600] Android_TegraK1
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61C8100] Android_Unknown_Vulkan
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61D9300] Lumin
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61CB200] Lumin_Desktop
+[2021.08.26-05.18.16:031][955]LogDeviceProfile: Device profile begin destroy: [0000021DE61DAD00] HoloLens
+[2021.08.26-05.18.16:041][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.26-05.18.16:076][955]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.26-05.18.16:081][955]LogExit: Game engine shut down
+[2021.08.26-05.18.16:136][955]LogExit: Object subsystem successfully closed.
+[2021.08.26-05.18.16:148][955]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.26-05.18.16:157][955]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (508)
+[2021.08.26-05.18.16:157][955]LogModuleManager: Shutting down and abandoning module SequenceRecorder (506)
+[2021.08.26-05.18.16:157][955]LogModuleManager: Shutting down and abandoning module AutomationController (504)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AutomationWorker (502)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module Voice (500)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AnimGraph (498)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AIModule (496)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module GameplayDebugger (495)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AITestSuite (493)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module NavigationSystem (491)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module SteamVREditor (488)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module ToolMenus (487)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module OculusMR (484)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module PlanarCut (482)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (478)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module WebMMedia (476)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (474)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (472)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (470)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (468)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (464)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module SessionServices (462)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (460)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module PortalServices (448)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module PortalRpc (446)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module MessagingRpc (444)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (442)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module AudioMixerCore (441)
+[2021.08.26-05.18.16:158][955]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2021.08.26-05.18.16:160][955]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module OculusInput (432)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module Synthesis (430)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (428)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (426)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module GooglePAD (424)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module EditableMesh (422)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (420)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module CableComponent (418)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module AudioCapture (416)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (415)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (412)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module AssetTags (410)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (408)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module AppleImageUtils (406)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module AndroidPermission (404)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (402)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module MotoSynth (400)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (398)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module MediaCompositing (396)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module MeshConversion (394)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module DynamicMesh (392)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (390)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module GeometricObjects (388)
+[2021.08.26-05.18.16:265][955]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (386)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (385)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (382)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (380)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (379)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module GeometryCache (376)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (375)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module TemplateSequence (370)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module ChaosNiagara (362)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (361)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module AutomationUtils (358)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (354)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module HotReload (353)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (352)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (348)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module UObjectPlugin (346)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (344)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (342)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module SourceControl (341)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (338)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module SoundFields (336)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module SignificanceManager (334)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (332)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (330)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (328)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (324)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (322)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (320)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (318)
+[2021.08.26-05.18.16:266][955]LogModuleManager: Shutting down and abandoning module UdpMessaging (316)
+[2021.08.26-05.18.16:367][955]LogModuleManager: Shutting down and abandoning module TcpMessaging (314)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (312)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (310)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (308)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (306)
+[2021.08.26-05.18.16:695][955]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (304)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (302)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (300)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (298)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapController (296)
+[2021.08.26-05.18.16:695][955]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (294)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module MagicLeapAR (292)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module AugmentedReality (291)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module ActorSequence (288)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (286)
+[2021.08.26-05.18.16:695][955]LogModuleManager: Shutting down and abandoning module Niagara (284)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module SignalProcessing (283)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module NiagaraEditor (281)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module NiagaraCore (278)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module TreeMap (271)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (268)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module AnimationSharing (266)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (264)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (262)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module Paper2D (260)
+[2021.08.26-05.18.16:696][955]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (258)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (256)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (254)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module PacketHandler (252)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (250)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (248)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module MediaAssets (246)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module Overlay (244)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module OverlayEditor (243)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module VREditor (240)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module StringTableEditor (238)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (236)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (234)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module FunctionalTesting (232)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (230)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (229)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module UMG (226)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module UMGEditor (225)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module MessageLog (221)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module SlateReflector (216)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module Slate (214)
+[2021.08.26-05.18.16:697][955]LogModuleManager: Shutting down and abandoning module SlateCore (212)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (210)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module UnrealEd (208)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MRMesh (206)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module Messaging (204)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (202)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (200)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module XAudio2 (198)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module Networking (196)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module Core (194)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MaterialEditor (192)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MovieSceneTools (190)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module EditorStyle (189)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MeshBuilder (184)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (179)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (177)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (164)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (162)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2021.08.26-05.18.16:698][955]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (143)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (127)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (125)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (123)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (121)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module InputCore (118)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module Settings (116)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2021.08.26-05.18.16:699][955]LogHMD: Freeing OpenVRDLLHandle.
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2021.08.26-05.18.16:699][955]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.08.26-05.18.16:700][955]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.08.26-05.18.16:700][955]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.08.26-05.18.16:717][955]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.08.26-05.18.16:717][955]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.08.26-05.18.16:741][955]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.08.26-05.18.16:743][955]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module Media (71)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.08.26-05.18.16:744][955]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.08.26-05.18.16:745][955]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.08.26-05.18.17:028][955]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.08.26-05.18.17:029][955]LogD3D11RHI: Shutdown
+[2021.08.26-05.18.17:029][955]LogD3D11RHI: CleanupD3DDevice
+[2021.08.26-05.18.17:040][955]LogExit: Exiting.
+[2021.08.26-05.18.17:077][955]Log file closed, 08/26/21 06:18:17
