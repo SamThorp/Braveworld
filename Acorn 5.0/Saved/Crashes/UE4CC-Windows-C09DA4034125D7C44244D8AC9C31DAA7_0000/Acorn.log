@@ -1,0 +1,1697 @@
+﻿Log file open, 06/28/21 16:49:35
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Acorn
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.229486
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:787][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:796][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.28-15.49.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.28-15.49.35:797][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.28-15.49.35:797][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.28-15.49.35:797][  0]LogHAL: Display: Platform has ~ 32 GB [34282561536 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.28-15.49.35:797][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.28-15.49.35:797][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Scalability.ini]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.28-15.49.35:798][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.28-15.49.35:799][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.28-15.49.35:799][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.28-15.49.35:799][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.28-15.49.35:799][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Engine.ini]
+[2021.06.28-15.49.35:799][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Config/Windows/Editor.ini]
+[2021.06.28-15.49.35:799][  0]LogInit: Computer: 307-PC-01
+[2021.06.28-15.49.35:799][  0]LogInit: User: teambraveworld
+[2021.06.28-15.49.35:799][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.06.28-15.49.35:799][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.28-15.49.35:799][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.06.28-15.49.35:799][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.28-15.49.35:799][  0]LogMemory: Process Physical Memory: 140.78 MB used, 140.79 MB peak
+[2021.06.28-15.49.35:799][  0]LogMemory: Process Virtual Memory: 129.34 MB used, 129.34 MB peak
+[2021.06.28-15.49.35:799][  0]LogMemory: Physical Memory: 8216.00 MB used,  24478.39 MB free, 32694.40 MB total
+[2021.06.28-15.49.35:799][  0]LogMemory: Virtual Memory: 134191368.00 MB used,  26360.53 MB free, 134217728.00 MB total
+[2021.06.28-15.49.35:805][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.28-15.49.35:842][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.28-15.49.35:843][  0]LogInit: Using OS detected language (en-GB).
+[2021.06.28-15.49.35:843][  0]LogInit: Using OS detected locale (en-GB).
+[2021.06.28-15.49.35:846][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.06.28-15.49.36:020][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.28-15.49.36:030][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.28-15.49.36:045][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.28-15.49.36:045][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.28-15.49.36:191][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.28-15.49.36:191][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.28-15.49.36:191][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.28-15.49.36:191][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.28-15.49.36:280][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2021.06.28-15.49.36:280][  0]LogD3D11RHI:       5991/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.06.28-15.49.36:282][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.28-15.49.36:282][  0]LogD3D11RHI:       0/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.28-15.49.36:282][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.28-15.49.36:288][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.28-15.49.36:288][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.28-15.49.36:288][  0]LogWindows: EnumDisplayDevices:
+[2021.06.28-15.49.36:289][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2021.06.28-15.49.36:289][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2021.06.28-15.49.36:289][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.06.28-15.49.36:289][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.06.28-15.49.36:289][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.28-15.49.36:289][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2021.06.28-15.49.36:289][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.06.28-15.49.36:289][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.06.28-15.49.36:289][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.06.28-15.49.36:351][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.28-15.49.36:351][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.28-15.49.36:351][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.28-15.49.36:368][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.28-15.49.36:369][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.28-15.49.36:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.28-15.49.36:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.28-15.49.36:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.28-15.49.36:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.28-15.49.36:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.28-15.49.36:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.28-15.49.36:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.28-15.49.36:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.28-15.49.36:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.28-15.49.36:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.28-15.49.36:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.28-15.49.36:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.28-15.49.36:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.28-15.49.36:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.28-15.49.36:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.28-15.49.36:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.28-15.49.36:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.28-15.49.36:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.28-15.49.36:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.28-15.49.36:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.28-15.49.36:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.28-15.49.36:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.28-15.49.36:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.28-15.49.36:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.28-15.49.36:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.28-15.49.36:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.28-15.49.36:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.28-15.49.36:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.28-15.49.36:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.28-15.49.36:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.28-15.49.36:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.28-15.49.36:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.28-15.49.36:875][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.28-15.49.36:882][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.28-15.49.36:941][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.28-15.49.36:941][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Intermediate/Shaders/WorkingDirectory/10404/).
+[2021.06.28-15.49.36:941][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/team.braveworld/AppData/Local/Temp/UnrealShaderWorkingDir/7B402201455B1818D468C7BE13888B33/'.
+[2021.06.28-15.49.36:941][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.28-15.49.36:941][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.28-15.49.37:684][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.28-15.49.37:730][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/team.braveworld/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.28-15.49.37:730][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/team.braveworld/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.28-15.49.37:730][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.28-15.49.37:730][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.28-15.49.37:730][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.28-15.49.37:730][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.28-15.49.37:743][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.28-15.49.37:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.28-15.49.37:743][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.28-15.49.37:753][  0]LogDerivedDataCache: Speed tests for C:/Users/team.braveworld/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.28-15.49.37:754][  0]LogDerivedDataCache: Display: Performance to C:/Users/team.braveworld/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=284.97MBs, RandomWriteSpeed=132.32MBs. Assigned SpeedClass 'Local'
+[2021.06.28-15.49.37:754][  0]LogDerivedDataCache: Using Local data cache path C:/Users/team.braveworld/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.28-15.49.37:754][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.28-15.49.37:754][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.28-15.49.37:803][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.28-15.49.37:804][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.28-15.49.37:825][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.06.28-15.49.38:059][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.28-15.49.38:059][  0]LogInit: Active device profile: [000002127362B700][000002127243CD40 49] Windows
+[2021.06.28-15.49.38:059][  0]LogInit: Profiles: [000002127362B700][000002127243CD40 49] Windows, [000002127362CB00][0000021272444EC0 49] WindowsNoEditor, [0000021273628C00][0000021272449040 49] WindowsServer, [000002127362F100][000002127244D1C0 49] WindowsClient, [000002127362B200][0000021272451340 49] IOS, [000002127362D100][00000212724554C0 49] iPadAir, [0000021273629200][0000021272441600 49] iPadAir2, [00000212735E8D00][000002127245D840 49] IPadPro, [00000212735E8E00][0000021272459880 49] iPadAir3, [000002127362AC00][0000021272CBD9C0 49] iPadAir4, [00000212735EBB00][0000021272CC5B40 49] iPadMini2, [0000021273629500][0000021272CC9CC0 49] iPadMini3, [00000212735EA000][0000021272CCC180 49] iPadMini4, [000002127362A700][0000021272CD0300 49] iPadMini5, [000002127362F200][0000021272CD85C0 49] iPhone6, [000002127362F300][0000021272CD4600 49] iPodTouch6, [00000212735EBE00][0000021272CE08C0 49] iPhone7, [00000212735E9B00][0000021272CDC900 49] iPodTouch7, [000002127362F700][0000021272CE4A80 49] iPhone5S, [00000212735E8A00][0000021272CE8C00 49] iPhone6Plus, [000002127362F900][0000021272CECD80 49] iPhone6S, [00000212735EB200][0000021272CF0F00 49] iPhone6SPlus, [000002127362C100][0000021272CF5080 49] iPhone7Plus, [00000212735E9A00][0000021272CF9200 49] iPhoneSE, [000002127362CF00][0000021272CFD380 49] iPhone8, [00000212735EBF00][0000021272D01500 49] iPhone8Plus, [000002127362FE00][0000021272CC1640 49] iPhoneX, [00000212735EA800][0000021272D05780 49] iPhoneXS, [000002127362FB00][0000021272D098C0 49] iPhoneXSMax, [00000212735E9F00][0000021272D0DA00 49] iPhoneXR, [000002127362E400][0000021272D15B80 49] iPhone11, [00000212735E8800][0000021272D19D00 49] iPhone11Pro, [000002127362E800][0000021272D1C1C0 49] iPhone11ProMax, [00000212735EB500][0000021272D20340 49] iPhoneSE2, [000002127362C700][0000021272D244C0 49] iPhone12Mini, [00000212735EA700][0000021272D28640 49] iPhone12, [000002127362D000][0000021272D2C7C0 49] iPhone12Pro, [00000212735E9900][0000021272D30940 49] iPhone12ProMax, [000002127362FA00][0000021272D34AC0 49] iPadPro105, [00000212735EB700][0000021272D38C40 49] iPadPro129, [000002127362C300][0000021272D3CDC0 49] iPadPro97, [00000212735E9700][0000021272D40F40 49] iPadPro2_129, [000002127362CA00][0000021272D450C0 49] iPad5, [00000212735EAF00][0000021272D49240 49] iPad6, [000002127362E700][0000021272D4D3C0 49] iPad7, [00000212735E9000][0000021272D51540 49] iPad8, [000002127362E200][0000021272D556C0 49] iPadPro11, [00000212735EAB00][0000021272D11800 49] iPadPro2_11, [000002127362FC00][0000021272D59940 49] iPadPro3_129, [00000212735EB100][0000021272D5DA80 49] iPadPro4_129, [000002127362D400][0000021272D65C00 49] AppleTV, [00000212735EAC00][0000021272D680C0 49] AppleTV4K, [000002127362D500][0000021272D6C240 49] TVOS, [00000212735E9C00][0000021272D703C0 49] Mac, [000002127362D800][0000021272D74540 49] MacClient, [00000212735EB800][0000021272D786C0 49] MacNoEditor, [000002127362D900][0000021272D7C840 49] MacServer, [00000212735E9100][0000021272D809C0 49] Linux, [00000212736C1300][0000021272D84B40 49] LinuxAArch64, [000002127362A500][0000021272D88CC0 49] LinuxNoEditor, [00000212736C1900][0000021272D8CE40 49] LinuxAArch64NoEditor, [000002127362AE00][0000021272D90FC0 49] LinuxClient, [00000212736C0200][0000021272D95140 49] LinuxAArch64Client, [0000021273628700][0000021272D992C0 49] LinuxServer, [00000212736C0500][0000021272D9D440 49] LinuxAArch64Server, [000002127362A800][0000021272DA15C0 49] Android, [00000212736C0600][0000021272DA5740 49] Android_Low, [000002127362A400][0000021272D61880 49] Android_Mid, [00000212736C1700][0000021272DA99C0 49] Android_High, [0000021273628800][0000021272DADB00 49] Android_Default, [00000212736C0C00][0000021272DB1C40 49] Android_Adreno4xx, [0000021273628E00][0000021272DB8100 49] Android_Adreno5xx_Low, [00000212736C0B00][0000021272DBC280 49] Android_Adreno5xx, [000002127362AA00][0000021272DC0400 49] Android_Adreno6xx, [00000212735EA300][0000021272DC4580 49] Android_Adreno6xx_Vulkan, [000002127362DB00][0000021272DC8700 49] Android_Mali_T6xx, [00000212735EB600][0000021272DCC880 49] Android_Mali_T7xx, [000002127362C200][0000021272DD0A00 49] Android_Mali_T8xx, [00000212735EB400][0000021272DD4B80 49] Android_Mali_G71, [000002127362CD00][0000021272DD8D00 49] Android_Mali_G72, [00000212735E9400][0000021272DDCE80 49] Android_Mali_G72_Vulkan, [000002127362E100][0000021272DE1000 49] Android_Mali_G76, [00000212735EB300][0000021272DE5180 49] Android_Mali_G76_Vulkan, [000002127362F000][0000021272DE9300 49] Android_Mali_G77, [00000212735E9800][0000021272DED480 49] Android_Mali_G77_Vulkan, [000002127362C400][0000021272DF1600 49] Android_Vulkan_SM5, [00000212735E8200][0000021272DF5780 49] Android_PowerVR_G6xxx, [000002127362E300][0000021272DB58C0 49] Android_PowerVR_GT7xxx, [00000212735EA600][0000021272DF9A00 49] Android_PowerVR_GE8xxx, [000002127362E900][0000021272DFDB40 49] Android_PowerVR_GM9xxx, [00000212735E9500][0000021272E01C80 49] Android_PowerVR_GM9xxx_Vulkan, [000002127362EC00][0000021272E08140 49] Android_TegraK1, [00000212735E8900][0000021272E0C2C0 49] Android_Unknown_Vulkan, [000002127362DC00][0000021272E10440 49] Lumin, [00000212735E8B00][0000021272E145C0 49] Lumin_Desktop, [000002127362D700][0000021272E18740 49] HoloLens, 
+[2021.06.28-15.49.38:158][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.28-15.49.38:158][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.28-15.49.38:158][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.28-15.49.38:158][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.28-15.49.38:158][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.28-15.49.38:174][  0]LogNetVersion: Acorn 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2177674107)
+[2021.06.28-15.49.38:563][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.28-15.49.38:616][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.052453 seconds
+[2021.06.28-15.49.38:622][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.28-15.49.38:622][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.28-15.49.38:622][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.28-15.49.38:977][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.28-15.49.38:986][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.28-15.49.39:062][  0]SourceControl: Source control is disabled
+[2021.06.28-15.49.39:062][  0]SourceControl: Source control is disabled
+[2021.06.28-15.49.39:067][  0]SourceControl: Source control is disabled
+[2021.06.28-15.49.39:070][  0]SourceControl: Source control is disabled
+[2021.06.28-15.49.39:076][  0]SourceControl: Source control is disabled
+[2021.06.28-15.49.39:082][  0]LogUProjectInfo: Found projects:
+[2021.06.28-15.49.39:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.28-15.49.39:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.28-15.49.39:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.28-15.49.39:368][  0]LogCollectionManager: Loaded 0 collections in 0.001829 seconds
+[2021.06.28-15.49.39:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Collections/' took 0.00s
+[2021.06.28-15.49.39:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Developers/teambraveworld/Collections/' took 0.00s
+[2021.06.28-15.49.39:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/Collections/' took 0.00s
+[2021.06.28-15.49.39:390][  0]LogOcInput: OculusInput pre-init called
+[2021.06.28-15.49.39:402][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.28-15.49.39:402][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.28-15.49.39:453][  0]LogEngine: Initializing Engine...
+[2021.06.28-15.49.39:454][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.28-15.49.39:454][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.28-15.49.39:455][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.28-15.49.39:550][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.28-15.49.39:557][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.28-15.49.39:567][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.28-15.49.39:570][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.28-15.49.39:570][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-15.49.39:570][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-15.49.39:570][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-15.49.39:570][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-15.49.39:581][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-15.49.39:581][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-15.49.39:606][  0]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-15.49.39:608][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-15.49.39:610][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-15.49.39:610][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-15.49.39:610][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-15.49.39:611][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-15.49.39:611][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-15.49.39:611][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-15.49.39:611][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-15.49.39:611][  0]LogInit: FAudioDevice initialized.
+[2021.06.28-15.49.39:611][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.28-15.49.39:611][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.28-15.49.39:672][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/team.braveworld/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.28-15.49.39:673][  0]LogInit: Texture streaming: Enabled
+[2021.06.28-15.49.39:685][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.28-15.49.39:688][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.28-15.49.39:688][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.28-15.49.39:690][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.28-15.49.39:717][  0]LogInit: Transaction tracking system initialized
+[2021.06.28-15.49.39:737][  0]BlueprintLog: New page: Editor Load
+[2021.06.28-15.49.39:803][  0]LocalizationService: Localization service is disabled
+[2021.06.28-15.49.39:824][  0]TimingProfiler: Initialize
+[2021.06.28-15.49.39:825][  0]TimingProfiler: OnSessionChanged
+[2021.06.28-15.49.39:825][  0]LoadingProfiler: Initialize
+[2021.06.28-15.49.39:825][  0]LoadingProfiler: OnSessionChanged
+[2021.06.28-15.49.39:825][  0]NetworkingProfiler: Initialize
+[2021.06.28-15.49.39:825][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.28-15.49.39:825][  0]MemoryProfiler: Initialize
+[2021.06.28-15.49.39:825][  0]MemoryProfiler: OnSessionChanged
+[2021.06.28-15.49.39:953][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.28-15.49.39:953][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.28-15.49.40:093][  0]LogFileCache: Scanning file cache for directory 'C:/Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Content/' took 0.01s
+[2021.06.28-15.49.40:222][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.28-15.49.40:226][  0]SourceControl: Source control is disabled
+[2021.06.28-15.49.40:226][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.395
+[2021.06.28-15.49.40:226][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.28-15.49.40:226][  0]LightingResults: New page: Lighting Build
+[2021.06.28-15.49.40:227][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-15.49.40:227][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-15.49.40:227][  0]MapCheck: New page: Map Check
+[2021.06.28-15.49.40:227][  0]LightingResults: New page: Lighting Build
+[2021.06.28-15.49.40:233][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.28-15.49.40:294][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.28-15.49.40:296][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.06.28-15.49.40:297][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-15.49.40:300][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.28-15.49.40:305][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.28-15.49.40:305][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.28-15.49.40:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2021.06.28-15.49.40:306][  0]LogFileHelpers: Loading map 'Template_Default' took 0.080
+[2021.06.28-15.49.40:308][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.477
+[2021.06.28-15.49.40:434][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.49.40:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.49.40:446][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.49.40:452][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-15.49.40:466][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 3601 classes and 859 folders.
+[2021.06.28-15.49.40:468][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.28-15.49.40:470][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.28-15.49.40:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-15.49.40:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.06.28-15.49.40:470][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.28-15.49.40:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.28-15.49.40:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.28-15.49.40:471][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.28-15.49.40:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.28-15.49.40:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.28-15.49.40:472][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-15.49.40:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-15.49.40:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.28-15.49.40:472][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.28-15.49.40:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:472][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.28-15.49.40:472][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.28-15.49.40:473][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.28-15.49.40:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.28-15.49.40:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.28-15.49.40:473][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.28-15.49.40:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.28-15.49.40:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.28-15.49.40:474][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.28-15.49.40:474][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.28-15.49.40:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.28-15.49.40:474][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.28-15.49.40:474][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:474][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.28-15.49.40:474][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.06.28-15.49.40:475][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.28-15.49.40:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.28-15.49.40:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.28-15.49.40:475][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.28-15.49.40:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.28-15.49.40:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.28-15.49.40:476][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.28-15.49.40:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.28-15.49.40:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.28-15.49.40:476][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-15.49.40:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-15.49.40:476][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.28-15.49.40:477][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.28-15.49.40:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.28-15.49.40:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.28-15.49.40:477][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.28-15.49.40:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.28-15.49.40:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.28-15.49.40:478][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.28-15.49.40:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-15.49.40:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.28-15.49.40:479][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.28-15.49.40:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.28-15.49.40:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.28-15.49.40:479][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.28-15.49.40:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.28-15.49.40:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.28-15.49.40:480][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-15.49.40:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-15.49.40:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.28-15.49.40:480][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-15.49.40:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-15.49.40:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.28-15.49.40:481][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.28-15.49.40:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.28-15.49.40:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.28-15.49.40:481][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.28-15.49.40:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.28-15.49.40:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.28-15.49.40:482][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.28-15.49.40:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.28-15.49.40:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.06.28-15.49.40:482][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.28-15.49.40:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.28-15.49.40:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.28-15.49.40:483][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.28-15.49.40:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.28-15.49.40:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.28-15.49.40:484][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.28-15.49.40:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.28-15.49.40:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.28-15.49.40:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.06.28-15.49.40:527][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.28-15.49.40:534][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.06.28-15.49.40:537][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.28-15.49.40:589][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.28-15.49.40:591][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.28-15.49.40:595][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.28-15.49.40:677][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.06.28-15.49.40:933][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.06.28-15.49.40:933][  0]LogLoad: (Engine Initialization) Total time: 6.10 seconds
+[2021.06.28-15.49.40:933][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.28-15.49.40:933][  0]LogInit: First time updating LLM stats...
+[2021.06.28-15.49.40:973][  0]LogAssetRegistry: Asset discovery search completed in 3.1494 seconds
+[2021.06.28-15.49.40:975][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.28-15.49.41:012][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.28-15.49.41:086][  2]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.28-15.49.41:952][104]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.28-15.49.48:658][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:658][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:658][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:659][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:659][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:677][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:677][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:677][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-15.49.48:678][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-15.49.48:686][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:687][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-15.49.48:687][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-15.49.48:687][854]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen.P_AOE_Fire_CircleGreen Referenced by ParticleSystem1_GEN_VARIABLE
+[2021.06.28-15.49.48:688][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-15.49.48:688][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-15.49.48:688][854]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard.P_DmgFieldTreebeard Referenced by ParticleSystem_GEN_VARIABLE
+[2021.06.28-15.49.48:689][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-15.49.48:689][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:689][854]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim.FlowerAnimClose_Anim Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.28-15.49.48:689][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-15.49.48:689][854]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim.FlowerAnim Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.28-15.49.48:690][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-15.49.48:690][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-15.49.48:690][854]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen.M_PetalGreen Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.28-15.49.48:690][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-15.49.48:691][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-15.49.48:691][854]LoadErrors: Failed to load /Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01.SM_Torch_Var01 Referenced by StaticMesh_GEN_VARIABLE
+[2021.06.28-15.49.48:691][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-15.49.48:699][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:699][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:700][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-15.49.48:700][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-15.49.48:700][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-15.49.48:701][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-15.49.48:701][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-15.49.48:701][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-15.49.48:701][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:702][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:702][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:703][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:703][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:703][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:704][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-15.49.48:704][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-15.49.48:704][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-15.49.48:704][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\IcePlatform.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:705][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:705][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-15.49.48:705][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-15.49.48:706][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-15.49.48:706][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:706][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:706][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:707][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:707][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-15.49.48:707][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-15.49.48:707][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-15.49.48:708][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:709][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:709][854]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze.P_Hyperfreeze Referenced by K2Node_CallFunction_4
+[2021.06.28-15.49.48:709][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:709][854]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze.P_Hyperfreeze Referenced by K2Node_CallFunction_11
+[2021.06.28-15.49.48:710][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue': Can't find file.
+[2021.06.28-15.49.48:710][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeDestroyCue.S_IceFreezeDestroyCue Referenced by K2Node_CallFunction_17
+[2021.06.28-15.49.48:710][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue': Can't find file.
+[2021.06.28-15.49.48:711][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeMakeCue.S_IceFreezeMakeCue Referenced by K2Node_CallFunction_9
+[2021.06.28-15.49.48:711][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue': Can't find file.
+[2021.06.28-15.49.48:711][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_IceFreezeBreakCue.S_IceFreezeBreakCue Referenced by K2Node_CallFunction_15
+[2021.06.28-15.49.48:711][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze': Can't find file.
+[2021.06.28-15.49.48:711][854]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_Hyperfreeze.P_Hyperfreeze Referenced by ParticleSystem_GEN_VARIABLE
+[2021.06.28-15.49.48:712][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:712][854]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22.SM_stone_22 Referenced by Cylinder1_GEN_VARIABLE
+[2021.06.28-15.49.48:712][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:712][854]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst.MI_stone_07_ice_Inst Referenced by Cylinder1_GEN_VARIABLE
+[2021.06.28-15.49.48:713][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22': Can't find file.
+[2021.06.28-15.49.48:713][854]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Meshes/stones/SM_stone_22.SM_stone_22 Referenced by Cylinder2_GEN_VARIABLE
+[2021.06.28-15.49.48:713][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst': Can't find file.
+[2021.06.28-15.49.48:713][854]LoadErrors: Failed to load /Game/_StylizedContent/Underworld/Materials/stones_materials/MI_stone_07_ice_Inst.MI_stone_07_ice_Inst Referenced by Cylinder2_GEN_VARIABLE
+[2021.06.28-15.49.48:713][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-15.49.48:714][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-15.49.48:714][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-15.49.48:714][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-15.49.48:715][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-15.49.48:715][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-15.49.48:715][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-15.49.48:716][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-15.49.48:716][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Winter\FreezableSurface.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-15.49.48:717][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-15.49.48:717][854]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean Referenced by Default__FreezableSurface_C
+[2021.06.28-15.49.48:723][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDPC.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:723][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDPC.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:727][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDPC.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:732][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:732][854]LoadErrors: Failed to load /Game/Font/Frostys_Winterland_Font.Frostys_Winterland_Font Referenced by Text-Location
+[2021.06.28-15.49.48:733][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:733][854]LoadErrors: Failed to load /Game/Font/Frostys_Winterland_Font.Frostys_Winterland_Font Referenced by Text-World
+[2021.06.28-15.49.48:735][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDXBOX.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:736][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Player\UI\HUDXBOX.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:741][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:741][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:742][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:742][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:743][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:743][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:756][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:756][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:757][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:757][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:770][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-15.49.48:770][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-15.49.48:770][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-15.49.48:770][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Materials/M_Water_Ocean': Can't find file.
+[2021.06.28-15.49.48:771][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-15.49.48:771][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-15.49.48:772][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt': Can't find file.
+[2021.06.28-15.49.48:772][854]LoadErrors: Failed to load /Game/InfinityBladeEffects/ForTreebeard/P_LightningBolt.P_LightningBolt Referenced by K2Node_CallFunction_46
+[2021.06.28-15.49.48:773][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater': Can't find file.
+[2021.06.28-15.49.48:773][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_DeathWater.S_DeathWater Referenced by K2Node_CallFunction_3
+[2021.06.28-15.49.48:774][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:774][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-15.49.48:774][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-15.49.48:774][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:775][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-15.49.48:775][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-15.49.48:775][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-15.49.48:776][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-15.49.48:776][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-15.49.48:776][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:776][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-15.49.48:777][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-15.49.48:777][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-15.49.48:777][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-15.49.48:778][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-15.49.48:778][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-15.49.48:778][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-15.49.48:778][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-15.49.48:779][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-15.49.48:779][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-15.49.48:779][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:779][854]LoadErrors: Failed to load /Game/Font/Frostys_Winterland_Font.Frostys_Winterland_Font Referenced by Default__Checkpoint_C
+[2021.06.28-15.49.48:779][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-15.49.48:779][854]LoadErrors: Failed to load /Game/StarterContent/Particles/P_PuffSmokeTargetA.P_PuffSmokeTargetA Referenced by Default__Checkpoint_C
+[2021.06.28-15.49.48:781][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:781][854]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim.FlowerAnimClose_Anim Referenced by K2Node_CallFunction_10
+[2021.06.28-15.49.48:781][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-15.49.48:781][854]LoadErrors: Failed to load /Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim.FlowerAnimOpen_Anim Referenced by K2Node_CallFunction_13
+[2021.06.28-15.49.48:782][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-15.49.48:782][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue.S_Checkpoint_Cue Referenced by K2Node_CallFunction_51
+[2021.06.28-15.49.48:962][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:962][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-15.49.48:962][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-15.49.48:963][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimClose_Anim': Can't find file.
+[2021.06.28-15.49.48:963][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnimOpen_Anim': Can't find file.
+[2021.06.28-15.49.48:963][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/M_PetalGreen': Can't find file.
+[2021.06.28-15.49.48:963][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-15.49.48:964][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-15.49.48:964][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/Font/Frostys_Winterland_Font': Can't find file.
+[2021.06.28-15.49.48:964][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-15.49.48:964][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-15.49.48:965][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-15.49.48:965][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/Effects/FX_Mobile/Fire/combat/P_AOE_Fire_CircleGreen': Can't find file.
+[2021.06.28-15.49.48:965][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/InfinityBladeEffects/ForTreebeard/P_DmgFieldTreebeard': Can't find file.
+[2021.06.28-15.49.48:965][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/StarterContent/Particles/P_PuffSmokeTargetA': Can't find file.
+[2021.06.28-15.49.48:966][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_ProjectTreebeard/ElenaModels/Lily/FlowerAnim': Can't find file.
+[2021.06.28-15.49.48:966][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Checkpoint_Cue': Can't find file.
+[2021.06.28-15.49.48:966][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Blueprints\Treebeard\Blueprints\Generic\Checkpoint.uasset: Failed to load '/Game/_StylizedContent/AdvancedVillagePack/Meshes/SM_Torch_Var01': Can't find file.
+[2021.06.28-15.49.48:985][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:985][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE.S_Footsteps_Cue Referenced by AnimNotify_PlaySound_0
+[2021.06.28-15.49.48:985][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornWalk.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:985][854]LoadErrors: Failed to load /Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE.S_Footsteps_Cue Referenced by AnimNotify_PlaySound_1
+[2021.06.28-15.49.48:986][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.48:986][854]LogLinker: Warning: [AssetLog] C:\Users\team.braveworld\Desktop\Braveworld\Braveworld\Acorn\Content\Acorn\AcornRun.uasset: Failed to load '/Game/_Sounds/Royalty_Free_Audio/AudioCues/S_Footsteps_CUE': Can't find file.
+[2021.06.28-15.49.49:047][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost.SeedWind_Boost
+[2021.06.28-15.49.49:232][854]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.06.28-15.49.50:197][854]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.28-15.49.52:841][117]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.28-15.49.58:381][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind.SeedWind
+[2021.06.28-15.50.03:198][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/MainCharacter.MainCharacter
+[2021.06.28-15.50.18:514][405]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-15.50.18:562][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.06.28-15.50.18:647][405]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.28-15.54.24:538][955]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.28-15.59.41:267][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.28-15.59.41:268][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.024
+[2021.06.28-15.59.41:269][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost] ([1] browsable assets)...
+[2021.06.28-15.59.41:292][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost.SeedWind_Boost]
+[2021.06.28-15.59.41:292][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost]
+[2021.06.28-15.59.41:314][566]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Boost_Auto189A23E714B96EB432775CF954AC05185.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Autosaves/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost_Auto1.uasset'
+[2021.06.28-15.59.41:316][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind] ([1] browsable assets)...
+[2021.06.28-15.59.41:336][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind.SeedWind]
+[2021.06.28-15.59.41:336][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind]
+[2021.06.28-15.59.41:367][566]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Auto15ED8436D4CE15AFC6254E1B19339CD7E.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Autosaves/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Auto1.uasset'
+[2021.06.28-15.59.41:368][566]LogFileHelpers: Auto-saving content packages took 0.100
+[2021.06.28-16.03.24:832][231]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.03.24:875][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.06.28-16.03.40:254][946]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.03.40:298][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.06.28-16.03.42:243][138]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.03.42:250][138]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.28-16.03.42:259][138]LogPlayLevel: [PlayLevel] Compiling SeedWind_Boost before play...
+[2021.06.28-16.03.42:314][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.28-16.03.42:315][138]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2021.06.28-16.03.42:315][138]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:03:42)
+[2021.06.28-16.03.42:317][138]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.28-16.03.42:317][138]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.28-16.03.42:318][138]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.03.42:320][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002166s)
+[2021.06.28-16.03.42:321][138]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.03.42:321][138]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.06.28-16.03.42:321][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003407s)
+[2021.06.28-16.03.42:340][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.06.28-16.03.42:340][138]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.03.42:340][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.03.42:340][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.03.42:340][138]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.03.42:341][138]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.03.42:343][138]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.03.42:344][138]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.03.42:355][138]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.03.42:355][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.03.42:355][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.03.42:355][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.03.42:355][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.03.42:355][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.03.42:356][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.03.42:368][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.03.42:369][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.03.42:369][138]LogInit: FAudioDevice initialized.
+[2021.06.28-16.03.42:369][138]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2021.06.28-16.03.42:405][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.03.42:408][138]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.03.42:410][138]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.03.42
+[2021.06.28-16.03.42:410][138]LogWorld: Bringing up level for play took: 0.000541
+[2021.06.28-16.03.42:410][138]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.28-16.03.42:419][138]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.28-16.03.42:427][138]PIE: Server logged in
+[2021.06.28-16.03.42:429][138]PIE: Play in editor total start time 0.18 seconds.
+[2021.06.28-16.03.42:444][138]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2021.06.28-16.03.42:447][138]LogSlate: Took 0.001756 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.06.28-16.03.42:507][139]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.06.28-16.04.19:783][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.04.19:783][339]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.04.19:784][339]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.04.19:790][339]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.04.19:790][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.04.19:797][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.04.19:803][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.04.19:830][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.04.19:831][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.04.19:870][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.06.28-16.04.19:900][340]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.28-16.04.46:310][216]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.04.46:365][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.06.28-16.06.22:610][ 91]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.06.22:660][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.06.28-16.06.23:487][163]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.06.23:494][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.06.23:494][163]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:06:23)
+[2021.06.28-16.06.23:494][163]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.06.23:496][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002262s)
+[2021.06.28-16.06.23:498][163]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.06.23:498][163]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2021.06.28-16.06.23:498][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004150s)
+[2021.06.28-16.06.23:523][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.06.28-16.06.23:524][163]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.06.23:524][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.06.23:524][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.06.23:524][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.06.23:526][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.06.23:526][163]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.06.23:537][163]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.06.23:538][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.06.23:538][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.06.23:538][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.06.23:538][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.06.23:538][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.06.23:538][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.06.23:550][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.06.23:550][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.06.23:550][163]LogInit: FAudioDevice initialized.
+[2021.06.28-16.06.23:550][163]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2021.06.28-16.06.23:581][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.06.23:581][163]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.06.23:583][163]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.06.23
+[2021.06.28-16.06.23:583][163]LogWorld: Bringing up level for play took: 0.000787
+[2021.06.28-16.06.23:583][163]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.28-16.06.23:593][163]PIE: Server logged in
+[2021.06.28-16.06.23:596][163]PIE: Play in editor total start time 0.103 seconds.
+[2021.06.28-16.06.30:634][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.06.30:634][778]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.06.30:634][778]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.06.30:640][778]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.06.30:640][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.06.30:648][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.06.30:653][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.06.30:675][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.06.30:675][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.06.30:676][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.06.30:693][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.06.28-16.06.30:718][779]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.28-16.06.56:022][365]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.06.56:071][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.28-16.07.05:250][263]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.07.05:300][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.06.28-16.07.06:699][384]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.07.06:705][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.07.06:705][384]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:07:06)
+[2021.06.28-16.07.06:706][384]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.07.06:708][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001935s)
+[2021.06.28-16.07.06:708][384]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.07.06:709][384]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2021.06.28-16.07.06:709][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003177s)
+[2021.06.28-16.07.06:734][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.06.28-16.07.06:735][384]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.07.06:735][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.07.06:735][384]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.07.06:735][384]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.07.06:737][384]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.07.06:737][384]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.07.06:748][384]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.07.06:748][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.07.06:748][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.07.06:748][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.07.06:749][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.07.06:749][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.07.06:749][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.07.06:760][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.07.06:760][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.07.06:760][384]LogInit: FAudioDevice initialized.
+[2021.06.28-16.07.06:760][384]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2021.06.28-16.07.06:784][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.07.06:784][384]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.07.06:785][384]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.07.06
+[2021.06.28-16.07.06:785][384]LogWorld: Bringing up level for play took: 0.000536
+[2021.06.28-16.07.06:785][384]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.28-16.07.06:795][384]PIE: Server logged in
+[2021.06.28-16.07.06:798][384]PIE: Play in editor total start time 0.094 seconds.
+[2021.06.28-16.08.11:592][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.08.11:592][684]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.08.11:593][684]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.08.11:598][684]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.08.11:599][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.08.11:608][684]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.08.11:613][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.08.11:636][684]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.08.11:636][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.08.11:637][684]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.08.11:655][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.28-16.08.11:682][685]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.28-16.08.21:740][798]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.08.21:788][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.06.28-16.08.22:791][891]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.08.22:797][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.08.22:797][891]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:08:22)
+[2021.06.28-16.08.22:797][891]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.08.22:799][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001966s)
+[2021.06.28-16.08.22:800][891]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.08.22:801][891]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2021.06.28-16.08.22:801][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003206s)
+[2021.06.28-16.08.22:826][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.06.28-16.08.22:826][891]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.08.22:826][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.08.22:826][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.08.22:827][891]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.08.22:827][891]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.08.22:829][891]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.08.22:829][891]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.08.22:840][891]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.08.22:840][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.08.22:840][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.08.22:840][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.08.22:840][891]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.08.22:840][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.08.22:840][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.08.22:851][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.08.22:851][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.08.22:851][891]LogInit: FAudioDevice initialized.
+[2021.06.28-16.08.22:852][891]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2021.06.28-16.08.22:888][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.08.22:888][891]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.08.22:889][891]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.08.22
+[2021.06.28-16.08.22:889][891]LogWorld: Bringing up level for play took: 0.000723
+[2021.06.28-16.08.22:890][891]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.28-16.08.22:899][891]PIE: Server logged in
+[2021.06.28-16.08.22:902][891]PIE: Play in editor total start time 0.106 seconds.
+[2021.06.28-16.08.26:603][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.08.26:603][218]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.08.26:603][218]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.08.26:609][218]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.08.26:609][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.08.26:621][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.08.26:626][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.08.26:647][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.08.26:648][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.08.26:649][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.08.26:678][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.06.28-16.08.26:703][219]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.28-16.09.13:486][100]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.09.13:978][113]LogEditorTransaction: Undo Create Reroute Node
+[2021.06.28-16.09.14:693][180]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.09.15:266][234]LogEditorTransaction: Undo Create Reroute Node
+[2021.06.28-16.09.41:970][ 50]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.10.51:268][994]LogEditorTransaction: Undo Create Pin Link
+[2021.06.28-16.10.56:371][469]LogEditorTransaction: Undo Create Pin Link
+[2021.06.28-16.11.22:186][ 79]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.11.22:241][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.06.28-16.11.23:292][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.11.23:299][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.11.23:299][171]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:11:23)
+[2021.06.28-16.11.23:299][171]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.11.23:301][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001980s)
+[2021.06.28-16.11.23:302][171]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.11.23:303][171]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2021.06.28-16.11.23:303][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003956s)
+[2021.06.28-16.11.23:328][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.06.28-16.11.23:329][171]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.11.23:329][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.11.23:329][171]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.11.23:329][171]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.11.23:332][171]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.11.23:332][171]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.11.23:343][171]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.11.23:344][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.11.23:344][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.11.23:344][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.11.23:344][171]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.11.23:344][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.11.23:344][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.11.23:357][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.11.23:358][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.11.23:358][171]LogInit: FAudioDevice initialized.
+[2021.06.28-16.11.23:358][171]LogAudio: Display: Audio Device (ID: 6) registered with world 'Untitled_1'.
+[2021.06.28-16.11.23:384][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.11.23:384][171]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.11.23:385][171]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.11.23
+[2021.06.28-16.11.23:385][171]LogWorld: Bringing up level for play took: 0.000626
+[2021.06.28-16.11.23:385][171]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.06.28-16.11.23:395][171]PIE: Server logged in
+[2021.06.28-16.11.23:398][171]PIE: Play in editor total start time 0.1 seconds.
+[2021.06.28-16.11.29:202][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.11.29:202][610]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.11.29:202][610]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.11.29:208][610]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.11.29:208][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.11.29:218][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.11.29:223][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.11.29:245][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.11.29:245][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.11.29:246][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.11.29:264][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.06.28-16.11.29:291][611]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.06.28-16.12.07:261][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.06.28-16.12.07:264][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.027
+[2021.06.28-16.12.07:264][134]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind] ([1] browsable assets)...
+[2021.06.28-16.12.07:294][134]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind.SeedWind]
+[2021.06.28-16.12.07:294][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind]
+[2021.06.28-16.12.07:327][134]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Auto27F7193ED4C6435349255DBBEFE7FEE18.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Autosaves/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Auto2.uasset'
+[2021.06.28-16.12.07:329][134]LogFileHelpers: Auto-saving content packages took 0.065
+[2021.06.28-16.13.19:253][838]LogEditorTransaction: Undo Straighten Connection(s)
+[2021.06.28-16.13.25:051][416]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.13.25:101][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.06.28-16.17.19:206][974]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.17.19:255][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.06.28-16.17.20:524][ 83]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.17.20:531][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.17.20:531][ 83]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:17:20)
+[2021.06.28-16.17.20:531][ 83]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.17.20:533][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002058s)
+[2021.06.28-16.17.20:534][ 83]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.17.20:534][ 83]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.06.28-16.17.20:534][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003345s)
+[2021.06.28-16.17.20:562][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.06.28-16.17.20:563][ 83]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.17.20:563][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.17.20:563][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.17.20:563][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.17.20:565][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.17.20:565][ 83]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.17.20:577][ 83]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.17.20:577][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.17.20:577][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.17.20:577][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.17.20:578][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.17.20:578][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.17.20:578][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.17.20:589][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.17.20:589][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.17.20:589][ 83]LogInit: FAudioDevice initialized.
+[2021.06.28-16.17.20:589][ 83]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled_1'.
+[2021.06.28-16.17.20:622][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.17.20:622][ 83]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.17.20:623][ 83]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.17.20
+[2021.06.28-16.17.20:623][ 83]LogWorld: Bringing up level for play took: 0.000595
+[2021.06.28-16.17.20:623][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.28-16.17.20:633][ 83]PIE: Server logged in
+[2021.06.28-16.17.20:636][ 83]PIE: Play in editor total start time 0.106 seconds.
+[2021.06.28-16.17.28:931][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.17.28:931][699]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.17.28:932][699]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.17.28:938][699]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.17.28:938][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.17.28:943][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.17.28:948][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.17.28:970][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.17.28:971][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.17.28:972][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.17.28:989][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.06.28-16.17.29:020][700]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.28-16.17.42:044][870]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.17.42:095][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.06.28-16.17.42:896][930]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.17.42:902][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.17.42:903][930]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:17:42)
+[2021.06.28-16.17.42:903][930]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.17.42:905][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002230s)
+[2021.06.28-16.17.42:906][930]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.17.42:906][930]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2021.06.28-16.17.42:906][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003547s)
+[2021.06.28-16.17.42:932][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.06.28-16.17.42:932][930]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.17.42:932][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.17.42:932][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.17.42:933][930]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.17.42:933][930]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.17.42:935][930]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.17.42:935][930]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.17.42:945][930]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.17.42:946][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.17.42:946][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.17.42:946][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.17.42:946][930]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.17.42:946][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.17.42:946][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.17.42:957][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.17.42:957][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.17.42:957][930]LogInit: FAudioDevice initialized.
+[2021.06.28-16.17.42:957][930]LogAudio: Display: Audio Device (ID: 8) registered with world 'Untitled_1'.
+[2021.06.28-16.17.43:005][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.17.43:005][930]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.17.43:006][930]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.17.43
+[2021.06.28-16.17.43:006][930]LogWorld: Bringing up level for play took: 0.000631
+[2021.06.28-16.17.43:006][930]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.28-16.17.43:016][930]PIE: Server logged in
+[2021.06.28-16.17.43:019][930]PIE: Play in editor total start time 0.117 seconds.
+[2021.06.28-16.17.49:951][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.17.49:951][438]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.17.49:951][438]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.17.49:957][438]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.17.49:957][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.17.49:967][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.17.49:972][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.17.49:995][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.17.49:995][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.17.49:996][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.17.50:014][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.28-16.17.50:042][439]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.28-16.17.55:633][979]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.17.55:877][984]LogEditorTransaction: Undo Add Node
+[2021.06.28-16.17.56:266][  1]LogEditorTransaction: Undo Break Pin Links
+[2021.06.28-16.17.56:642][ 30]LogEditorTransaction: Undo Create Pin Link
+[2021.06.28-16.17.56:975][ 56]LogEditorTransaction: Undo Create Pin Link
+[2021.06.28-16.17.57:341][ 86]LogEditorTransaction: Undo Change Object Pin Value
+[2021.06.28-16.17.57:772][119]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.17.58:925][222]LogEditorTransaction: Undo Add Node
+[2021.06.28-16.18.00:559][373]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.18.02:426][547]LogEditorTransaction: Undo Add Node
+[2021.06.28-16.18.05:148][807]LogEditorTransaction: Undo Resize Node
+[2021.06.28-16.18.05:621][848]LogEditorTransaction: Undo Straighten Connection(s)
+[2021.06.28-16.18.06:141][892]LogEditorTransaction: Undo Resize Node
+[2021.06.28-16.18.06:612][932]LogEditorTransaction: Undo Move Node
+[2021.06.28-16.18.07:093][974]LogEditorTransaction: Undo Create Reroute Node
+[2021.06.28-16.18.07:541][ 12]LogEditorTransaction: Undo Create Reroute Node
+[2021.06.28-16.18.15:694][778]LogEditorTransaction: Redo Create Reroute Node
+[2021.06.28-16.18.16:212][792]LogEditorTransaction: Redo Create Reroute Node
+[2021.06.28-16.18.16:602][825]LogEditorTransaction: Redo Move Node
+[2021.06.28-16.18.17:752][933]LogEditorTransaction: Redo Resize Node
+[2021.06.28-16.18.22:295][338]LogEditorTransaction: Redo Straighten Connection(s)
+[2021.06.28-16.18.22:977][366]LogEditorTransaction: Redo Resize Node
+[2021.06.28-16.22.34:305][267]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.22.34:366][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.06.28-16.22.35:047][322]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.22.35:054][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.22.35:054][322]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:22:35)
+[2021.06.28-16.22.35:054][322]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.22.35:056][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002061s)
+[2021.06.28-16.22.35:057][322]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.22.35:057][322]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2021.06.28-16.22.35:057][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003233s)
+[2021.06.28-16.22.35:083][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.28-16.22.35:084][322]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.22.35:084][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.22.35:084][322]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.22.35:084][322]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.22.35:087][322]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.22.35:087][322]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.22.35:098][322]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.22.35:098][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.22.35:098][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.22.35:098][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.22.35:099][322]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.22.35:099][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.22.35:099][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.22.35:109][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.22.35:110][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.22.35:110][322]LogInit: FAudioDevice initialized.
+[2021.06.28-16.22.35:110][322]LogAudio: Display: Audio Device (ID: 9) registered with world 'Untitled_1'.
+[2021.06.28-16.22.35:157][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.22.35:157][322]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.22.35:158][322]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.22.35
+[2021.06.28-16.22.35:159][322]LogWorld: Bringing up level for play took: 0.000664
+[2021.06.28-16.22.35:159][322]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.28-16.22.35:169][322]PIE: Server logged in
+[2021.06.28-16.22.35:172][322]PIE: Play in editor total start time 0.119 seconds.
+[2021.06.28-16.22.43:291][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.22.43:291][977]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.22.43:291][977]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.22.43:297][977]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.22.43:297][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.22.43:308][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.22.43:313][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.22.43:335][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.22.43:335][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.22.43:336][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.22.43:353][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.06.28-16.22.43:383][978]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.28-16.22.59:295][612]BlueprintLog: New page: Compile SeedWind_Boost
+[2021.06.28-16.22.59:349][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.06.28-16.25.15:107][603]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.25.15:157][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.06.28-16.25.16:944][769]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.25.16:951][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.25.16:951][769]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:25:16)
+[2021.06.28-16.25.16:951][769]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.25.16:953][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001980s)
+[2021.06.28-16.25.16:954][769]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.25.16:954][769]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.06.28-16.25.16:954][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003212s)
+[2021.06.28-16.25.16:980][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.06.28-16.25.16:981][769]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.25.16:981][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.25.16:981][769]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.25.16:981][769]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.25.16:984][769]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.25.16:984][769]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.25.16:994][769]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.25.16:995][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.25.16:995][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.25.16:995][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.25.16:995][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.25.16:995][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.25.16:995][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.25.17:007][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.25.17:007][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.25.17:007][769]LogInit: FAudioDevice initialized.
+[2021.06.28-16.25.17:007][769]LogAudio: Display: Audio Device (ID: 10) registered with world 'Untitled_1'.
+[2021.06.28-16.25.17:034][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.25.17:034][769]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.25.17:035][769]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.25.17
+[2021.06.28-16.25.17:035][769]LogWorld: Bringing up level for play took: 0.000552
+[2021.06.28-16.25.17:035][769]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.06.28-16.25.17:045][769]PIE: Server logged in
+[2021.06.28-16.25.17:048][769]PIE: Play in editor total start time 0.098 seconds.
+[2021.06.28-16.25.25:129][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.25.25:129][414]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.25.25:130][414]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.25.25:135][414]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.25.25:135][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.25.25:141][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.25.25:146][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.25.25:169][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.25.25:169][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.25.25:170][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.25.25:187][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.06.28-16.25.25:215][415]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.06.28-16.26.42:843][661]BlueprintLog: New page: Compile SeedWind_Boost
+[2021.06.28-16.26.42:897][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.28-16.28.10:471][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.06.28-16.28.10:477][990]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.032
+[2021.06.28-16.28.10:477][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost] ([1] browsable assets)...
+[2021.06.28-16.28.10:505][990]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost.SeedWind_Boost]
+[2021.06.28-16.28.10:505][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost]
+[2021.06.28-16.28.10:525][990]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Boost_Auto3326DFB674FA211A38CB21883E7AFE460.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Autosaves/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Boost_Auto3.uasset'
+[2021.06.28-16.28.10:526][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind] ([1] browsable assets)...
+[2021.06.28-16.28.10:547][990]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind.SeedWind]
+[2021.06.28-16.28.10:547][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind]
+[2021.06.28-16.28.10:586][990]LogSavePackage: Moving '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/SeedWind_Auto32814050D4C9E79C7E17AE78C52C8725E.tmp' to '../../../../../../Users/team.braveworld/Desktop/Braveworld/Braveworld/Acorn/Saved/Autosaves/Game/Blueprints/Treebeard/Blueprints/Player/Seeds/SeedWind_Auto3.uasset'
+[2021.06.28-16.28.10:588][990]LogFileHelpers: Auto-saving content packages took 0.111
+[2021.06.28-16.28.42:180][635]BlueprintLog: New page: Compile SeedWind_Boost
+[2021.06.28-16.28.42:230][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.06.28-16.31.38:652][987]BlueprintLog: New page: Compile SeedWind
+[2021.06.28-16.31.38:703][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.06.28-16.31.56:476][680]BlueprintLog: New page: Compile SeedWind_Boost
+[2021.06.28-16.31.56:533][680]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.06.28-16.32.02:118][234]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.28-16.32.02:125][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.28-16.32.02:125][234]PIE: New page: PIE session: Untitled_1 (28 Jun 2021, 18:32:02)
+[2021.06.28-16.32.02:125][234]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.32.02:127][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2021.06.28-16.32.02:128][234]LogAIModule: Creating AISystem for world Untitled_1
+[2021.06.28-16.32.02:128][234]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2021.06.28-16.32.02:128][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003226s)
+[2021.06.28-16.32.02:154][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.06.28-16.32.02:156][234]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.28-16.32.02:156][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.28-16.32.02:156][234]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.28-16.32.02:156][234]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.28-16.32.02:158][234]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.28-16.32.02:159][234]LogAudioMixer: Display: 1: FrontRight
+[2021.06.28-16.32.02:170][234]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.06.28-16.32.02:170][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.28-16.32.02:171][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.28-16.32.02:171][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.28-16.32.02:171][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.28-16.32.02:171][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.28-16.32.02:171][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.28-16.32.02:182][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.28-16.32.02:182][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.28-16.32.02:182][234]LogInit: FAudioDevice initialized.
+[2021.06.28-16.32.02:182][234]LogAudio: Display: Audio Device (ID: 11) registered with world 'Untitled_1'.
+[2021.06.28-16.32.02:224][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.32.02:224][234]LogLoad: Game class is 'TrueGame_C'
+[2021.06.28-16.32.02:226][234]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2021.06.28-17.32.02
+[2021.06.28-16.32.02:226][234]LogWorld: Bringing up level for play took: 0.000786
+[2021.06.28-16.32.02:226][234]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.06.28-16.32.02:236][234]PIE: Server logged in
+[2021.06.28-16.32.02:238][234]PIE: Play in editor total start time 0.114 seconds.
+[2021.06.28-16.32.04:950][447]LogBlueprintUserMessages: [SeedWind_C_1] Hello
+[2021.06.28-16.32.08:721][750]LogBlueprintUserMessages: [SeedWind_C_7] Hello
+[2021.06.28-16.32.09:115][781]LogBlueprintUserMessages: [SeedWind_C_8] Hello
+[2021.06.28-16.32.09:552][816]LogBlueprintUserMessages: [SeedWind_C_9] Hello
+[2021.06.28-16.32.09:728][830]LogBlueprintUserMessages: [SeedWind_C_10] Hello
+[2021.06.28-16.32.09:876][842]LogBlueprintUserMessages: [SeedWind_C_11] Hello
+[2021.06.28-16.32.10:003][852]LogBlueprintUserMessages: [SeedWind_C_12] Hello
+[2021.06.28-16.32.10:626][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.28-16.32.10:626][901]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.06.28-16.32.10:626][901]LogSlate: Window 'Acorn Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.28-16.32.10:631][901]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.28-16.32.10:631][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.32.10:642][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.28-16.32.10:647][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.28-16.32.10:669][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.28-16.32.10:670][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.32.10:671][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.28-16.32.10:688][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.06.28-16.32.10:712][902]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.06.28-16.32.46:348][418]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.28-16.32.46:961][418]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.613 s
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: 
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: Stack: 
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce054d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce03f2141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce03f0db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce03fe88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce0476b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce0474089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4f4fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4f4faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4f51ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4f51ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4f4faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4f51ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:961][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4964a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4963dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4966d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce489252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4967aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4d1977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4d19b2b UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4d4b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4d1a0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4d71e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffce4d71659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ff7a0e2ae49 UE4Editor.exe!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ff7a0e4117c UE4Editor.exe!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ff7a0e4125a UE4Editor.exe!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ff7a0e552bd UE4Editor.exe!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ff7a0e57fea UE4Editor.exe!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffd56467034 KERNEL32.DLL!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: [Callstack] 0x00007ffd567a2651 ntdll.dll!UnknownFunction []
+[2021.06.28-16.32.46:962][418]LogOutputDevice: Error: 
