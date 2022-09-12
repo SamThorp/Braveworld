@@ -1,0 +1,1031 @@
+﻿Log file open, 09/12/22 10:41:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=21176)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Acorn
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "H:\Braveworld\Braveworld 2\Braveworld\Acorn 5.0\Acorn.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="892046c645d9958fe2550cae78ff2f91"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 10.439036
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-E570593A48C53A4AA895428AC23CE2D3
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.12-09.41.24:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.12-09.41.24:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.12-09.41.24:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.12-09.41.24:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.12-09.41.24:518][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.12-09.41.24:519][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.12-09.41.24:520][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.12-09.41.24:615][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.12-09.41.24:616][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.12-09.41.24:616][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.12-09.41.24:616][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.12-09.41.24:884][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     Description : Radeon RX 580 Series
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     SubSysId    : 5171043
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     Revision    : 00e7
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     DedicatedVideoMemory : 8567906304 bytes
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     SharedSystemMemory : 17107179520 bytes
+[2022.09.12-09.41.24:888][  0]LogD3D11RHI:     AdapterLuid : 0 59123
+[2022.09.12-09.41.25:003][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_1)
+[2022.09.12-09.41.25:003][  0]LogD3D11RHI:       8170/0/16314 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 4600
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     DeviceId    : 0412
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     SubSysId    : d0001458
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     Revision    : 0006
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     DedicatedVideoMemory : 117964800 bytes
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     SharedSystemMemory : 2147483648 bytes
+[2022.09.12-09.41.25:004][  0]LogD3D11RHI:     AdapterLuid : 0 66066
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_1)
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     Revision    : 0000
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     SharedSystemMemory : 17107179520 bytes
+[2022.09.12-09.41.25:013][  0]LogD3D11RHI:     AdapterLuid : 0 66028
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:       0/0/16314 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     Description : Radeon RX 580 Series
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     SubSysId    : 5171043
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     Revision    : 00e7
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     DedicatedVideoMemory : 8567906304 bytes
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     SharedSystemMemory : 17107179520 bytes
+[2022.09.12-09.41.25:019][  0]LogD3D11RHI:     AdapterLuid : 0 59123
+[2022.09.12-09.41.25:019][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.12-09.41.25:027][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.12-09.41.25:033][  0]LogHAL: Display: Platform has ~ 32 GB [34214359040 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.12-09.41.25:033][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.12-09.41.25:033][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.12-09.41.25:033][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.12-09.41.25:049][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.12-09.41.25:049][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.12-09.41.25:061][  0]LogInit: Computer: YODA
+[2022.09.12-09.41.25:061][  0]LogInit: User: Cat
+[2022.09.12-09.41.25:061][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.12-09.41.25:061][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.12-09.41.25:061][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.09.12-09.41.25:061][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.12-09.41.25:061][  0]LogMemory: Process Physical Memory: 247.44 MB used, 250.38 MB peak
+[2022.09.12-09.41.25:061][  0]LogMemory: Process Virtual Memory: 181.91 MB used, 181.91 MB peak
+[2022.09.12-09.41.25:061][  0]LogMemory: Physical Memory: 9641.48 MB used,  22987.88 MB free, 32629.36 MB total
+[2022.09.12-09.41.25:061][  0]LogMemory: Virtual Memory: 13509.46 MB used,  51887.89 MB free, 65397.36 MB total
+[2022.09.12-09.41.25:061][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.12-09.41.25:068][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.12-09.41.25:342][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.12-09.41.25:378][  0]LogInit: Using OS detected language (en-US).
+[2022.09.12-09.41.25:378][  0]LogInit: Using OS detected locale (en-GB).
+[2022.09.12-09.41.25:560][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.12-09.41.26:080][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.12-09.41.26:336][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.12-09.41.26:337][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.09.12-09.41.26:337][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.12-09.41.26:337][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.09.12-09.41.26:337][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.09.12-09.41.28:009][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.12-09.41.28:009][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.12-09.41.29:167][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.12-09.41.29:167][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2022.09.12-09.41.29:167][  0]LogWindows: EnumDisplayDevices:
+[2022.09.12-09.41.29:167][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2022.09.12-09.41.29:168][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:1)
+[2022.09.12-09.41.29:169][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.09.12-09.41.29:169][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.09.12-09.41.29:170][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.09.12-09.41.29:171][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.09.12-09.41.29:172][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2022.09.12-09.41.29:172][  0]LogWindows:    7. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.09.12-09.41.29:173][  0]LogWindows:    8. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.09.12-09.41.29:173][  0]LogWindows:    9. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.09.12-09.41.29:174][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:7 
+[2022.09.12-09.41.29:174][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2022.09.12-09.41.29:174][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.5.1 (internal:30.0.15021.11005, unified:30.0.15021.11005)
+[2022.09.12-09.41.29:174][  0]LogD3D11RHI:      Driver Date: 4-28-2022
+[2022.09.12-09.41.29:174][  0]LogRHI: Texture pool is 5182 MB (70% of 7402 MB)
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     Description : Radeon RX 580 Series
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     SubSysId    : 5171043
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     Revision    : 00e7
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     DedicatedVideoMemory : 8567906304 bytes
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     SharedSystemMemory : 17107179520 bytes
+[2022.09.12-09.41.29:254][  0]LogD3D11RHI:     AdapterLuid : 0 59123
+[2022.09.12-09.41.29:338][  0]LogD3D11RHI: Created device via AGS, feature level 11_1, supported extensions fffbf.
+[2022.09.12-09.41.29:338][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.12-09.41.29:338][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.12-09.41.29:338][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.09.12-09.41.29:338][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.09.12-09.41.29:678][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.09.12-09.41.29:770][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Acorn.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/TurnkeyReport_0.log" -log="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/TurnkeyLog_0.log" -project="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Acorn.uproject"  -platform=all'
+[2022.09.12-09.41.29:770][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Acorn.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/TurnkeyReport_0.log" -log="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/TurnkeyLog_0.log" -project="H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Acorn.uproject"  -platform=all" ]
+[2022.09.12-09.41.30:164][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.09.12-09.41.30:164][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.12-09.41.30:406][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.12-09.41.30:407][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.12-09.41.30:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.12-09.41.30:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.12-09.41.30:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.12-09.41.30:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.12-09.41.30:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.12-09.41.30:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.12-09.41.30:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.12-09.41.30:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.12-09.41.30:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.12-09.41.30:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.12-09.41.30:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.12-09.41.30:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.12-09.41.30:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.12-09.41.30:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.12-09.41.30:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.12-09.41.30:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.12-09.41.30:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.12-09.41.30:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.12-09.41.30:798][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.12-09.41.31:012][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.12-09.41.31:030][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.12-09.41.31:030][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.12-09.41.31:030][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.12-09.41.31:030][  0]LogTargetPlatformManager:   PCM
+[2022.09.12-09.41.31:360][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.12-09.41.31:360][  0]LogTargetPlatformManager:   BINKA
+[2022.09.12-09.41.31:360][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.12-09.41.31:360][  0]LogTargetPlatformManager:   OGG
+[2022.09.12-09.41.31:360][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.12-09.41.31:360][  0]LogTargetPlatformManager:   OPUS
+[2022.09.12-09.41.32:181][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.12-09.41.32:216][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.12-09.41.32:217][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.12-09.41.32:293][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.12-09.41.32:293][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.12-09.41.32:402][  0]LogShaderCompilers: Display: Compiling shader autogen file: H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.12-09.41.32:433][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.12-09.41.32:433][  0]LogShaderCompilers: Display: Compiling shader autogen file: H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.12-09.41.32:434][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.12-09.41.32:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.12-09.41.32:466][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.12-09.41.32:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.12-09.41.32:466][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.12-09.41.32:609][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.09.12-09.41.32:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.12-09.41.32:610][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.12-09.41.32:648][  0]LogDerivedDataCache: Speed tests for C:/Users/Cat/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.09.12-09.41.32:649][  0]LogDerivedDataCache: Display: Performance to C:/Users/Cat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.69ms. RandomReadSpeed=50.63MBs, RandomWriteSpeed=80.37MBs. Assigned SpeedClass 'Local'
+[2022.09.12-09.41.32:666][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.12-09.41.32:666][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.12-09.41.32:666][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.12-09.41.32:678][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.12-09.41.32:678][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.12-09.41.32:747][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Intermediate/Shaders/WorkingDirectory/3832/).
+[2022.09.12-09.41.32:747][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cat/AppData/Local/Temp/UnrealShaderWorkingDir/3A6AAFA44277BCD03C7F48BE2C396E36/'.
+[2022.09.12-09.41.32:748][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.12-09.41.32:752][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.09.12-09.41.39:527][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.12-09.41.39:636][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.12-09.41.41:049][  0]LogAssetRegistry: FAssetRegistry took 0.1008 seconds to start up
+[2022.09.12-09.41.41:117][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.12-09.41.45:754][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.12-09.41.46:053][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.12-09.41.46:710][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.12-09.41.46:710][  0]LogDeviceProfileManager: Active device profile: [00000B941F317380][00000B9412B47800 50] WindowsEditor
+[2022.09.12-09.41.46:710][  0]LogDeviceProfileManager: Profiles: [00000B941F316E40][00000B9418ADC800 50] Windows, [00000B941F317380][00000B9412B47800 50] WindowsEditor, [00000B941F3132C0][00000B9417A6A000 50] WindowsServer, [00000B941F315940][00000B9417A0A000 50] WindowsClient, [00000B941F317540][00000B9417AC0000 50] IOS, [00000B941F314600][00000B941F5B0000 50] iPadAir2, [00000B941F313640][00000B941F5B7800 50] IPadPro, [00000B941F316C80][00000B941F5B5000 50] iPadAir3, [00000B941F3139C0][00000B941F5BA000 50] iPadAir4, [00000B941F315E80][00000B941F5BC800 50] iPadMini4, [00000B941F314280][00000B9407725000 50] iPadMini5, [00000B941F314EC0][00000B941F5F0000 50] iPadMini6, [00000B941F31A800][00000B941F5FA000 50] iPhone6S, [00000B941F31AB80][00000B941F5F7800 50] iPhone7, [00000B941F31A480][00000B941F5F5000 50] iPodTouch7, [00000B941F31A100][00000B941F5FC800 50] iPhone6SPlus, [00000B941F313800][00000B941F5B2800 50] iPhone7Plus, [00000B941F3124C0][00000B941F610000 50] iPhoneSE, [00000B941F3194C0][00000B941F615000 50] iPhone8, [00000B941F315240][00000B941F617800 50] iPhone8Plus, [00000B941F313480][00000B941F61A000 50] iPhoneX, [00000B941F314B40][00000B941F61C800 50] iPhoneXS, [00000B941F318500][00000B941F5F2800 50] iPhoneXSMax, [00000B941F316AC0][00000B941F670000 50] iPhoneXR, [00000B941F312F40][00000B941F675000 50] iPhone11, [00000B941F3171C0][00000B941F677800 50] iPhone11Pro, [00000B941F318340][00000B941F67A000 50] iPhone11ProMax, [00000B941F31A9C0][00000B941F67C800 50] iPhoneSE2, [00000B941F314980][00000B941F612800 50] iPhone12Mini, [00000B941F317E00][00000B941F680000 50] iPhone12, [00000B941F3155C0][00000B941F685000 50] iPhone12Pro, [00000B941F3163C0][00000B941F687800 50] iPhone12ProMax, [00000B941F317A80][00000B941F68A000 50] iPhone13Mini, [00000B941F316040][00000B941F68C800 50] iPhone13, [00000B941F319680][00000B941F672800 50] iPhone13Pro, [00000B941F319D80][00000B941F690000 50] iPhone13ProMax, [00000B941F319140][00000B941F695000 50] iPadPro105, [00000B941F311F80][00000B941F697800 50] iPadPro129, [00000B941F319F40][00000B941F69A000 50] iPadPro97, [00000B941F317C40][00000B941F69C800 50] iPadPro2_129, [00000B941F319BC0][00000B941F682800 50] iPad5, [00000B941F313D40][00000B941F6A0000 50] iPad6, [00000B941F318180][00000B941F6A5000 50] iPad7, [00000B941F3178C0][00000B941F6A7800 50] iPad8, [00000B941F319300][00000B941F6AA000 50] iPad9, [00000B941F315B00][00000B941F6AC800 50] iPadPro11, [00000B941F318F80][00000B941F692800 50] iPadPro2_11, [00000B941F315780][00000B941F5D0000 50] iPadPro3_11, [00000B941F318DC0][00000B941F5D5000 50] iPadPro3_129, [00000B941F314440][00000B941F5D7800 50] iPadPro4_129, [00000B941F318880][00000B941F5DA000 50] iPadPro5_129, [00000B941F313100][00000B941F5DC800 50] AppleTV, [00000B941F316900][00000B941F6A2800 50] AppleTV4K, [00000B941F3147C0][00000B941F6C0000 50] TVOS, [00000B941F31CB00][00000B941F6C7800 50] Mac, [00000B941F31CE80][00000B941F6C5000 50] MacEditor, [00000B941F315400][00000B941F6CA000 50] MacClient, [00000B941F317FC0][00000B941F6CC800 50] MacServer, [00000B941F313B80][00000B941F6D0000 50] Linux, [00000B941F316580][00000B941F6D2800 50] LinuxEditor, [00000B941F31B980][00000B941F6D7800 50] LinuxArm64Editor, [00000B941F316740][00000B941F6DA000 50] LinuxArm64, [00000B941F31C400][00000B941F6DC800 50] LinuxClient, [00000B941F31C5C0][00000B941F5D2800 50] LinuxArm64Client, [00000B941F3140C0][00000B941F6D5000 50] LinuxServer, [00000B941F316200][00000B941F6E0000 50] LinuxArm64Server, [00000B941F313F00][00000B941F6E5000 50] Android, [00000B941F31AF00][00000B941F6E7800 50] Android_Preview_OpenGL, [00000B941F312680][00000B941F6EA000 50] Android_Preview_Vulkan, [00000B941F31C940][00000B941F6EC800 50] Android_Low, [00000B941F318C00][00000B941F6C2800 50] Android_Mid, [00000B941F31B280][00000B941F6F0000 50] Android_High, [00000B941F31D900][00000B941F6F5000 50] Android_Default, [00000B941F31BB40][00000B941F6F7800 50] Android_Adreno4xx, [00000B941F318A40][00000B941F6FA000 50] Android_Adreno5xx_Low, [00000B941F31BEC0][00000B941F6FC800 50] Android_Adreno5xx, [00000B941F315080][00000B941F6E2800 50] Android_Adreno6xx, [00000B941F31C780][00000B941F700000 50] Android_Adreno6xx_Vulkan, [00000B941F31AD40][00000B941F705000 50] Android_Adreno7xx, [00000B941F31DAC0][00000B941F707800 50] Android_Adreno7xx_Vulkan, [00000B941F312840][00000B941F70A000 50] Android_Mali_T6xx, [00000B941F31A640][00000B941F70C800 50] Android_Mali_T7xx, [00000B941F31C240][00000B941F6F2800 50] Android_Mali_T8xx, [00000B941F31D740][00000B941F620000 50] Android_Mali_G71, [00000B941F31E8C0][00000B941F625000 50] Android_Mali_G72, [00000B941F31D040][00000B941F627800 50] Android_Mali_G72_Vulkan, [00000B941F31E380][00000B941F62A000 50] Android_Mali_G76, [00000B941F3186C0][00000B941F62C800 50] Android_Mali_G76_Vulkan, [00000B941F31EA80][00000B941F702800 50] Android_Mali_G77, [00000B941F31C080][00000B941F710000 50] Android_Mali_G77_Vulkan, [00000B941F31B0C0][00000B941F715000 50] Android_Mali_G78, [00000B941F31BD00][00000B941F717800 50] Android_Mali_G78_Vulkan, [00000B941F31D580][00000B941F71A000 50] Android_Mali_G710, [00000B941F31F880][00000B941F71C800 50] Android_Mali_G710_Vulkan, [00000B941F31B7C0][00000B941F622800 50] Android_Xclipse_920, [00000B941F31F340][00000B941F720000 50] Android_Xclipse_920_Vulkan, [00000B941F319840][00000B941F725000 50] Android_Vulkan_SM5, [00000B941F314D00][00000B941F727800 50] Android_PowerVR_G6xxx, [00000B941F31FA40][00000B941F72A000 50] Android_PowerVR_GT7xxx, [00000B941F319A00][00000B941F72C800 50] Android_PowerVR_GE8xxx, [00000B941F31DC80][00000B941F712800 50] Android_PowerVR_GM9xxx, [00000B941F31FC00][00000B941F730000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B941F31B600][00000B941F735000 50] Android_TegraK1, [00000B941F750000][00000B941F737800 50] Android_Unknown_Vulkan, [00000B941F752300][00000B941F73A000 50] Oculus_Quest, [00000B941F750A80][00000B941F73C800 50] Oculus_Quest2, [00000B941F751A40][00000B941F722800 50] HoloLens, 
+[2022.09.12-09.41.46:710][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.12-09.41.48:911][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.12-09.41.51:357][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.12-09.41.51:357][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.12-09.41.51:357][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.12-09.41.51:357][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.12-09.41.51:357][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.12-09.41.52:125][  0]LogNetVersion: Acorn 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3738903138)
+[2022.09.12-09.41.54:716][  0]LogSlate: Border
+[2022.09.12-09.41.54:716][  0]LogSlate: BreadcrumbButton
+[2022.09.12-09.41.54:716][  0]LogSlate: Default
+[2022.09.12-09.41.54:716][  0]LogSlate: Icons.Save
+[2022.09.12-09.41.54:716][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.12-09.41.54:716][  0]LogSlate: ListView
+[2022.09.12-09.41.54:716][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.12-09.41.54:716][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.12-09.41.54:716][  0]LogSlate: TableView.DarkRow
+[2022.09.12-09.41.54:716][  0]LogSlate: TableView.Row
+[2022.09.12-09.41.54:716][  0]LogSlate: TreeView
+[2022.09.12-09.42.02:810][  0]SourceControl: Source control is disabled
+[2022.09.12-09.42.03:268][  0]SourceControl: Source control is disabled
+[2022.09.12-09.42.03:268][  0]SourceControl: Source control is disabled
+[2022.09.12-09.42.04:331][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.12-09.42.04:339][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.09.12-09.42.04:339][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.12-09.42.09:261][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 469A56FB4DE9729FF37F2A81E84BC6F0 | Instance: E457EB13474E3880AD38568DEBA3549E (YODA-3832).
+[2022.09.12-09.42.11:281][  0]LogPython: Using Python 3.9.7
+[2022.09.12-09.42.13:716][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.12-09.42.13:800][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.12-09.42.14:552][  0]SourceControl: Source control is disabled
+[2022.09.12-09.42.14:600][  0]SourceControl: Source control is disabled
+[2022.09.12-09.42.14:698][  0]SourceControl: Source control is disabled
+[2022.09.12-09.42.14:760][  0]LogUProjectInfo: Found projects:
+[2022.09.12-09.42.14:783][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.12-09.42.14:785][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.12-09.42.14:786][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.12-09.42.17:909][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.12-09.42.18:176][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.12-09.42.18:279][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.12-09.42.18:280][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.12-09.42.18:977][  0]LogCollectionManager: Loaded 0 collections in 0.011802 seconds
+[2022.09.12-09.42.19:703][  0]LogFileCache: Scanning file cache for directory 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Collections/' took 0.01s
+[2022.09.12-09.42.19:703][  0]LogFileCache: Scanning file cache for directory 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Content/Developers/Cat/Collections/' took 0.01s
+[2022.09.12-09.42.19:703][  0]LogFileCache: Scanning file cache for directory 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Content/Collections/' took 0.00s
+[2022.09.12-09.42.21:696][  0]LogEngine: Initializing Engine...
+[2022.09.12-09.42.21:917][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.009 s
+[2022.09.12-09.42.23:891][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.12-09.42.23:969][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.12-09.42.24:297][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.12-09.42.24:639][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.12-09.42.24:768][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.12-09.42.24:881][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.12-09.42.24:898][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.12-09.42.24:898][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.12-09.42.24:917][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.12-09.42.24:917][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.12-09.42.24:918][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.12-09.42.24:918][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.12-09.42.24:943][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.12-09.42.24:943][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.12-09.42.24:943][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.12-09.42.24:998][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.12-09.42.25:209][  0]LogAudioMixer: Display: Using Audio Hardware Device 6 - VC279 (AMD High Definition Audio Device)
+[2022.09.12-09.42.25:243][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.12-09.42.25:262][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.12-09.42.25:262][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.12-09.42.25:302][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.12-09.42.25:302][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.12-09.42.25:304][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.12-09.42.25:304][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.12-09.42.25:304][  0]LogInit: FAudioDevice initialized.
+[2022.09.12-09.42.25:329][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.12-09.42.25:330][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.12-09.42.25:330][  0]LogInit: Texture streaming: Enabled
+[2022.09.12-09.42.25:501][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.09.12-09.42.25:542][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.12-09.42.25:627][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.12-09.42.25:670][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.12-09.42.25:670][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.12-09.43.21:709][  0]LogLiveCoding: Display: First instance in process group "UE_Acorn_0x02588901", spawning console
+[2022.09.12-09.43.21:709][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.12-09.43.21:709][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.12-09.43.22:194][  0]LogInit: Transaction tracking system initialized
+[2022.09.12-09.43.22:585][  0]BlueprintLog: New page: Editor Load
+[2022.09.12-09.43.24:034][  0]LocalizationService: Localization service is disabled
+[2022.09.12-09.43.24:301][  0]TimingProfiler: Initialize
+[2022.09.12-09.43.24:302][  0]TimingProfiler: OnSessionChanged
+[2022.09.12-09.43.24:302][  0]LoadingProfiler: Initialize
+[2022.09.12-09.43.24:302][  0]LoadingProfiler: OnSessionChanged
+[2022.09.12-09.43.24:308][  0]NetworkingProfiler: Initialize
+[2022.09.12-09.43.24:310][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.12-09.43.24:310][  0]MemoryProfiler: Initialize
+[2022.09.12-09.43.24:310][  0]MemoryProfiler: OnSessionChanged
+[2022.09.12-09.43.25:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.12-09.43.25:405][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.12-09.43.25:406][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.12-09.43.29:372][  0]LogFileCache: Scanning file cache for directory 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Content/' took 0.11s
+[2022.09.12-09.43.29:372][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.12-09.43.29:717][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.12-09.43.29:859][  0]SourceControl: Source control is disabled
+[2022.09.12-09.43.29:872][  0]LogUnrealEdMisc: Loading editor; pre map load, took 213.802
+[2022.09.12-09.43.29:918][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.12-09.43.29:952][  0]LightingResults: New page: Lighting Build
+[2022.09.12-09.43.30:049][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.12-09.43.30:108][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.12-09.43.30:121][  0]MapCheck: New page: Map Check
+[2022.09.12-09.43.30:121][  0]LightingResults: New page: Lighting Build
+[2022.09.12-09.43.30:447][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.12-09.43.30:760][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.09.12-09.43.31:073][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.12-09.43.31:106][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.12-09.43.31:107][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.12-09.43.31:146][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.12-09.43.31:147][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.12-09.43.35:791][  0]LogDerivedDataCache: C:/Users/Cat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.581 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.12-09.43.35:791][  0]LogWorldPartition: Display: WorldPartition initialize took 4.64 sec
+[2022.09.12-09.43.39:011][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.12-09.43.39:097][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.12-09.43.39:118][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.12-09.43.39:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.491ms to complete.
+[2022.09.12-09.43.39:187][  0]LogFileHelpers: Loading map 'OpenWorld' took 9.286
+[2022.09.12-09.43.40:155][  0]LogUnrealEdMisc: Total Editor Startup Time, took 224.087
+[2022.09.12-09.43.40:156][  0]LogShaderCompilers: Display: ================================================
+[2022.09.12-09.43.40:156][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.12-09.43.40:156][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.12-09.43.40:160][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.12-09.43.40:160][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.09.12-09.43.40:160][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.12-09.43.40:161][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.12-09.43.40:161][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.12-09.43.40:161][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.12-09.43.40:161][  0]LogShaderCompilers: Display: ================================================
+[2022.09.12-09.43.40:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.12-09.43.40:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.12-09.43.40:797][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.12-09.43.40:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.12-09.43.41:699][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:699][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:780][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:780][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:804][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:804][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:825][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:825][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:847][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:847][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:852][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:852][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:874][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:875][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:886][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:887][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:892][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:892][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.41:897][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.12-09.43.41:897][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.12-09.43.45:345][  0]LogSlate: Took 0.031835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.12-09.43.45:447][  0]LogSlate: Took 0.029114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.12-09.43.45:489][  0]LogSlate: Took 0.024901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.12-09.43.46:995][  0]LogStall: Startup...
+[2022.09.12-09.43.46:997][  0]LogStall: Startup complete.
+[2022.09.12-09.43.47:047][  0]LogLoad: (Engine Initialization) Total time: 230.99 seconds
+[2022.09.12-09.43.47:047][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.12-09.43.47:143][  0]LogAssetRegistry: Asset discovery search completed in 126.1044 seconds
+[2022.09.12-09.43.47:238][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2022.09.12-09.43.47:562][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.12-09.43.50:785][  9]LogSlate: Took 0.021814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.12-09.44.47:415][179]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek High Definition Audio), InstanceID=1
+[2022.09.12-09.44.47:415][179]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=132
+[2022.09.12-09.44.47:749][179]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{41e30246-d94a-43a3-aacd-6d6af55edfe1}, Name=Speakers (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=195.37
+[2022.09.12-09.44.47:749][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.12-09.44.47:758][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.12-10.27.34:395][985]LogSlate: Took 0.011790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.12-10.27.34:441][985]LogSlate: Took 0.013093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.12-10.28.07:702][839]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.12-10.28.07:710][839]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.12-10.28.07:719][840]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.12-10.29.33:033][562]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.09.12-10.29.33:034][562]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.12-10.29.44:692][674]LogContentBrowser: Attempting asset rename: NewFolder -> Seans_Models
+[2022.09.12-10.33.32:766][514]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.12-10.33.32:781][514]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.12-10.33.32:798][516]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.12-10.33.36:963][964]LogContentBrowser: Attempting asset rename: NewFolder -> Cliffs
+[2022.09.12-10.33.36:964][964]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.12-10.38.04:698][ 24]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff01/Cliff01.obj)
+[2022.09.12-10.38.04:792][ 24]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/Cliff01/Cliff01.obj
+[2022.09.12-10.38.04:827][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.38.06:689][ 24]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.38.06:875][ 24]LogMaterial: Display: Missing cached shadermap for initialShadingGroup in PCD3D_SM5, Default, SM5 (DDC key hash: 0F399E65FA89F262E106352E8B214A9F94B32866), compiling. 
+[2022.09.12-10.38.06:930][ 24]LogStaticMesh: Display: Building static mesh Cliff01...
+[2022.09.12-10.38.07:007][ 24]LogStaticMesh: Built static mesh [0.08s] /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01.Cliff01
+[2022.09.12-10.38.07:172][ 24]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.38.14:578][ 24]LogMeshUtilities: Finished distance field build in 7.6s - 126x126x105 sparse distance field, 1.7Mb total, 0.0Mb always loaded, 57% occupied, 563 triangles, Cliff01
+[2022.09.12-10.38.14:594][ 24]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff01/Cliff01_Cliff01_BaseColor.png)
+[2022.09.12-10.38.14:696][ 24]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff01/Cliff01_Cliff01_Normal.png)
+[2022.09.12-10.38.14:906][ 24]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff01/Cliff01_Cliff01_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.38.22:714][482]LogMeshUtilities: Finished distance field build in 8.1s - 126x126x105 sparse distance field, 1.7Mb total, 0.0Mb always loaded, 57% occupied, 563 triangles, Cliff01
+[2022.09.12-10.38.22:718][482]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_BaseColor.Cliff01_Cliff01_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.38.23:375][522]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_Normal.Cliff01_Cliff01_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.38.23:814][548]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_OcclusionRoughnessMetallic.Cliff01_Cliff01_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.38.24:315][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.12-10.38.24:323][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.025
+[2022.09.12-10.38.24:324][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01] ([1] browsable assets)...
+[2022.09.12-10.38.24:432][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01.Cliff01]
+[2022.09.12-10.38.24:432][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01]
+[2022.09.12-10.38.24:480][569]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.004957 seconds
+[2022.09.12-10.38.25:058][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Auto1
+[2022.09.12-10.38.25:059][569]LogSavePackage: Moving 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Cliff01_Auto194185BD240017D572E24D482E01E4E08.tmp' to 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Auto1.uasset'
+[2022.09.12-10.38.25:060][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_BaseColor] ([1] browsable assets)...
+[2022.09.12-10.38.25:061][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_BaseColor.Cliff01_Cliff01_BaseColor]
+[2022.09.12-10.38.25:061][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_BaseColor]
+[2022.09.12-10.38.25:306][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_BaseColor_Auto1
+[2022.09.12-10.38.25:307][569]LogSavePackage: Moving 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Cliff01_Cliff01_BaseColor_Auto1BAD2BCF54139211D8F13FE8CB9A7E784.tmp' to 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_BaseColor_Auto1.uasset'
+[2022.09.12-10.38.25:308][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_Normal] ([1] browsable assets)...
+[2022.09.12-10.38.25:311][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_Normal.Cliff01_Cliff01_Normal]
+[2022.09.12-10.38.25:311][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_Normal]
+[2022.09.12-10.38.25:501][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_Normal_Auto1
+[2022.09.12-10.38.25:501][569]LogSavePackage: Moving 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Cliff01_Cliff01_Normal_Auto113A176CA4104E16BBAFDBFA748B8F256.tmp' to 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_Normal_Auto1.uasset'
+[2022.09.12-10.38.25:503][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.09.12-10.38.25:508][569]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_OcclusionRoughnessMetallic.Cliff01_Cliff01_OcclusionRoughnessMetallic]
+[2022.09.12-10.38.25:508][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_OcclusionRoughnessMetallic]
+[2022.09.12-10.38.25:697][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_OcclusionRoughnessMetallic_Auto1
+[2022.09.12-10.38.25:697][569]LogSavePackage: Moving 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Cliff01_Cliff01_OcclusionRoughne7589DB4A45F218D7D2B471BA7A312FE0.tmp' to 'H:/Braveworld/Braveworld 2/Braveworld/Acorn 5.0/Saved/Autosaves/Game/Art/Mesh/Seans_Models/Cliffs/Cliff01_Cliff01_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.09.12-10.38.25:699][569]LogFileHelpers: Auto-saving content packages took 1.376
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: ================================================
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 2 distinct outputs (66.67%)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Jobs assigned 4, completed 3 (75.00%)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Time job spent in pending queue: average 0.78 s, longest 3.07 s
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Job execution time: average 3.05 s, max 3.05 s
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Job life time (pending + execution): average 3.07 s, max 3.07
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.07 s
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Average processing rate: 0.98 jobs/sec
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Effective parallelization: 1.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.36% of total time (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display:                                                 FLumenCardVS - 33.33% of total time (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 33.31% of total time (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2022.09.12-10.38.27:479][679]LogShaderCompilers: Display: ================================================
+[2022.09.12-10.39.09:838][500]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.39.09:843][500]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.39.23:035][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff02/Cliff02.obj)
+[2022.09.12-10.39.23:043][267]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/Cliff02/Cliff02.obj
+[2022.09.12-10.39.23:065][267]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.39.24:294][267]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.39.24:320][267]LogStaticMesh: Display: Building static mesh Cliff02...
+[2022.09.12-10.39.24:341][267]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Cliffs/Cliff02.Cliff02
+[2022.09.12-10.39.24:353][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.39.31:802][267]LogMeshUtilities: Finished distance field build in 7.5s - 126x126x105 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 59% occupied, 539 triangles, Cliff02
+[2022.09.12-10.39.31:812][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff02/Cliff02_Cliff02_BaseColor.png)
+[2022.09.12-10.39.31:923][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff02/Cliff02_Cliff02_Normal.png)
+[2022.09.12-10.39.32:121][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff02/Cliff02_Cliff02_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.39.39:992][488]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.39.40:000][488]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.39.40:328][507]LogMeshUtilities: Finished distance field build in 8.5s - 126x126x105 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 59% occupied, 539 triangles, Cliff02
+[2022.09.12-10.39.40:331][507]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff02_Cliff02_BaseColor.Cliff02_Cliff02_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.39.41:163][557]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff02_Cliff02_Normal.Cliff02_Cliff02_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.39.41:582][591]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff02_Cliff02_OcclusionRoughnessMetallic.Cliff02_Cliff02_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.39.47:411][643]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff03/Cliff03.obj)
+[2022.09.12-10.39.47:422][643]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/Cliff03/Cliff03.obj
+[2022.09.12-10.39.47:444][643]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.39.51:173][643]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.39.51:204][643]LogMaterial: Display: Missing cached shadermap for Cliff05_initialShadingGroup in PCD3D_SM5, Default, SM5 (DDC key hash: 7A913466E515D4DF8C7F798A90E54E42A96B38A8), compiling. 
+[2022.09.12-10.39.51:218][643]LogStaticMesh: Display: Building static mesh Cliff03...
+[2022.09.12-10.39.51:240][643]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Cliffs/Cliff03.Cliff03
+[2022.09.12-10.39.51:261][643]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.39.59:691][643]LogMeshUtilities: Finished distance field build in 8.4s - 126x126x105 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 60% occupied, 548 triangles, Cliff03
+[2022.09.12-10.39.59:700][643]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff03/Cliff03_Cliff03_BaseColor.png)
+[2022.09.12-10.39.59:805][643]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff03/Cliff03_Cliff03_Normal.png)
+[2022.09.12-10.39.59:999][643]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff03/Cliff03_Cliff03_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.40.09:128][104]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x105 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 60% occupied, 548 triangles, Cliff03
+[2022.09.12-10.40.09:131][104]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff03_Cliff03_BaseColor.Cliff03_Cliff03_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.40.09:902][147]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff03_Cliff03_Normal.Cliff03_Cliff03_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.40.10:390][174]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff03_Cliff03_OcclusionRoughnessMetallic.Cliff03_Cliff03_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.40.39:713][100]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.40.39:719][100]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.40.48:306][352]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff04/Cliff04.obj)
+[2022.09.12-10.40.48:316][352]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/Cliff04/Cliff04.obj
+[2022.09.12-10.40.48:341][352]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.40.50:647][352]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.40.50:676][352]LogStaticMesh: Display: Building static mesh Cliff04...
+[2022.09.12-10.40.50:699][352]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Cliffs/Cliff04.Cliff04
+[2022.09.12-10.40.50:712][352]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.40.58:698][352]LogMeshUtilities: Finished distance field build in 8.0s - 126x126x105 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 60% occupied, 645 triangles, Cliff04
+[2022.09.12-10.40.58:711][352]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff04/Cliff04_Cliff04_BaseColor.png)
+[2022.09.12-10.40.58:860][352]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff04/Cliff04_Cliff04_Normal.png)
+[2022.09.12-10.40.59:062][352]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/Cliff04/Cliff04_Cliff04_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.41.08:715][382]LogMeshUtilities: Finished distance field build in 9.9s - 126x126x105 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 60% occupied, 645 triangles, Cliff04
+[2022.09.12-10.41.08:716][382]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff04_Cliff04_BaseColor.Cliff04_Cliff04_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.41.09:383][384]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff04_Cliff04_Normal.Cliff04_Cliff04_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.41.09:717][385]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Cliffs/Cliff04_Cliff04_OcclusionRoughnessMetallic.Cliff04_Cliff04_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.41.15:062][400]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.41.15:068][400]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.41.20:481][916]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.12-10.41.20:496][916]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.12-10.41.20:505][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.12-10.41.22:604][147]LogContentBrowser: Attempting asset rename: NewFolder -> Rocks
+[2022.09.12-10.41.22:604][147]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.12-10.43.19:027][774]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderA/BoulderA.obj)
+[2022.09.12-10.43.19:037][774]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/BoulderA/BoulderA.obj
+[2022.09.12-10.43.19:057][774]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.43.20:398][774]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.43.20:422][774]LogMaterial: Display: Missing cached shadermap for defaultMat in PCD3D_SM5, Default, SM5 (DDC key hash: 90094BEE60C0C68F18CA9068166350391B4016ED), compiling. 
+[2022.09.12-10.43.20:427][774]LogFbx: Display: Triangulating static mesh BoulderA2:Group2
+[2022.09.12-10.43.20:505][774]LogStaticMesh: Display: Building static mesh BoulderA...
+[2022.09.12-10.43.20:528][774]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Rocks/BoulderA.BoulderA
+[2022.09.12-10.43.21:089][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderA/BoulderA_BoulderA_Base_BaseColor.png)
+[2022.09.12-10.43.21:247][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderA/BoulderA_BoulderA_Base_Normal.png)
+[2022.09.12-10.43.21:399][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderA/BoulderA_BoulderA_Base_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.43.21:656][777]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderA_BoulderA_Base_BaseColor.BoulderA_BoulderA_Base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.22:202][803]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderA_BoulderA_Base_Normal.BoulderA_BoulderA_Base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.22:731][835]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderA_BoulderA_Base_OcclusionRoughnessMetallic.BoulderA_BoulderA_Base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.24:078][919]LogShaderCompilers: Display: ================================================
+[2022.09.12-10.43.24:078][919]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.12-10.43.24:078][919]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2022.09.12-10.43.24:078][919]LogShaderCompilers: Display: Tracking 11 distinct input hashes that result in 3 distinct outputs (27.27%)
+[2022.09.12-10.43.24:078][919]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.09.12-10.43.24:078][919]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Shaders Compiled: 6
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Jobs assigned 12, completed 11 (91.67%)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Average time worker was idle: 97.37 s
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 3.07 s
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Job execution time: average 2.06 s, max 3.05 s
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Job life time (pending + execution): average 2.54 s, max 3.47
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.20 s
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Average processing rate: 1.34 jobs/sec
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Effective parallelization: 1.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.51 sec, max 1.67 sec, min 1.24 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.50 sec, max 1.78 sec, min 1.24 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.44 sec, max 1.62 sec, min 1.24 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.36 sec, max 0.41 sec, min 0.32 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.20% of total time (compiled    3 times, average 1.51 sec, max 1.67 sec, min 1.24 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.92% of total time (compiled    3 times, average 1.50 sec, max 1.78 sec, min 1.24 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                                 FLumenCardVS - 30.69% of total time (compiled    3 times, average 1.44 sec, max 1.62 sec, min 1.24 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.19% of total time (compiled    2 times, average 0.36 sec, max 0.41 sec, min 0.32 sec)
+[2022.09.12-10.43.24:079][919]LogShaderCompilers: Display: ================================================
+[2022.09.12-10.43.34:179][598]LogDerivedDataCache: C:/Users/Cat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.528 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.12-10.43.52:176][277]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderB.obj)
+[2022.09.12-10.43.52:183][277]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/BoulderB/BoulderB.obj
+[2022.09.12-10.43.52:201][277]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.43.53:750][277]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.43.53:769][277]LogFbx: Display: Triangulating static mesh BoulderB1:Group15794
+[2022.09.12-10.43.53:822][277]LogStaticMesh: Display: Building static mesh BoulderB...
+[2022.09.12-10.43.53:841][277]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Rocks/BoulderB.BoulderB
+[2022.09.12-10.43.54:852][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderB_BoulderB_Base_BaseColor.png)
+[2022.09.12-10.43.55:016][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderB_BoulderB_Base_Normal.png)
+[2022.09.12-10.43.55:179][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderB_BoulderB_Base_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.43.55:312][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderBLP_BoulderBLP_BaseColor.png)
+[2022.09.12-10.43.55:503][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderBLP_BoulderBLP_Normal.png)
+[2022.09.12-10.43.55:628][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderB/BoulderBLP_BoulderBLP_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.43.55:871][277]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderB_BoulderB_Base_BaseColor.BoulderB_BoulderB_Base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.56:376][318]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderB_BoulderB_Base_Normal.BoulderB_BoulderB_Base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.56:849][353]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderB_BoulderB_Base_OcclusionRoughnessMetallic.BoulderB_BoulderB_Base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.57:361][379]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderBLP_BoulderBLP_BaseColor.BoulderBLP_BoulderBLP_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.57:900][410]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderBLP_BoulderBLP_Normal.BoulderBLP_BoulderBLP_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.43.58:368][436]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderBLP_BoulderBLP_OcclusionRoughnessMetallic.BoulderBLP_BoulderBLP_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.10:782][618]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderC.obj)
+[2022.09.12-10.44.10:789][618]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/BoulderC/BoulderC.obj
+[2022.09.12-10.44.10:802][618]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.44.12:320][618]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.44.12:339][618]LogFbx: Display: Triangulating static mesh Group15795
+[2022.09.12-10.44.12:381][618]LogStaticMesh: Display: Building static mesh BoulderC...
+[2022.09.12-10.44.12:398][618]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Rocks/BoulderC.BoulderC
+[2022.09.12-10.44.12:415][618]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.44.12:683][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderC_BoulderC_Base_BaseColor.png)
+[2022.09.12-10.44.12:830][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderC_BoulderC_Base_Normal.png)
+[2022.09.12-10.44.12:943][618]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderC_BoulderC_Base_BaseColor.BoulderC_BoulderC_Base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.12:980][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderC_BoulderC_Base_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.44.13:101][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderCLP_BoulderC_BaseColor.png)
+[2022.09.12-10.44.13:304][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderCLP_BoulderC_Normal.png)
+[2022.09.12-10.44.13:423][618]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderC_BoulderC_Base_Normal.BoulderC_BoulderC_Base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.13:432][618]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/BoulderC/BoulderCLP_BoulderC_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.44.13:892][629]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderC_BoulderC_Base_OcclusionRoughnessMetallic.BoulderC_BoulderC_Base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.14:312][679]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderCLP_BoulderC_BaseColor.BoulderCLP_BoulderC_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.14:903][712]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderCLP_BoulderC_Normal.BoulderCLP_BoulderC_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.15:359][740]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/BoulderCLP_BoulderC_OcclusionRoughnessMetallic.BoulderCLP_BoulderC_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.15:495][752]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.44.15:501][752]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.44.32:279][906]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA ForSubstance_Cluster A_BaseColor.png)
+[2022.09.12-10.44.32:419][906]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterA_ForSubstance_Cluster_A_BaseColor.ClusterA_ForSubstance_Cluster_A_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.32:419][906]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA ForSubstance_Cluster A_Normal.png)
+[2022.09.12-10.44.32:570][906]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA ForSubstance_Cluster A_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.44.32:690][906]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA.obj)
+[2022.09.12-10.44.32:833][906]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/ClusterA/ClusterA.obj
+[2022.09.12-10.44.32:864][906]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterA_ForSubstance_Cluster_A_Normal.ClusterA_ForSubstance_Cluster_A_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.32:865][906]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.44.33:250][906]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterA_ForSubstance_Cluster_A_OcclusionRoughnessMetallic.ClusterA_ForSubstance_Cluster_A_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.34:247][906]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.44.34:271][906]LogMaterial: Display: Missing cached shadermap for _defaultMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0BEFF294B3F24A7CDEB419C8A50144DE330E94F3), compiling. 
+[2022.09.12-10.44.34:288][906]LogStaticMesh: Display: Building static mesh ClusterA...
+[2022.09.12-10.44.34:322][906]LogStaticMesh: Built static mesh [0.03s] /Game/Art/Mesh/Seans_Models/Rocks/ClusterA.ClusterA
+[2022.09.12-10.44.34:339][906]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.44.34:632][906]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA_ClusterA_Base_BaseColor.png)
+[2022.09.12-10.44.34:778][906]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA_ClusterA_Base_Normal.png)
+[2022.09.12-10.44.34:919][906]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterA_ClusterA_Base_BaseColor.ClusterA_ClusterA_Base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.34:919][906]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterA/ClusterA_ClusterA_Base_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.44.35:354][914]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterA_ClusterA_Base_Normal.ClusterA_ClusterA_Base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.35:771][939]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterA_ClusterA_Base_OcclusionRoughnessMetallic.ClusterA_ClusterA_Base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.36:708][  1]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.44.36:714][  1]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.44.47:622][220]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterB/ClusterB.obj)
+[2022.09.12-10.44.47:629][220]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/ClusterB/ClusterB.obj
+[2022.09.12-10.44.47:649][220]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.44.48:839][220]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.44.48:864][220]LogMaterial: Display: Missing cached shadermap for initialShadingGroup in PCD3D_SM5, Default, SM5 (DDC key hash: 957020B97DBC4886D598BDFA29FD600AB9B763B5), compiling. 
+[2022.09.12-10.44.48:869][220]LogFbx: Display: Triangulating static mesh ClusterB:Group15794
+[2022.09.12-10.44.48:944][220]LogStaticMesh: Display: Building static mesh ClusterB...
+[2022.09.12-10.44.48:966][220]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Rocks/ClusterB.ClusterB
+[2022.09.12-10.44.49:210][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterB/ClusterB_ClusterB_Base_BaseColor.png)
+[2022.09.12-10.44.49:367][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterB/ClusterB_ClusterB_Base_Normal.png)
+[2022.09.12-10.44.49:476][220]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterB_ClusterB_Base_BaseColor.ClusterB_ClusterB_Base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.49:519][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/ClusterB/ClusterB_ClusterB_Base_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.44.49:934][223]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterB_ClusterB_Base_Normal.ClusterB_ClusterB_Base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.50:420][248]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/ClusterB_ClusterB_Base_OcclusionRoughnessMetallic.ClusterB_ClusterB_Base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.44.57:381][390]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockA/TallrockA.obj)
+[2022.09.12-10.44.57:393][390]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/TallRockA/TallrockA.obj
+[2022.09.12-10.44.57:411][390]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.44.58:574][390]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.44.58:594][390]LogFbx: Display: Triangulating static mesh TallrockB2:ZBrush_defualt_group
+[2022.09.12-10.44.58:631][390]LogStaticMesh: Display: Building static mesh TallrockA...
+[2022.09.12-10.44.58:650][390]LogStaticMesh: Built static mesh [0.02s] /Game/Art/Mesh/Seans_Models/Rocks/TallrockA.TallrockA
+[2022.09.12-10.44.58:663][390]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.44.59:104][390]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockA/TallrockA_TallrockA_Base_BaseColor.png)
+[2022.09.12-10.44.59:269][390]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockA/TallrockA_TallrockA_Base_Normal.png)
+[2022.09.12-10.44.59:429][390]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockA/TallrockA_TallrockA_Base_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.44.59:550][390]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/TallrockA_TallrockA_Base_BaseColor.TallrockA_TallrockA_Base_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.45.00:073][413]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/TallrockA_TallrockA_Base_Normal.TallrockA_TallrockA_Base_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.45.00:626][444]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/TallrockA_TallrockA_Base_OcclusionRoughnessMetallic.TallrockA_TallrockA_Base_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.45.01:576][504]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.45.01:581][504]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.45.46:412][446]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockB/TallrockB.obj)
+[2022.09.12-10.45.46:419][446]LogFbx: Loading FBX Scene from H:/Braveworld 2022/Seans Models/TallRockB/TallrockB.obj
+[2022.09.12-10.45.46:432][446]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.12-10.45.47:891][446]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.12-10.45.47:911][446]LogFbx: Display: Triangulating static mesh TallrockB:Group15801
+[2022.09.12-10.45.47:937][446]LogStaticMesh: Display: Building static mesh TallrockB...
+[2022.09.12-10.45.47:950][446]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Mesh/Seans_Models/Rocks/TallrockB.TallrockB
+[2022.09.12-10.45.47:962][446]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.12-10.45.48:500][446]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockB/TallRockBLP_TallRockB_BaseColor.png)
+[2022.09.12-10.45.48:674][446]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockB/TallRockBLP_TallRockB_Normal.png)
+[2022.09.12-10.45.48:830][446]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:/Braveworld 2022/Seans Models/TallRockB/TallRockBLP_TallRockB_OcclusionRoughnessMetallic.png)
+[2022.09.12-10.45.49:037][446]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/TallRockBLP_TallRockB_BaseColor.TallRockBLP_TallRockB_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.45.49:587][477]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/TallRockBLP_TallRockB_Normal.TallRockBLP_TallRockB_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.45.50:095][507]LogTexture: Display: Building textures: /Game/Art/Mesh/Seans_Models/Rocks/TallRockBLP_TallRockB_OcclusionRoughnessMetallic.TallRockBLP_TallRockB_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.12-10.45.50:520][537]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.45.50:524][537]LogSlate: Window 'Message Log' being destroyed
+[2022.09.12-10.45.56:150][692]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.12-10.46.30:896][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.12-10.46.32:255][879]LogSlate: Window 'Save Content' being destroyed
